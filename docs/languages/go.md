@@ -6,7 +6,9 @@ title: Top Go Repositories
 
 The most-starred repositories whose primary language is Go.
 
-*Last updated: 2026-09-23 16:35 UTC* | [Back to all rankings](../index.html)
+*Last updated: 2026-09-23 16:38 UTC*
+
+[Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
@@ -14,9 +16,9 @@ The most-starred repositories whose primary language is Go.
 | 2 | [ollama/ollama](https://github.com/ollama/ollama)<br><sub>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</sub> | 181,524 | 17,982 | Go |
 | 3 | [golang/go](https://github.com/golang/go)<br><sub>The Go programming language</sub> | 138,963 | 20,092 | Go |
 | 4 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br><sub>Production-Grade Container Scheduling and Management</sub> | 127,924 | 44,819 | Go |
-| 5 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br><sub>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</sub> | 111,167 | 14,555 | Go |
+| 5 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br><sub>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</sub> | 111,167 | 14,556 | Go |
 | 6 | [fatedier/frp](https://github.com/fatedier/frp)<br><sub>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</sub> | 109,591 | 15,222 | Go |
-| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br><sub>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talkin...</sub> | 107,517 | 6,230 | Go |
+| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br><sub>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talkin...</sub> | 107,518 | 6,230 | Go |
 | 8 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow)<br><sub>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent c...</sub> | 91,226 | 10,813 | Go |
 | 9 | [gohugoio/hugo](https://github.com/gohugoio/hugo)<br><sub>The world’s fastest framework for building websites.</sub> | 89,912 | 8,384 | Go |
 | 10 | [gin-gonic/gin](https://github.com/gin-gonic/gin)<br><sub>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly bet...</sub> | 89,250 | 8,716 | Go |
@@ -56,12 +58,12 @@ The most-starred repositories whose primary language is Go.
 | 44 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)<br><sub>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific...</sub> | 44,050 | 4,280 | Go |
 | 45 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)<br><sub>A golang ebook intro how to build a web with golang</sub> | 43,898 | 10,403 | Go |
 | 46 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)<br><sub>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</sub> | 42,513 | 9,080 | Go |
-| 47 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core)<br><sub>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</sub> | 41,746 | 5,902 | Go |
+| 47 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core)<br><sub>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</sub> | 41,745 | 5,902 | Go |
 | 48 | [pingcap/tidb](https://github.com/pingcap/tidb)<br><sub>TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions...</sub> | 40,577 | 6,244 | Go |
 | 49 | [schollz/croc](https://github.com/schollz/croc)<br><sub>Easily and securely send things from one computer to another :crocodile: :package:</sub> | 40,428 | 1,624 | Go |
 | 50 | [photoprism/photoprism](https://github.com/photoprism/photoprism)<br><sub>AI-Powered Photos App 🌈💎✨</sub> | 40,227 | 2,325 | Go |
 | 51 | [gofiber/fiber](https://github.com/gofiber/fiber)<br><sub>⚡️ Express inspired web framework written in Go</sub> | 40,177 | 2,039 | Go |
-| 52 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeli...</sub> | 40,108 | 2,883 | Go |
+| 52 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeli...</sub> | 40,110 | 2,883 | Go |
 | 53 | [evanw/esbuild](https://github.com/evanw/esbuild)<br><sub>An extremely fast bundler for the web</sub> | 40,068 | 1,345 | Go |
 | 54 | [go-gorm/gorm](https://github.com/go-gorm/gorm)<br><sub>The fantastic ORM library for Golang, aims to be developer friendly</sub> | 39,963 | 4,187 | Go |
 | 55 | [harness/harness](https://github.com/harness/harness)<br><sub>Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Devel...</sub> | 38,425 | 3,404 | Go |
@@ -98,7 +100,7 @@ The most-starred repositories whose primary language is Go.
 | 86 | [grafana/k6](https://github.com/grafana/k6)<br><sub>A modern load testing tool, using Go and JavaScript</sub> | 31,555 | 1,638 | Go |
 | 87 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)<br><sub>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple Y...</sub> | 31,461 | 3,886 | Go |
 | 88 | [abiosoft/colima](https://github.com/abiosoft/colima)<br><sub>Container runtimes on macOS (and Linux) with minimal setup</sub> | 30,955 | 620 | Go |
-| 89 | [chubin/wttr.in](https://github.com/chubin/wttr.in)<br><sub>:partly_sunny: The right way to check the weather</sub> | 30,578 | 1,273 | Go |
+| 89 | [chubin/wttr.in](https://github.com/chubin/wttr.in)<br><sub>:partly_sunny: The right way to check the weather</sub> | 30,579 | 1,273 | Go |
 | 90 | [spf13/viper](https://github.com/spf13/viper)<br><sub>Go configuration with fangs</sub> | 30,466 | 2,277 | Go |
 | 91 | [helm/helm](https://github.com/helm/helm)<br><sub>The Kubernetes Package Manager</sub> | 30,272 | 7,795 | Go |
 | 92 | [opentofu/opentofu](https://github.com/opentofu/opentofu)<br><sub>OpenTofu lets you declaratively manage your cloud infrastructure.</sub> | 30,269 | 1,375 | Go |
@@ -108,5 +110,5 @@ The most-starred repositories whose primary language is Go.
 | 96 | [netbirdio/netbird](https://github.com/netbirdio/netbird)<br><sub>Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular acc...</sub> | 29,460 | 1,697 | Go |
 | 97 | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)<br><sub>Find secrets with Gitleaks 🔑</sub> | 29,451 | 2,239 | Go |
 | 98 | [goharbor/harbor](https://github.com/goharbor/harbor)<br><sub>An open source trusted cloud native registry project that stores, signs, and scans content.</sub> | 29,439 | 5,357 | Go |
-| 99 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora)<br><sub>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a sel...</sub> | 29,277 | 3,943 | Go |
+| 99 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora)<br><sub>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a sel...</sub> | 29,278 | 3,943 | Go |
 | 100 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)<br><sub>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~</sub> | 29,137 | 5,468 | Go |

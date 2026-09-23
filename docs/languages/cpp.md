@@ -6,12 +6,14 @@ title: Top C++ Repositories
 
 The most-starred repositories whose primary language is C++.
 
-*Last updated: 2026-09-23 16:35 UTC* | [Back to all rankings](../index.html)
+*Last updated: 2026-09-23 16:38 UTC*
+
+[Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
 | 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br><sub>An Open Source Machine Learning Framework for Everyone</sub> | 200,266 | 77,073 | C++ |
-| 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)<br><sub>LLM inference in C/C++</sub> | 129,316 | 23,635 | C++ |
+| 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)<br><sub>LLM inference in C/C++</sub> | 129,315 | 23,635 | C++ |
 | 3 | [react/react-native](https://github.com/react/react-native)<br><sub>A framework for building native applications using React</sub> | 126,703 | 25,283 | C++ |
 | 4 | [electron/electron](https://github.com/electron/electron)<br><sub>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</sub> | 123,216 | 17,551 | C++ |
 | 5 | [godotengine/godot](https://github.com/godotengine/godot)<br><sub>Godot Engine – Multi-platform 2D and 3D game engine</sub> | 117,653 | 26,839 | C++ |
@@ -25,8 +27,8 @@ The most-starred repositories whose primary language is C++.
 | 13 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)<br><sub>Truly independent web browser</sub> | 66,282 | 3,165 | C++ |
 | 14 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex)<br><sub>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</sub> | 54,883 | 2,464 | C++ |
 | 15 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)<br><sub>Port of OpenAI's Whisper model in C/C++</sub> | 53,884 | 6,192 | C++ |
-| 16 | [nlohmann/json](https://github.com/nlohmann/json)<br><sub>JSON for Modern C++</sub> | 50,660 | 7,505 | C++ |
-| 17 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br><sub>ClickHouse® is a real-time analytics database management system</sub> | 50,036 | 8,993 | C++ |
+| 16 | [nlohmann/json](https://github.com/nlohmann/json)<br><sub>JSON for Modern C++</sub> | 50,661 | 7,505 | C++ |
+| 17 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br><sub>ClickHouse® is a real-time analytics database management system</sub> | 50,036 | 8,992 | C++ |
 | 18 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br><sub>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</sub> | 49,589 | 2,846 | C++ |
 | 19 | [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)<br><sub>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</sub> | 46,280 | 3,795 | C++ |
 | 20 | [grpc/grpc](https://github.com/grpc/grpc)<br><sub>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</sub> | 45,335 | 11,379 | C++ |
@@ -51,10 +53,10 @@ The most-starred repositories whose primary language is C++.
 | 39 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)<br><sub>Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is ex...</sub> | 33,899 | 1,708 | C++ |
 | 40 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity)<br><sub>The Serenity Operating System 🐞</sub> | 33,850 | 3,544 | C++ |
 | 41 | [microsoft/WSL](https://github.com/microsoft/WSL)<br><sub>Windows Subsystem for Linux</sub> | 33,764 | 1,831 | C++ |
-| 42 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br><sub>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</sub> | 33,725 | 6,070 | C++ |
-| 43 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)<br><sub>Telegram Desktop messaging app</sub> | 32,994 | 7,236 | C++ |
+| 42 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br><sub>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</sub> | 33,724 | 6,070 | C++ |
+| 43 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)<br><sub>Telegram Desktop messaging app</sub> | 32,993 | 7,236 | C++ |
 | 44 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br><sub>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</sub> | 32,944 | 2,555 | C++ |
-| 45 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)<br><sub>Compatibility tool for Steam Play based on Wine and additional components</sub> | 32,869 | 1,624 | C++ |
+| 45 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)<br><sub>Compatibility tool for Steam Play based on Wine and additional components</sub> | 32,869 | 1,625 | C++ |
 | 46 | [facebook/rocksdb](https://github.com/facebook/rocksdb)<br><sub>A library that provides an embeddable, persistent key-value store for fast storage.</sub> | 32,125 | 6,935 | C++ |
 | 47 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)<br><sub>Android real-time display control software</sub> | 32,078 | 3,782 | C++ |
 | 48 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)<br><sub>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic...</sub> | 31,940 | 4,524 | C++ |
@@ -78,7 +80,7 @@ The most-starred repositories whose primary language is C++.
 | 66 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)<br><sub>An open autonomous driving platform</sub> | 26,832 | 9,955 | C++ |
 | 67 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)<br><sub>DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on device...</sub> | 26,775 | 4,074 | C++ |
 | 68 | [typesense/typesense](https://github.com/typesense/typesense)<br><sub>Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tole...</sub> | 26,583 | 974 | C++ |
-| 69 | [google/flatbuffers](https://github.com/google/flatbuffers)<br><sub>FlatBuffers: Memory Efficient Serialization Library</sub> | 26,493 | 3,672 | C++ |
+| 69 | [google/flatbuffers](https://github.com/google/flatbuffers)<br><sub>FlatBuffers: Memory Efficient Serialization Library</sub> | 26,493 | 3,673 | C++ |
 | 70 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br><sub>WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and...</sub> | 26,447 | 1,799 | C++ |
 | 71 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)<br><sub>Distribute and run LLMs with a single file.</sub> | 26,036 | 1,610 | C++ |
 | 72 | [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)<br><sub>📚 Modern C++ Tutorial: C++11 to C++26 On the Fly \| https://changkun.de/modern-cpp/</sub> | 25,834 | 3,124 | C++ |

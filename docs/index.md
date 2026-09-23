@@ -6,7 +6,7 @@ title: GitHub Top Repositories
 
 Daily rankings of the most popular repositories on GitHub, generated automatically from the GitHub API.
 
-*Last updated: 2026-09-23 16:35 UTC*
+*Last updated: 2026-09-23 16:38 UTC*
 
 ## Overall
 
@@ -17,8 +17,8 @@ Daily rankings of the most popular repositories on GitHub, generated automatical
 
 | Language | #1 Repository | Stars |
 |---|---|---:|
-| [JavaScript](languages/javascript.html) | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 265,995 |
-| [Python](languages/python.html) | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 482,522 |
+| [JavaScript](languages/javascript.html) | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 265,997 |
+| [Python](languages/python.html) | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 482,523 |
 | [Go](languages/go.html) | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 185,272 |
 | [Rust](languages/rust.html) | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,287 |
 | [C++](languages/cpp.html) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,266 |

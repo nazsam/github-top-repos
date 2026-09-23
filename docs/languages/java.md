@@ -6,14 +6,16 @@ title: Top Java Repositories
 
 The most-starred repositories whose primary language is Java.
 
-*Last updated: 2026-09-23 16:35 UTC* | [Back to all rankings](../index.html)
+*Last updated: 2026-09-23 16:38 UTC*
+
+[Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
 | 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo)<br><sub>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS...</sub> | 130,417 | 15,513 | Java |
 | 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br><sub>Design patterns implemented in Java</sub> | 94,719 | 27,369 | Java |
-| 3 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,827 | 29,836 | Java |
-| 4 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,484 | 42,840 | Java |
+| 3 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,828 | 29,836 | Java |
+| 4 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,484 | 42,841 | Java |
 | 5 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 79,488 | 8,834 | Java |
 | 6 | [doocs/advanced-java](https://github.com/doocs/advanced-java)<br><sub>😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服...</sub> | 79,127 | 19,150 | Java |
 | 7 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch)<br><sub>Free and Open Source, Distributed, RESTful Search Engine</sub> | 77,967 | 26,081 | Java |
@@ -62,7 +64,7 @@ The most-starred repositories whose primary language is Java.
 | 50 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)<br><sub>Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab...</sub> | 29,179 | 8,478 | Java |
 | 51 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry)<br><sub>The automation tower defense RTS</sub> | 29,089 | 3,791 | Java |
 | 52 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)<br><sub>循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Securi...</sub> | 28,943 | 8,078 | Java |
-| 53 | [kestra-io/kestra](https://github.com/kestra-io/kestra)<br><sub>Event Driven Orchestration & Scheduling Platform for Mission Critical Applications</sub> | 28,306 | 3,031 | Java |
+| 53 | [kestra-io/kestra](https://github.com/kestra-io/kestra)<br><sub>Event Driven Orchestration & Scheduling Platform for Mission Critical Applications</sub> | 28,306 | 3,032 | Java |
 | 54 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)<br><sub>Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and...</sub> | 28,184 | 3,038 | Java |
 | 55 | [alibaba/druid](https://github.com/alibaba/druid)<br><sub>阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池</sub> | 28,178 | 8,556 | Java |
 | 56 | [lenve/vhr](https://github.com/lenve/vhr)<br><sub>微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。</sub> | 28,057 | 10,150 | Java |

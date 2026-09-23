@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-23 16:35 UTC",
+  "updated": "2026-09-23 16:38 UTC",
   "rankings": {
     "most-starred": [
       {
         "full_name": "codecrafters-io/build-your-own-x",
         "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-        "stargazers_count": 548989,
-        "forks_count": 51599,
+        "stargazers_count": 548990,
+        "forks_count": 51600,
         "language": "Markdown"
       },
       {
@@ -19,7 +19,7 @@
       {
         "full_name": "public-apis/public-apis",
         "html_url": "https://github.com/public-apis/public-apis",
-        "stargazers_count": 482521,
+        "stargazers_count": 482523,
         "forks_count": 53288,
         "language": "Python"
       },
@@ -47,14 +47,14 @@
       {
         "full_name": "donnemartin/system-design-primer",
         "html_url": "https://github.com/donnemartin/system-design-primer",
-        "stargazers_count": 371426,
+        "stargazers_count": 371428,
         "forks_count": 58584,
         "language": "Python"
       },
       {
         "full_name": "nilbuild/developer-roadmap",
         "html_url": "https://github.com/nilbuild/developer-roadmap",
-        "stargazers_count": 367967,
+        "stargazers_count": 367966,
         "forks_count": 44984,
         "language": "TypeScript"
       },
@@ -68,7 +68,7 @@
       {
         "full_name": "vinta/awesome-python",
         "html_url": "https://github.com/vinta/awesome-python",
-        "stargazers_count": 322511,
+        "stargazers_count": 322512,
         "forks_count": 28789,
         "language": "Python"
       },
@@ -103,14 +103,14 @@
       {
         "full_name": "mattpocock/skills",
         "html_url": "https://github.com/mattpocock/skills",
-        "stargazers_count": 268346,
+        "stargazers_count": 268348,
         "forks_count": 22626,
         "language": "Shell"
       },
       {
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
-        "stargazers_count": 265995,
+        "stargazers_count": 265997,
         "forks_count": 39745,
         "language": "JavaScript"
       },
@@ -131,8 +131,8 @@
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
-        "stargazers_count": 248322,
-        "forks_count": 52459,
+        "stargazers_count": 248323,
+        "forks_count": 52460,
         "language": "Python"
       },
       {
@@ -145,7 +145,7 @@
       {
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stargazers_count": 234205,
+        "stargazers_count": 234206,
         "forks_count": 28135,
         "language": "TypeScript"
       },
@@ -159,7 +159,7 @@
       {
         "full_name": "multica-ai/andrej-karpathy-skills",
         "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stargazers_count": 214779,
+        "stargazers_count": 214780,
         "forks_count": 21701,
         "language": null
       },
@@ -181,7 +181,7 @@
         "full_name": "ossu/computer-science",
         "html_url": "https://github.com/ossu/computer-science",
         "stargazers_count": 209397,
-        "forks_count": 25905,
+        "forks_count": 25906,
         "language": "HTML"
       },
       {
@@ -222,7 +222,7 @@
       {
         "full_name": "yt-dlp/yt-dlp",
         "html_url": "https://github.com/yt-dlp/yt-dlp",
-        "stargazers_count": 193165,
+        "stargazers_count": 193166,
         "forks_count": 16762,
         "language": "Python"
       },
@@ -230,13 +230,13 @@
         "full_name": "microsoft/vscode",
         "html_url": "https://github.com/microsoft/vscode",
         "stargazers_count": 192820,
-        "forks_count": 42970,
+        "forks_count": 42971,
         "language": "TypeScript"
       },
       {
         "full_name": "massgravel/Microsoft-Activation-Scripts",
         "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-        "stargazers_count": 191690,
+        "stargazers_count": 191691,
         "forks_count": 18230,
         "language": "Batchfile"
       },
@@ -292,7 +292,7 @@
       {
         "full_name": "firecrawl/firecrawl",
         "html_url": "https://github.com/firecrawl/firecrawl",
-        "stargazers_count": 183735,
+        "stargazers_count": 183738,
         "forks_count": 9901,
         "language": "TypeScript"
       },
@@ -390,7 +390,7 @@
       {
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
-        "stargazers_count": 154328,
+        "stargazers_count": 154329,
         "forks_count": 24902,
         "language": "Shell"
       },
@@ -418,7 +418,7 @@
       {
         "full_name": "anthropics/claude-code",
         "html_url": "https://github.com/anthropics/claude-code",
-        "stargazers_count": 147768,
+        "stargazers_count": 147769,
         "forks_count": 24185,
         "language": "TypeScript"
       },
@@ -432,14 +432,14 @@
       {
         "full_name": "clash-verge-rev/clash-verge-rev",
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-        "stargazers_count": 146807,
+        "stargazers_count": 146808,
         "forks_count": 10545,
         "language": "Rust"
       },
       {
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
-        "stargazers_count": 144879,
+        "stargazers_count": 144880,
         "forks_count": 7756,
         "language": "JavaScript"
       },
@@ -461,7 +461,7 @@
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
         "stargazers_count": 142408,
-        "forks_count": 32611,
+        "forks_count": 32612,
         "language": "JavaScript"
       },
       {
@@ -495,7 +495,7 @@
       {
         "full_name": "microsoft/PowerToys",
         "html_url": "https://github.com/microsoft/PowerToys",
-        "stargazers_count": 138939,
+        "stargazers_count": 138940,
         "forks_count": 8598,
         "language": "C"
       },
@@ -523,7 +523,7 @@
       {
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
-        "stargazers_count": 135553,
+        "stargazers_count": 135555,
         "forks_count": 9289,
         "language": "Rust"
       },
@@ -558,14 +558,14 @@
       {
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-        "stargazers_count": 130076,
+        "stargazers_count": 130079,
         "forks_count": 13837,
         "language": "Python"
       },
       {
         "full_name": "ggml-org/llama.cpp",
         "html_url": "https://github.com/ggml-org/llama.cpp",
-        "stargazers_count": 129316,
+        "stargazers_count": 129315,
         "forks_count": 23635,
         "language": "C++"
       },
@@ -614,7 +614,7 @@
       {
         "full_name": "rustdesk/rustdesk",
         "html_url": "https://github.com/rustdesk/rustdesk",
-        "stargazers_count": 124350,
+        "stargazers_count": 124351,
         "forks_count": 19230,
         "language": "Rust"
       },
@@ -629,7 +629,7 @@
         "full_name": "nodejs/node",
         "html_url": "https://github.com/nodejs/node",
         "stargazers_count": 122050,
-        "forks_count": 37528,
+        "forks_count": 37529,
         "language": "JavaScript"
       },
       {
@@ -643,7 +643,7 @@
         "full_name": "Graphify-Labs/graphify",
         "html_url": "https://github.com/Graphify-Labs/graphify",
         "stargazers_count": 120819,
-        "forks_count": 11655,
+        "forks_count": 11656,
         "language": "Python"
       },
       {
@@ -677,7 +677,7 @@
       {
         "full_name": "VoltAgent/awesome-design-md",
         "html_url": "https://github.com/VoltAgent/awesome-design-md",
-        "stargazers_count": 117483,
+        "stargazers_count": 117484,
         "forks_count": 13161,
         "language": null
       },
@@ -729,7 +729,7 @@
         "full_name": "firstcontributions/first-contributions",
         "html_url": "https://github.com/firstcontributions/first-contributions",
         "stargazers_count": 56051,
-        "forks_count": 109882,
+        "forks_count": 109881,
         "language": null
       },
       {
@@ -743,7 +743,7 @@
         "full_name": "TheOdinProject/css-exercises",
         "html_url": "https://github.com/TheOdinProject/css-exercises",
         "stargazers_count": 2718,
-        "forks_count": 94081,
+        "forks_count": 94080,
         "language": "HTML"
       },
       {
@@ -868,7 +868,7 @@
       {
         "full_name": "donnemartin/system-design-primer",
         "html_url": "https://github.com/donnemartin/system-design-primer",
-        "stargazers_count": 371426,
+        "stargazers_count": 371428,
         "forks_count": 58584,
         "language": "Python"
       },
@@ -910,7 +910,7 @@
       {
         "full_name": "public-apis/public-apis",
         "html_url": "https://github.com/public-apis/public-apis",
-        "stargazers_count": 482521,
+        "stargazers_count": 482523,
         "forks_count": 53288,
         "language": "Python"
       },
@@ -924,15 +924,15 @@
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
-        "stargazers_count": 248322,
-        "forks_count": 52459,
+        "stargazers_count": 248323,
+        "forks_count": 52460,
         "language": "Python"
       },
       {
         "full_name": "codecrafters-io/build-your-own-x",
         "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-        "stargazers_count": 548989,
-        "forks_count": 51599,
+        "stargazers_count": 548990,
+        "forks_count": 51600,
         "language": "Markdown"
       },
       {
@@ -988,7 +988,7 @@
         "full_name": "nvim-lua/kickstart.nvim",
         "html_url": "https://github.com/nvim-lua/kickstart.nvim",
         "stargazers_count": 31502,
-        "forks_count": 46554,
+        "forks_count": 46553,
         "language": "Lua"
       },
       {
@@ -1008,7 +1008,7 @@
       {
         "full_name": "nilbuild/developer-roadmap",
         "html_url": "https://github.com/nilbuild/developer-roadmap",
-        "stargazers_count": 367967,
+        "stargazers_count": 367966,
         "forks_count": 44984,
         "language": "TypeScript"
       },
@@ -1037,14 +1037,14 @@
         "full_name": "microsoft/vscode",
         "html_url": "https://github.com/microsoft/vscode",
         "stargazers_count": 192820,
-        "forks_count": 42970,
+        "forks_count": 42971,
         "language": "TypeScript"
       },
       {
         "full_name": "spring-projects/spring-boot",
         "html_url": "https://github.com/spring-projects/spring-boot",
         "stargazers_count": 81484,
-        "forks_count": 42840,
+        "forks_count": 42841,
         "language": "Java"
       },
       {
@@ -1071,7 +1071,7 @@
       {
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
-        "stargazers_count": 265995,
+        "stargazers_count": 265997,
         "forks_count": 39745,
         "language": "JavaScript"
       },
@@ -1114,7 +1114,7 @@
         "full_name": "nodejs/node",
         "html_url": "https://github.com/nodejs/node",
         "stargazers_count": 122050,
-        "forks_count": 37528,
+        "forks_count": 37529,
         "language": "JavaScript"
       },
       {
@@ -1149,7 +1149,7 @@
         "full_name": "python/cpython",
         "html_url": "https://github.com/python/cpython",
         "stargazers_count": 77238,
-        "forks_count": 36106,
+        "forks_count": 36107,
         "language": "Python"
       },
       {
@@ -1212,7 +1212,7 @@
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
         "stargazers_count": 142408,
-        "forks_count": 32611,
+        "forks_count": 32612,
         "language": "JavaScript"
       },
       {
@@ -1295,7 +1295,7 @@
       {
         "full_name": "pytorch/pytorch",
         "html_url": "https://github.com/pytorch/pytorch",
-        "stargazers_count": 103196,
+        "stargazers_count": 103197,
         "forks_count": 30062,
         "language": "Python"
       },
@@ -1323,7 +1323,7 @@
       {
         "full_name": "vinta/awesome-python",
         "html_url": "https://github.com/vinta/awesome-python",
-        "stargazers_count": 322511,
+        "stargazers_count": 322512,
         "forks_count": 28789,
         "language": "Python"
       },
@@ -1358,7 +1358,7 @@
       {
         "full_name": "deepseek-ai/deepseek-harness",
         "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stargazers_count": 234205,
+        "stargazers_count": 234206,
         "forks_count": 28135,
         "language": "TypeScript"
       },
@@ -1409,7 +1409,7 @@
       {
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
-        "stargazers_count": 265995,
+        "stargazers_count": 265997,
         "forks_count": 39745,
         "language": "JavaScript"
       },
@@ -1444,7 +1444,7 @@
       {
         "full_name": "DietrichGebert/ponytail",
         "html_url": "https://github.com/DietrichGebert/ponytail",
-        "stargazers_count": 144879,
+        "stargazers_count": 144880,
         "forks_count": 7756,
         "language": "JavaScript"
       },
@@ -1452,7 +1452,7 @@
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
         "stargazers_count": 142408,
-        "forks_count": 32611,
+        "forks_count": 32612,
         "language": "JavaScript"
       },
       {
@@ -1466,7 +1466,7 @@
         "full_name": "nodejs/node",
         "html_url": "https://github.com/nodejs/node",
         "stargazers_count": 122050,
-        "forks_count": 37528,
+        "forks_count": 37529,
         "language": "JavaScript"
       },
       {
@@ -1528,8 +1528,8 @@
       {
         "full_name": "Leonxlnx/taste-skill",
         "html_url": "https://github.com/Leonxlnx/taste-skill",
-        "stargazers_count": 89538,
-        "forks_count": 6087,
+        "stargazers_count": 89539,
+        "forks_count": 6088,
         "language": "JavaScript"
       },
       {
@@ -1571,7 +1571,7 @@
         "full_name": "career-ops-hq/career-ops",
         "html_url": "https://github.com/career-ops-hq/career-ops",
         "stargazers_count": 72503,
-        "forks_count": 13637,
+        "forks_count": 13638,
         "language": "JavaScript"
       },
       {
@@ -1591,7 +1591,7 @@
       {
         "full_name": "pbakaus/impeccable",
         "html_url": "https://github.com/pbakaus/impeccable",
-        "stargazers_count": 70187,
+        "stargazers_count": 70188,
         "forks_count": 4265,
         "language": "JavaScript"
       },
@@ -1913,7 +1913,7 @@
       {
         "full_name": "Unitech/pm2",
         "html_url": "https://github.com/Unitech/pm2",
-        "stargazers_count": 43295,
+        "stargazers_count": 43296,
         "forks_count": 2727,
         "language": "JavaScript"
       },
@@ -1927,7 +1927,7 @@
       {
         "full_name": "bilawalsidhu/gods-eye-view",
         "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stargazers_count": 41716,
+        "stargazers_count": 41715,
         "forks_count": 8482,
         "language": "JavaScript"
       },
@@ -2111,7 +2111,7 @@
       {
         "full_name": "public-apis/public-apis",
         "html_url": "https://github.com/public-apis/public-apis",
-        "stargazers_count": 482522,
+        "stargazers_count": 482523,
         "forks_count": 53288,
         "language": "Python"
       },
@@ -2125,14 +2125,14 @@
       {
         "full_name": "donnemartin/system-design-primer",
         "html_url": "https://github.com/donnemartin/system-design-primer",
-        "stargazers_count": 371427,
+        "stargazers_count": 371428,
         "forks_count": 58584,
         "language": "Python"
       },
       {
         "full_name": "vinta/awesome-python",
         "html_url": "https://github.com/vinta/awesome-python",
-        "stargazers_count": 322511,
+        "stargazers_count": 322512,
         "forks_count": 28789,
         "language": "Python"
       },
@@ -2146,7 +2146,7 @@
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
-        "stargazers_count": 248322,
+        "stargazers_count": 248323,
         "forks_count": 52460,
         "language": "Python"
       },
@@ -2160,7 +2160,7 @@
       {
         "full_name": "yt-dlp/yt-dlp",
         "html_url": "https://github.com/yt-dlp/yt-dlp",
-        "stargazers_count": 193165,
+        "stargazers_count": 193166,
         "forks_count": 16762,
         "language": "Python"
       },
@@ -2258,7 +2258,7 @@
       {
         "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
         "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-        "stargazers_count": 130076,
+        "stargazers_count": 130079,
         "forks_count": 13837,
         "language": "Python"
       },
@@ -2273,7 +2273,7 @@
         "full_name": "Graphify-Labs/graphify",
         "html_url": "https://github.com/Graphify-Labs/graphify",
         "stargazers_count": 120819,
-        "forks_count": 11655,
+        "forks_count": 11656,
         "language": "Python"
       },
       {
@@ -2307,7 +2307,7 @@
       {
         "full_name": "pytorch/pytorch",
         "html_url": "https://github.com/pytorch/pytorch",
-        "stargazers_count": 103196,
+        "stargazers_count": 103197,
         "forks_count": 30062,
         "language": "Python"
       },
@@ -2335,7 +2335,7 @@
       {
         "full_name": "karpathy/autoresearch",
         "html_url": "https://github.com/karpathy/autoresearch",
-        "stargazers_count": 96650,
+        "stargazers_count": 96651,
         "forks_count": 13521,
         "language": "Python"
       },
@@ -2384,7 +2384,7 @@
       {
         "full_name": "odysseus-dev/odysseus",
         "html_url": "https://github.com/odysseus-dev/odysseus",
-        "stargazers_count": 87554,
+        "stargazers_count": 87555,
         "forks_count": 949,
         "language": "Python"
       },
@@ -2419,8 +2419,8 @@
       {
         "full_name": "D4Vinci/Scrapling",
         "html_url": "https://github.com/D4Vinci/Scrapling",
-        "stargazers_count": 83142,
-        "forks_count": 8474,
+        "stargazers_count": 83143,
+        "forks_count": 8475,
         "language": "Python"
       },
       {
@@ -2454,7 +2454,7 @@
       {
         "full_name": "opendatalab/MinerU",
         "html_url": "https://github.com/opendatalab/MinerU",
-        "stargazers_count": 80533,
+        "stargazers_count": 80534,
         "forks_count": 6722,
         "language": "Python"
       },
@@ -2490,7 +2490,7 @@
         "full_name": "python/cpython",
         "html_url": "https://github.com/python/cpython",
         "stargazers_count": 77238,
-        "forks_count": 36106,
+        "forks_count": 36107,
         "language": "Python"
       },
       {
@@ -2552,7 +2552,7 @@
       {
         "full_name": "headroomlabs-ai/headroom",
         "html_url": "https://github.com/headroomlabs-ai/headroom",
-        "stargazers_count": 73617,
+        "stargazers_count": 73618,
         "forks_count": 5682,
         "language": "Python"
       },
@@ -2608,7 +2608,7 @@
       {
         "full_name": "xtekky/gpt4free",
         "html_url": "https://github.com/xtekky/gpt4free",
-        "stargazers_count": 66726,
+        "stargazers_count": 66727,
         "forks_count": 13500,
         "language": "Python"
       },
@@ -2657,7 +2657,7 @@
       {
         "full_name": "usestrix/strix",
         "html_url": "https://github.com/usestrix/strix",
-        "stargazers_count": 64326,
+        "stargazers_count": 64327,
         "forks_count": 7036,
         "language": "Python"
       },
@@ -2699,7 +2699,7 @@
       {
         "full_name": "jingyaogong/minimind",
         "html_url": "https://github.com/jingyaogong/minimind",
-        "stargazers_count": 62302,
+        "stargazers_count": 62303,
         "forks_count": 8100,
         "language": "Python"
       },
@@ -2713,7 +2713,7 @@
       {
         "full_name": "RVC-Boss/GPT-SoVITS",
         "html_url": "https://github.com/RVC-Boss/GPT-SoVITS",
-        "stargazers_count": 62092,
+        "stargazers_count": 62094,
         "forks_count": 6681,
         "language": "Python"
       },
@@ -2842,7 +2842,7 @@
         "full_name": "microsoft/TypeScript",
         "html_url": "https://github.com/microsoft/TypeScript",
         "stargazers_count": 111167,
-        "forks_count": 14555,
+        "forks_count": 14556,
         "language": "Go"
       },
       {
@@ -2855,7 +2855,7 @@
       {
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
-        "stargazers_count": 107517,
+        "stargazers_count": 107518,
         "forks_count": 6230,
         "language": "Go"
       },
@@ -3135,7 +3135,7 @@
       {
         "full_name": "XTLS/Xray-core",
         "html_url": "https://github.com/XTLS/Xray-core",
-        "stargazers_count": 41746,
+        "stargazers_count": 41745,
         "forks_count": 5902,
         "language": "Go"
       },
@@ -3170,7 +3170,7 @@
       {
         "full_name": "alibaba/open-code-review",
         "html_url": "https://github.com/alibaba/open-code-review",
-        "stargazers_count": 40108,
+        "stargazers_count": 40110,
         "forks_count": 2883,
         "language": "Go"
       },
@@ -3429,7 +3429,7 @@
       {
         "full_name": "chubin/wttr.in",
         "html_url": "https://github.com/chubin/wttr.in",
-        "stargazers_count": 30578,
+        "stargazers_count": 30579,
         "forks_count": 1273,
         "language": "Go"
       },
@@ -3499,7 +3499,7 @@
       {
         "full_name": "Tencent/WeKnora",
         "html_url": "https://github.com/Tencent/WeKnora",
-        "stargazers_count": 29277,
+        "stargazers_count": 29278,
         "forks_count": 3943,
         "language": "Go"
       },
@@ -3522,14 +3522,14 @@
       {
         "full_name": "clash-verge-rev/clash-verge-rev",
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-        "stargazers_count": 146807,
+        "stargazers_count": 146808,
         "forks_count": 10545,
         "language": "Rust"
       },
       {
         "full_name": "farion1231/cc-switch",
         "html_url": "https://github.com/farion1231/cc-switch",
-        "stargazers_count": 135553,
+        "stargazers_count": 135555,
         "forks_count": 9289,
         "language": "Rust"
       },
@@ -3543,7 +3543,7 @@
       {
         "full_name": "rustdesk/rustdesk",
         "html_url": "https://github.com/rustdesk/rustdesk",
-        "stargazers_count": 124350,
+        "stargazers_count": 124351,
         "forks_count": 19230,
         "language": "Rust"
       },
@@ -3599,7 +3599,7 @@
       {
         "full_name": "rtk-ai/rtk",
         "html_url": "https://github.com/rtk-ai/rtk",
-        "stargazers_count": 81553,
+        "stargazers_count": 81554,
         "forks_count": 5159,
         "language": "Rust"
       },
@@ -3614,7 +3614,7 @@
         "full_name": "BurntSushi/ripgrep",
         "html_url": "https://github.com/BurntSushi/ripgrep",
         "stargazers_count": 68542,
-        "forks_count": 3308,
+        "forks_count": 3309,
         "language": "Rust"
       },
       {
@@ -3683,7 +3683,7 @@
       {
         "full_name": "rust-unofficial/awesome-rust",
         "html_url": "https://github.com/rust-unofficial/awesome-rust",
-        "stargazers_count": 59509,
+        "stargazers_count": 59510,
         "forks_count": 3632,
         "language": "Rust"
       },
@@ -3760,8 +3760,8 @@
       {
         "full_name": "juspay/hyperswitch",
         "html_url": "https://github.com/juspay/hyperswitch",
-        "stargazers_count": 43797,
-        "forks_count": 5276,
+        "stargazers_count": 43799,
+        "forks_count": 5277,
         "language": "Rust"
       },
       {
@@ -3928,8 +3928,8 @@
       {
         "full_name": "block/buzz",
         "html_url": "https://github.com/block/buzz",
-        "stargazers_count": 34082,
-        "forks_count": 4502,
+        "stargazers_count": 34084,
+        "forks_count": 4503,
         "language": "Rust"
       },
       {
@@ -4048,7 +4048,7 @@
         "full_name": "ankitects/anki",
         "html_url": "https://github.com/ankitects/anki",
         "stargazers_count": 31461,
-        "forks_count": 3256,
+        "forks_count": 3257,
         "language": "Rust"
       },
       {
@@ -4082,7 +4082,7 @@
       {
         "full_name": "sunface/rust-course",
         "html_url": "https://github.com/sunface/rust-course",
-        "stargazers_count": 30966,
+        "stargazers_count": 30967,
         "forks_count": 2594,
         "language": "Rust"
       },
@@ -4224,7 +4224,7 @@
       {
         "full_name": "ggml-org/llama.cpp",
         "html_url": "https://github.com/ggml-org/llama.cpp",
-        "stargazers_count": 129316,
+        "stargazers_count": 129315,
         "forks_count": 23635,
         "language": "C++"
       },
@@ -4322,7 +4322,7 @@
       {
         "full_name": "nlohmann/json",
         "html_url": "https://github.com/nlohmann/json",
-        "stargazers_count": 50660,
+        "stargazers_count": 50661,
         "forks_count": 7505,
         "language": "C++"
       },
@@ -4330,7 +4330,7 @@
         "full_name": "ClickHouse/ClickHouse",
         "html_url": "https://github.com/ClickHouse/ClickHouse",
         "stargazers_count": 50036,
-        "forks_count": 8993,
+        "forks_count": 8992,
         "language": "C++"
       },
       {
@@ -4504,14 +4504,14 @@
       {
         "full_name": "FreeCAD/FreeCAD",
         "html_url": "https://github.com/FreeCAD/FreeCAD",
-        "stargazers_count": 33725,
+        "stargazers_count": 33724,
         "forks_count": 6070,
         "language": "C++"
       },
       {
         "full_name": "telegramdesktop/tdesktop",
         "html_url": "https://github.com/telegramdesktop/tdesktop",
-        "stargazers_count": 32994,
+        "stargazers_count": 32993,
         "forks_count": 7236,
         "language": "C++"
       },
@@ -4526,7 +4526,7 @@
         "full_name": "ValveSoftware/Proton",
         "html_url": "https://github.com/ValveSoftware/Proton",
         "stargazers_count": 32869,
-        "forks_count": 1624,
+        "forks_count": 1625,
         "language": "C++"
       },
       {
@@ -4694,7 +4694,7 @@
         "full_name": "google/flatbuffers",
         "html_url": "https://github.com/google/flatbuffers",
         "stargazers_count": 26493,
-        "forks_count": 3672,
+        "forks_count": 3673,
         "language": "C++"
       },
       {
@@ -4933,7 +4933,7 @@
       {
         "full_name": "macrozheng/mall",
         "html_url": "https://github.com/macrozheng/mall",
-        "stargazers_count": 84827,
+        "stargazers_count": 84828,
         "forks_count": 29836,
         "language": "Java"
       },
@@ -4941,7 +4941,7 @@
         "full_name": "spring-projects/spring-boot",
         "html_url": "https://github.com/spring-projects/spring-boot",
         "stargazers_count": 81484,
-        "forks_count": 42840,
+        "forks_count": 42841,
         "language": "Java"
       },
       {
@@ -5284,7 +5284,7 @@
         "full_name": "kestra-io/kestra",
         "html_url": "https://github.com/kestra-io/kestra",
         "stargazers_count": 28306,
-        "forks_count": 3031,
+        "forks_count": 3032,
         "language": "Java"
       },
       {
