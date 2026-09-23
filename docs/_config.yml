@@ -1,0 +1,5 @@
+title: GitHub Top Repositories
+description: Daily rankings of the most starred and forked repositories on GitHub
+theme: jekyll-theme-cayman
+exclude:
+  - data.json
