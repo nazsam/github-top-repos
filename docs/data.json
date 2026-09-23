@@ -1,0 +1,5621 @@
+{
+  "updated": "2026-09-23 16:35 UTC",
+  "rankings": {
+    "most-starred": [
+      {
+        "full_name": "codecrafters-io/build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "stargazers_count": 548989,
+        "forks_count": 51599,
+        "language": "Markdown"
+      },
+      {
+        "full_name": "sindresorhus/awesome",
+        "html_url": "https://github.com/sindresorhus/awesome",
+        "stargazers_count": 509313,
+        "forks_count": 37010,
+        "language": null
+      },
+      {
+        "full_name": "public-apis/public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "stargazers_count": 482521,
+        "forks_count": 53288,
+        "language": "Python"
+      },
+      {
+        "full_name": "freeCodeCamp/freeCodeCamp",
+        "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "stargazers_count": 456035,
+        "forks_count": 46953,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "EbookFoundation/free-programming-books",
+        "html_url": "https://github.com/EbookFoundation/free-programming-books",
+        "stargazers_count": 397517,
+        "forks_count": 66826,
+        "language": "Python"
+      },
+      {
+        "full_name": "openclaw/openclaw",
+        "html_url": "https://github.com/openclaw/openclaw",
+        "stargazers_count": 390327,
+        "forks_count": 82112,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "donnemartin/system-design-primer",
+        "html_url": "https://github.com/donnemartin/system-design-primer",
+        "stargazers_count": 371426,
+        "forks_count": 58584,
+        "language": "Python"
+      },
+      {
+        "full_name": "nilbuild/developer-roadmap",
+        "html_url": "https://github.com/nilbuild/developer-roadmap",
+        "stargazers_count": 367967,
+        "forks_count": 44984,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "jwasham/coding-interview-university",
+        "html_url": "https://github.com/jwasham/coding-interview-university",
+        "stargazers_count": 361760,
+        "forks_count": 84903,
+        "language": null
+      },
+      {
+        "full_name": "vinta/awesome-python",
+        "html_url": "https://github.com/vinta/awesome-python",
+        "stargazers_count": 322511,
+        "forks_count": 28789,
+        "language": "Python"
+      },
+      {
+        "full_name": "awesome-selfhosted/awesome-selfhosted",
+        "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "stargazers_count": 321236,
+        "forks_count": 15079,
+        "language": null
+      },
+      {
+        "full_name": "obra/superpowers",
+        "html_url": "https://github.com/obra/superpowers",
+        "stargazers_count": 290541,
+        "forks_count": 26002,
+        "language": "Shell"
+      },
+      {
+        "full_name": "practical-tutorials/project-based-learning",
+        "html_url": "https://github.com/practical-tutorials/project-based-learning",
+        "stargazers_count": 284348,
+        "forks_count": 36363,
+        "language": "Python"
+      },
+      {
+        "full_name": "996icu/996.ICU",
+        "html_url": "https://github.com/996icu/996.ICU",
+        "stargazers_count": 277203,
+        "forks_count": 20699,
+        "language": null
+      },
+      {
+        "full_name": "mattpocock/skills",
+        "html_url": "https://github.com/mattpocock/skills",
+        "stargazers_count": 268346,
+        "forks_count": 22626,
+        "language": "Shell"
+      },
+      {
+        "full_name": "affaan-m/ECC",
+        "html_url": "https://github.com/affaan-m/ECC",
+        "stargazers_count": 265995,
+        "forks_count": 39745,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "react/react",
+        "html_url": "https://github.com/react/react",
+        "stargazers_count": 250669,
+        "forks_count": 51396,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "torvalds/linux",
+        "html_url": "https://github.com/torvalds/linux",
+        "stargazers_count": 249902,
+        "forks_count": 65371,
+        "language": "C"
+      },
+      {
+        "full_name": "NousResearch/hermes-agent",
+        "html_url": "https://github.com/NousResearch/hermes-agent",
+        "stargazers_count": 248322,
+        "forks_count": 52459,
+        "language": "Python"
+      },
+      {
+        "full_name": "trimstray/the-book-of-secret-knowledge",
+        "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+        "stargazers_count": 245504,
+        "forks_count": 14382,
+        "language": null
+      },
+      {
+        "full_name": "deepseek-ai/deepseek-harness",
+        "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+        "stargazers_count": 234205,
+        "forks_count": 28135,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "TheAlgorithms/Python",
+        "html_url": "https://github.com/TheAlgorithms/Python",
+        "stargazers_count": 224908,
+        "forks_count": 51117,
+        "language": "Python"
+      },
+      {
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "stargazers_count": 214779,
+        "forks_count": 21701,
+        "language": null
+      },
+      {
+        "full_name": "vuejs/vue",
+        "html_url": "https://github.com/vuejs/vue",
+        "stargazers_count": 212823,
+        "forks_count": 33724,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "anomalyco/opencode",
+        "html_url": "https://github.com/anomalyco/opencode",
+        "stargazers_count": 209615,
+        "forks_count": 27656,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "ossu/computer-science",
+        "html_url": "https://github.com/ossu/computer-science",
+        "stargazers_count": 209397,
+        "forks_count": 25905,
+        "language": "HTML"
+      },
+      {
+        "full_name": "n8n-io/n8n",
+        "html_url": "https://github.com/n8n-io/n8n",
+        "stargazers_count": 205771,
+        "forks_count": 60863,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "DigitalPlatDev/FreeDomain",
+        "html_url": "https://github.com/DigitalPlatDev/FreeDomain",
+        "stargazers_count": 200809,
+        "forks_count": 4410,
+        "language": "Markdown"
+      },
+      {
+        "full_name": "tensorflow/tensorflow",
+        "html_url": "https://github.com/tensorflow/tensorflow",
+        "stargazers_count": 200266,
+        "forks_count": 77073,
+        "language": "C++"
+      },
+      {
+        "full_name": "trekhleb/javascript-algorithms",
+        "html_url": "https://github.com/trekhleb/javascript-algorithms",
+        "stargazers_count": 196796,
+        "forks_count": 31027,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "ultraworkers/claw-code",
+        "html_url": "https://github.com/ultraworkers/claw-code",
+        "stargazers_count": 195287,
+        "forks_count": 108426,
+        "language": "Rust"
+      },
+      {
+        "full_name": "yt-dlp/yt-dlp",
+        "html_url": "https://github.com/yt-dlp/yt-dlp",
+        "stargazers_count": 193165,
+        "forks_count": 16762,
+        "language": "Python"
+      },
+      {
+        "full_name": "microsoft/vscode",
+        "html_url": "https://github.com/microsoft/vscode",
+        "stargazers_count": 192820,
+        "forks_count": 42970,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "massgravel/Microsoft-Activation-Scripts",
+        "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+        "stargazers_count": 191690,
+        "forks_count": 18230,
+        "language": "Batchfile"
+      },
+      {
+        "full_name": "ohmyzsh/ohmyzsh",
+        "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+        "stargazers_count": 189887,
+        "forks_count": 27298,
+        "language": "Shell"
+      },
+      {
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stargazers_count": 187512,
+        "forks_count": 45998,
+        "language": "Python"
+      },
+      {
+        "full_name": "jackfrued/Python-100-Days",
+        "html_url": "https://github.com/jackfrued/Python-100-Days",
+        "stargazers_count": 186822,
+        "forks_count": 55757,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "microsoft/markitdown",
+        "html_url": "https://github.com/microsoft/markitdown",
+        "stargazers_count": 186615,
+        "forks_count": 13757,
+        "language": "Python"
+      },
+      {
+        "full_name": "CyC2018/CS-Notes",
+        "html_url": "https://github.com/CyC2018/CS-Notes",
+        "stargazers_count": 186247,
+        "forks_count": 50731,
+        "language": null
+      },
+      {
+        "full_name": "avelino/awesome-go",
+        "html_url": "https://github.com/avelino/awesome-go",
+        "stargazers_count": 185272,
+        "forks_count": 13580,
+        "language": "Go"
+      },
+      {
+        "full_name": "getify/You-Dont-Know-JS",
+        "html_url": "https://github.com/getify/You-Dont-Know-JS",
+        "stargazers_count": 184943,
+        "forks_count": 33411,
+        "language": null
+      },
+      {
+        "full_name": "firecrawl/firecrawl",
+        "html_url": "https://github.com/firecrawl/firecrawl",
+        "stargazers_count": 183735,
+        "forks_count": 9901,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "ollama/ollama",
+        "html_url": "https://github.com/ollama/ollama",
+        "stargazers_count": 181524,
+        "forks_count": 17982,
+        "language": "Go"
+      },
+      {
+        "full_name": "flutter/flutter",
+        "html_url": "https://github.com/flutter/flutter",
+        "stargazers_count": 179059,
+        "forks_count": 31808,
+        "language": "Dart"
+      },
+      {
+        "full_name": "521xueweihan/HelloGitHub",
+        "html_url": "https://github.com/521xueweihan/HelloGitHub",
+        "stargazers_count": 178286,
+        "forks_count": 12849,
+        "language": "Python"
+      },
+      {
+        "full_name": "anthropics/skills",
+        "html_url": "https://github.com/anthropics/skills",
+        "stargazers_count": 177792,
+        "forks_count": 21065,
+        "language": "Python"
+      },
+      {
+        "full_name": "github/gitignore",
+        "html_url": "https://github.com/github/gitignore",
+        "stargazers_count": 175886,
+        "forks_count": 82184,
+        "language": null
+      },
+      {
+        "full_name": "twbs/bootstrap",
+        "html_url": "https://github.com/twbs/bootstrap",
+        "stargazers_count": 174892,
+        "forks_count": 78580,
+        "language": "MDX"
+      },
+      {
+        "full_name": "f/prompts.chat",
+        "html_url": "https://github.com/f/prompts.chat",
+        "stargazers_count": 171096,
+        "forks_count": 21982,
+        "language": "HTML"
+      },
+      {
+        "full_name": "huggingface/transformers",
+        "html_url": "https://github.com/huggingface/transformers",
+        "stargazers_count": 166563,
+        "forks_count": 34663,
+        "language": "Python"
+      },
+      {
+        "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+        "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "stargazers_count": 165083,
+        "forks_count": 31272,
+        "language": "Python"
+      },
+      {
+        "full_name": "jlevy/the-art-of-command-line",
+        "html_url": "https://github.com/jlevy/the-art-of-command-line",
+        "stargazers_count": 162492,
+        "forks_count": 14826,
+        "language": null
+      },
+      {
+        "full_name": "Snailclimb/JavaGuide",
+        "html_url": "https://github.com/Snailclimb/JavaGuide",
+        "stargazers_count": 158840,
+        "forks_count": 46140,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "langgenius/dify",
+        "html_url": "https://github.com/langgenius/dify",
+        "stargazers_count": 156979,
+        "forks_count": 24739,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "langflow-ai/langflow",
+        "html_url": "https://github.com/langflow-ai/langflow",
+        "stargazers_count": 155178,
+        "forks_count": 10128,
+        "language": "Python"
+      },
+      {
+        "full_name": "msitarzewski/agency-agents",
+        "html_url": "https://github.com/msitarzewski/agency-agents",
+        "stargazers_count": 154328,
+        "forks_count": 24902,
+        "language": "Shell"
+      },
+      {
+        "full_name": "open-webui/open-webui",
+        "html_url": "https://github.com/open-webui/open-webui",
+        "stargazers_count": 152922,
+        "forks_count": 22372,
+        "language": "Python"
+      },
+      {
+        "full_name": "Genymobile/scrcpy",
+        "html_url": "https://github.com/Genymobile/scrcpy",
+        "stargazers_count": 150261,
+        "forks_count": 13797,
+        "language": "C"
+      },
+      {
+        "full_name": "airbnb/javascript",
+        "html_url": "https://github.com/airbnb/javascript",
+        "stargazers_count": 148261,
+        "forks_count": 26563,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "anthropics/claude-code",
+        "html_url": "https://github.com/anthropics/claude-code",
+        "stargazers_count": 147768,
+        "forks_count": 24185,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "langchain-ai/langchain",
+        "html_url": "https://github.com/langchain-ai/langchain",
+        "stargazers_count": 146931,
+        "forks_count": 24582,
+        "language": "Python"
+      },
+      {
+        "full_name": "clash-verge-rev/clash-verge-rev",
+        "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+        "stargazers_count": 146807,
+        "forks_count": 10545,
+        "language": "Rust"
+      },
+      {
+        "full_name": "DietrichGebert/ponytail",
+        "html_url": "https://github.com/DietrichGebert/ponytail",
+        "stargazers_count": 144879,
+        "forks_count": 7756,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stargazers_count": 143832,
+        "forks_count": 34814,
+        "language": null
+      },
+      {
+        "full_name": "yangshun/tech-interview-handbook",
+        "html_url": "https://github.com/yangshun/tech-interview-handbook",
+        "stargazers_count": 142888,
+        "forks_count": 16837,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stargazers_count": 142408,
+        "forks_count": 32611,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "ytdl-org/youtube-dl",
+        "html_url": "https://github.com/ytdl-org/youtube-dl",
+        "stargazers_count": 141324,
+        "forks_count": 10660,
+        "language": "Python"
+      },
+      {
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "stargazers_count": 139542,
+        "forks_count": 20501,
+        "language": "Python"
+      },
+      {
+        "full_name": "iptv-org/iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stargazers_count": 139359,
+        "forks_count": 8118,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "golang/go",
+        "html_url": "https://github.com/golang/go",
+        "stargazers_count": 138963,
+        "forks_count": 20092,
+        "language": "Go"
+      },
+      {
+        "full_name": "microsoft/PowerToys",
+        "html_url": "https://github.com/microsoft/PowerToys",
+        "stargazers_count": 138939,
+        "forks_count": 8598,
+        "language": "C"
+      },
+      {
+        "full_name": "github/spec-kit",
+        "html_url": "https://github.com/github/spec-kit",
+        "stargazers_count": 138546,
+        "forks_count": 12410,
+        "language": "Python"
+      },
+      {
+        "full_name": "ripienaar/free-for-dev",
+        "html_url": "https://github.com/ripienaar/free-for-dev",
+        "stargazers_count": 138060,
+        "forks_count": 14563,
+        "language": "HTML"
+      },
+      {
+        "full_name": "labuladong/fucking-algorithm",
+        "html_url": "https://github.com/labuladong/fucking-algorithm",
+        "stargazers_count": 135983,
+        "forks_count": 23546,
+        "language": "Markdown"
+      },
+      {
+        "full_name": "farion1231/cc-switch",
+        "html_url": "https://github.com/farion1231/cc-switch",
+        "stargazers_count": 135553,
+        "forks_count": 9289,
+        "language": "Rust"
+      },
+      {
+        "full_name": "Comfy-Org/ComfyUI",
+        "html_url": "https://github.com/Comfy-Org/ComfyUI",
+        "stargazers_count": 134688,
+        "forks_count": 15949,
+        "language": "Python"
+      },
+      {
+        "full_name": "garrytan/gstack",
+        "html_url": "https://github.com/garrytan/gstack",
+        "stargazers_count": 134006,
+        "forks_count": 19966,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "excalidraw/excalidraw",
+        "html_url": "https://github.com/excalidraw/excalidraw",
+        "stargazers_count": 132727,
+        "forks_count": 15433,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "krahets/hello-algo",
+        "html_url": "https://github.com/krahets/hello-algo",
+        "stargazers_count": 130417,
+        "forks_count": 15513,
+        "language": "Java"
+      },
+      {
+        "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+        "stargazers_count": 130076,
+        "forks_count": 13837,
+        "language": "Python"
+      },
+      {
+        "full_name": "ggml-org/llama.cpp",
+        "html_url": "https://github.com/ggml-org/llama.cpp",
+        "stargazers_count": 129316,
+        "forks_count": 23635,
+        "language": "C++"
+      },
+      {
+        "full_name": "Chalarangelo/30-seconds-of-code",
+        "html_url": "https://github.com/Chalarangelo/30-seconds-of-code",
+        "stargazers_count": 129193,
+        "forks_count": 12484,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "kubernetes/kubernetes",
+        "html_url": "https://github.com/kubernetes/kubernetes",
+        "stargazers_count": 127924,
+        "forks_count": 44819,
+        "language": "Go"
+      },
+      {
+        "full_name": "react/react-native",
+        "html_url": "https://github.com/react/react-native",
+        "stargazers_count": 126703,
+        "forks_count": 25283,
+        "language": "C++"
+      },
+      {
+        "full_name": "openai/codex",
+        "html_url": "https://github.com/openai/codex",
+        "stargazers_count": 126153,
+        "forks_count": 19647,
+        "language": "Rust"
+      },
+      {
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stargazers_count": 125317,
+        "forks_count": 19477,
+        "language": "Python"
+      },
+      {
+        "full_name": "shadcn-ui/ui",
+        "html_url": "https://github.com/shadcn-ui/ui",
+        "stargazers_count": 124470,
+        "forks_count": 10935,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "rustdesk/rustdesk",
+        "html_url": "https://github.com/rustdesk/rustdesk",
+        "stargazers_count": 124350,
+        "forks_count": 19230,
+        "language": "Rust"
+      },
+      {
+        "full_name": "electron/electron",
+        "html_url": "https://github.com/electron/electron",
+        "stargazers_count": 123216,
+        "forks_count": 17551,
+        "language": "C++"
+      },
+      {
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stargazers_count": 122050,
+        "forks_count": 37528,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Hack-with-Github/Awesome-Hacking",
+        "html_url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+        "stargazers_count": 121049,
+        "forks_count": 10772,
+        "language": null
+      },
+      {
+        "full_name": "Graphify-Labs/graphify",
+        "html_url": "https://github.com/Graphify-Labs/graphify",
+        "stargazers_count": 120819,
+        "forks_count": 11655,
+        "language": "Python"
+      },
+      {
+        "full_name": "microsoft/generative-ai-for-beginners",
+        "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "stargazers_count": 120369,
+        "forks_count": 63363,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "justjavac/free-programming-books-zh_CN",
+        "html_url": "https://github.com/justjavac/free-programming-books-zh_CN",
+        "stargazers_count": 119075,
+        "forks_count": 28268,
+        "language": null
+      },
+      {
+        "full_name": "rust-lang/rust",
+        "html_url": "https://github.com/rust-lang/rust",
+        "stargazers_count": 119071,
+        "forks_count": 16329,
+        "language": "Rust"
+      },
+      {
+        "full_name": "godotengine/godot",
+        "html_url": "https://github.com/godotengine/godot",
+        "stargazers_count": 117653,
+        "forks_count": 26839,
+        "language": "C++"
+      },
+      {
+        "full_name": "VoltAgent/awesome-design-md",
+        "html_url": "https://github.com/VoltAgent/awesome-design-md",
+        "stargazers_count": 117483,
+        "forks_count": 13161,
+        "language": null
+      },
+      {
+        "full_name": "2dust/v2rayN",
+        "html_url": "https://github.com/2dust/v2rayN",
+        "stargazers_count": 116798,
+        "forks_count": 15972,
+        "language": "C#"
+      },
+      {
+        "full_name": "browser-use/browser-use",
+        "html_url": "https://github.com/browser-use/browser-use",
+        "stargazers_count": 116059,
+        "forks_count": 12775,
+        "language": "Python"
+      },
+      {
+        "full_name": "mrdoob/three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stargazers_count": 115800,
+        "forks_count": 36561,
+        "language": "JavaScript"
+      }
+    ],
+    "most-forked": [
+      {
+        "full_name": "jtleek/datasharing",
+        "html_url": "https://github.com/jtleek/datasharing",
+        "stargazers_count": 6761,
+        "forks_count": 241799,
+        "language": null
+      },
+      {
+        "full_name": "octocat/Spoon-Knife",
+        "html_url": "https://github.com/octocat/Spoon-Knife",
+        "stargazers_count": 14052,
+        "forks_count": 159534,
+        "language": "HTML"
+      },
+      {
+        "full_name": "rdpeng/ProgrammingAssignment2",
+        "html_url": "https://github.com/rdpeng/ProgrammingAssignment2",
+        "stargazers_count": 892,
+        "forks_count": 143315,
+        "language": "R"
+      },
+      {
+        "full_name": "firstcontributions/first-contributions",
+        "html_url": "https://github.com/firstcontributions/first-contributions",
+        "stargazers_count": 56051,
+        "forks_count": 109882,
+        "language": null
+      },
+      {
+        "full_name": "ultraworkers/claw-code",
+        "html_url": "https://github.com/ultraworkers/claw-code",
+        "stargazers_count": 195287,
+        "forks_count": 108426,
+        "language": "Rust"
+      },
+      {
+        "full_name": "TheOdinProject/css-exercises",
+        "html_url": "https://github.com/TheOdinProject/css-exercises",
+        "stargazers_count": 2718,
+        "forks_count": 94081,
+        "language": "HTML"
+      },
+      {
+        "full_name": "Pierian-Data/Complete-Python-3-Bootcamp",
+        "html_url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+        "stargazers_count": 29784,
+        "forks_count": 87198,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "SmartThingsCommunity/SmartThingsPublic",
+        "html_url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
+        "stargazers_count": 2663,
+        "forks_count": 86396,
+        "language": "Groovy"
+      },
+      {
+        "full_name": "jwasham/coding-interview-university",
+        "html_url": "https://github.com/jwasham/coding-interview-university",
+        "stargazers_count": 361760,
+        "forks_count": 84903,
+        "language": null
+      },
+      {
+        "full_name": "github/gitignore",
+        "html_url": "https://github.com/github/gitignore",
+        "stargazers_count": 175886,
+        "forks_count": 82184,
+        "language": null
+      },
+      {
+        "full_name": "openclaw/openclaw",
+        "html_url": "https://github.com/openclaw/openclaw",
+        "stargazers_count": 390327,
+        "forks_count": 82112,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "twbs/bootstrap",
+        "html_url": "https://github.com/twbs/bootstrap",
+        "stargazers_count": 174892,
+        "forks_count": 78580,
+        "language": "MDX"
+      },
+      {
+        "full_name": "tensorflow/tensorflow",
+        "html_url": "https://github.com/tensorflow/tensorflow",
+        "stargazers_count": 200266,
+        "forks_count": 77073,
+        "language": "C++"
+      },
+      {
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "html_url": "https://github.com/k1tbyte/Wand-Enhancer",
+        "stargazers_count": 28845,
+        "forks_count": 73785,
+        "language": "C#"
+      },
+      {
+        "full_name": "nightscout/cgm-remote-monitor",
+        "html_url": "https://github.com/nightscout/cgm-remote-monitor",
+        "stargazers_count": 2827,
+        "forks_count": 73382,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "github/docs",
+        "html_url": "https://github.com/github/docs",
+        "stargazers_count": 20874,
+        "forks_count": 68817,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "EbookFoundation/free-programming-books",
+        "html_url": "https://github.com/EbookFoundation/free-programming-books",
+        "stargazers_count": 397517,
+        "forks_count": 66826,
+        "language": "Python"
+      },
+      {
+        "full_name": "RikkaApps/websites",
+        "html_url": "https://github.com/RikkaApps/websites",
+        "stargazers_count": 445,
+        "forks_count": 66169,
+        "language": "Vue"
+      },
+      {
+        "full_name": "torvalds/linux",
+        "html_url": "https://github.com/torvalds/linux",
+        "stargazers_count": 249902,
+        "forks_count": 65371,
+        "language": "C"
+      },
+      {
+        "full_name": "microsoft/generative-ai-for-beginners",
+        "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "stargazers_count": 120369,
+        "forks_count": 63363,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "n8n-io/n8n",
+        "html_url": "https://github.com/n8n-io/n8n",
+        "stargazers_count": 205771,
+        "forks_count": 60863,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "digitalinnovationone/dio-lab-open-source",
+        "html_url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+        "stargazers_count": 8664,
+        "forks_count": 60041,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "ChatGPTNextWeb/NextChat",
+        "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
+        "stargazers_count": 88805,
+        "forks_count": 58996,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "donnemartin/system-design-primer",
+        "html_url": "https://github.com/donnemartin/system-design-primer",
+        "stargazers_count": 371426,
+        "forks_count": 58584,
+        "language": "Python"
+      },
+      {
+        "full_name": "opencv/opencv",
+        "html_url": "https://github.com/opencv/opencv",
+        "stargazers_count": 90945,
+        "forks_count": 57038,
+        "language": "C++"
+      },
+      {
+        "full_name": "rdpeng/ExData_Plotting1",
+        "html_url": "https://github.com/rdpeng/ExData_Plotting1",
+        "stargazers_count": 310,
+        "forks_count": 56202,
+        "language": null
+      },
+      {
+        "full_name": "jackfrued/Python-100-Days",
+        "html_url": "https://github.com/jackfrued/Python-100-Days",
+        "stargazers_count": 186822,
+        "forks_count": 55757,
+        "language": "Jupyter Notebook"
+      },
+      {
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "stargazers_count": 65533,
+        "forks_count": 54777,
+        "language": "Python"
+      },
+      {
+        "full_name": "ant-design/ant-design",
+        "html_url": "https://github.com/ant-design/ant-design",
+        "stargazers_count": 99596,
+        "forks_count": 54709,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "public-apis/public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "stargazers_count": 482521,
+        "forks_count": 53288,
+        "language": "Python"
+      },
+      {
+        "full_name": "eugenp/tutorials",
+        "html_url": "https://github.com/eugenp/tutorials",
+        "stargazers_count": 37327,
+        "forks_count": 53223,
+        "language": "Java"
+      },
+      {
+        "full_name": "NousResearch/hermes-agent",
+        "html_url": "https://github.com/NousResearch/hermes-agent",
+        "stargazers_count": 248322,
+        "forks_count": 52459,
+        "language": "Python"
+      },
+      {
+        "full_name": "codecrafters-io/build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "stargazers_count": 548989,
+        "forks_count": 51599,
+        "language": "Markdown"
+      },
+      {
+        "full_name": "react/react",
+        "html_url": "https://github.com/react/react",
+        "stargazers_count": 250669,
+        "forks_count": 51396,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "TheAlgorithms/Python",
+        "html_url": "https://github.com/TheAlgorithms/Python",
+        "stargazers_count": 224908,
+        "forks_count": 51117,
+        "language": "Python"
+      },
+      {
+        "full_name": "CyC2018/CS-Notes",
+        "html_url": "https://github.com/CyC2018/CS-Notes",
+        "stargazers_count": 186247,
+        "forks_count": 50731,
+        "language": null
+      },
+      {
+        "full_name": "zizifn/edgetunnel",
+        "html_url": "https://github.com/zizifn/edgetunnel",
+        "stargazers_count": 9177,
+        "forks_count": 50695,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "TheOdinProject/javascript-exercises",
+        "html_url": "https://github.com/TheOdinProject/javascript-exercises",
+        "stargazers_count": 1677,
+        "forks_count": 48719,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "freeCodeCamp/freeCodeCamp",
+        "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "stargazers_count": 456035,
+        "forks_count": 46953,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "google/it-cert-automation-practice",
+        "html_url": "https://github.com/google/it-cert-automation-practice",
+        "stargazers_count": 1039,
+        "forks_count": 46740,
+        "language": "Python"
+      },
+      {
+        "full_name": "nvim-lua/kickstart.nvim",
+        "html_url": "https://github.com/nvim-lua/kickstart.nvim",
+        "stargazers_count": 31502,
+        "forks_count": 46554,
+        "language": "Lua"
+      },
+      {
+        "full_name": "Snailclimb/JavaGuide",
+        "html_url": "https://github.com/Snailclimb/JavaGuide",
+        "stargazers_count": 158840,
+        "forks_count": 46140,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stargazers_count": 187512,
+        "forks_count": 45998,
+        "language": "Python"
+      },
+      {
+        "full_name": "nilbuild/developer-roadmap",
+        "html_url": "https://github.com/nilbuild/developer-roadmap",
+        "stargazers_count": 367967,
+        "forks_count": 44984,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "tensorflow/models",
+        "html_url": "https://github.com/tensorflow/models",
+        "stargazers_count": 77650,
+        "forks_count": 44820,
+        "language": "Python"
+      },
+      {
+        "full_name": "kubernetes/kubernetes",
+        "html_url": "https://github.com/kubernetes/kubernetes",
+        "stargazers_count": 127924,
+        "forks_count": 44819,
+        "language": "Go"
+      },
+      {
+        "full_name": "qmk/qmk_firmware",
+        "html_url": "https://github.com/qmk/qmk_firmware",
+        "stargazers_count": 20727,
+        "forks_count": 44314,
+        "language": "C"
+      },
+      {
+        "full_name": "microsoft/vscode",
+        "html_url": "https://github.com/microsoft/vscode",
+        "stargazers_count": 192820,
+        "forks_count": 42970,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "spring-projects/spring-boot",
+        "html_url": "https://github.com/spring-projects/spring-boot",
+        "stargazers_count": 81484,
+        "forks_count": 42840,
+        "language": "Java"
+      },
+      {
+        "full_name": "RedHatTraining/DO180-apps",
+        "html_url": "https://github.com/RedHatTraining/DO180-apps",
+        "stargazers_count": 302,
+        "forks_count": 42376,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "wesbos/JavaScript30",
+        "html_url": "https://github.com/wesbos/JavaScript30",
+        "stargazers_count": 29299,
+        "forks_count": 42344,
+        "language": "HTML"
+      },
+      {
+        "full_name": "jlord/patchwork",
+        "html_url": "https://github.com/jlord/patchwork",
+        "stargazers_count": 1164,
+        "forks_count": 41839,
+        "language": "Rich Text Format"
+      },
+      {
+        "full_name": "affaan-m/ECC",
+        "html_url": "https://github.com/affaan-m/ECC",
+        "stargazers_count": 265995,
+        "forks_count": 39745,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "bitcoin/bitcoin",
+        "html_url": "https://github.com/bitcoin/bitcoin",
+        "stargazers_count": 90241,
+        "forks_count": 39400,
+        "language": "C++"
+      },
+      {
+        "full_name": "spring-projects/spring-framework",
+        "html_url": "https://github.com/spring-projects/spring-framework",
+        "stargazers_count": 60259,
+        "forks_count": 38762,
+        "language": "Java"
+      },
+      {
+        "full_name": "home-assistant/core",
+        "html_url": "https://github.com/home-assistant/core",
+        "stargazers_count": 91119,
+        "forks_count": 38743,
+        "language": "Python"
+      },
+      {
+        "full_name": "anuraghazra/github-readme-stats",
+        "html_url": "https://github.com/anuraghazra/github-readme-stats",
+        "stargazers_count": 79818,
+        "forks_count": 37965,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "leereilly/swot",
+        "html_url": "https://github.com/leereilly/swot",
+        "stargazers_count": 1179,
+        "forks_count": 37905,
+        "language": "Ruby"
+      },
+      {
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stargazers_count": 122050,
+        "forks_count": 37528,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "sindresorhus/awesome",
+        "html_url": "https://github.com/sindresorhus/awesome",
+        "stargazers_count": 509313,
+        "forks_count": 37010,
+        "language": null
+      },
+      {
+        "full_name": "rdpeng/RepData_PeerAssessment1",
+        "html_url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+        "stargazers_count": 109,
+        "forks_count": 36780,
+        "language": null
+      },
+      {
+        "full_name": "mrdoob/three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stargazers_count": 115800,
+        "forks_count": 36561,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "practical-tutorials/project-based-learning",
+        "html_url": "https://github.com/practical-tutorials/project-based-learning",
+        "stargazers_count": 284348,
+        "forks_count": 36363,
+        "language": "Python"
+      },
+      {
+        "full_name": "python/cpython",
+        "html_url": "https://github.com/python/cpython",
+        "stargazers_count": 77238,
+        "forks_count": 36106,
+        "language": "Python"
+      },
+      {
+        "full_name": "django/django",
+        "html_url": "https://github.com/django/django",
+        "stargazers_count": 91162,
+        "forks_count": 35034,
+        "language": "Python"
+      },
+      {
+        "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stargazers_count": 143832,
+        "forks_count": 34814,
+        "language": null
+      },
+      {
+        "full_name": "barryclark/jekyll-now",
+        "html_url": "https://github.com/barryclark/jekyll-now",
+        "stargazers_count": 8410,
+        "forks_count": 34762,
+        "language": "CSS"
+      },
+      {
+        "full_name": "huggingface/transformers",
+        "html_url": "https://github.com/huggingface/transformers",
+        "stargazers_count": 166563,
+        "forks_count": 34663,
+        "language": "Python"
+      },
+      {
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stargazers_count": 54538,
+        "forks_count": 33810,
+        "language": "Python"
+      },
+      {
+        "full_name": "vuejs/vue",
+        "html_url": "https://github.com/vuejs/vue",
+        "stargazers_count": 212823,
+        "forks_count": 33724,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "jenkins-docs/simple-java-maven-app",
+        "html_url": "https://github.com/jenkins-docs/simple-java-maven-app",
+        "stargazers_count": 543,
+        "forks_count": 33685,
+        "language": "Shell"
+      },
+      {
+        "full_name": "getify/You-Dont-Know-JS",
+        "html_url": "https://github.com/getify/You-Dont-Know-JS",
+        "stargazers_count": 184943,
+        "forks_count": 33411,
+        "language": null
+      },
+      {
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stargazers_count": 142408,
+        "forks_count": 32611,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "mui/material-ui",
+        "html_url": "https://github.com/mui/material-ui",
+        "stargazers_count": 99086,
+        "forks_count": 32516,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "flutter/flutter",
+        "html_url": "https://github.com/flutter/flutter",
+        "stargazers_count": 179059,
+        "forks_count": 31808,
+        "language": "Dart"
+      },
+      {
+        "full_name": "bia-pain-bache/BPB-Worker-Panel",
+        "html_url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+        "stargazers_count": 13504,
+        "forks_count": 31587,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+        "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "stargazers_count": 165083,
+        "forks_count": 31272,
+        "language": "Python"
+      },
+      {
+        "full_name": "trekhleb/javascript-algorithms",
+        "html_url": "https://github.com/trekhleb/javascript-algorithms",
+        "stargazers_count": 196796,
+        "forks_count": 31027,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "DataScienceSpecialization/courses",
+        "html_url": "https://github.com/DataScienceSpecialization/courses",
+        "stargazers_count": 4156,
+        "forks_count": 30921,
+        "language": "HTML"
+      },
+      {
+        "full_name": "spring-projects/spring-petclinic",
+        "html_url": "https://github.com/spring-projects/spring-petclinic",
+        "stargazers_count": 9538,
+        "forks_count": 30604,
+        "language": "CSS"
+      },
+      {
+        "full_name": "DefinitelyTyped/DefinitelyTyped",
+        "html_url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        "stargazers_count": 51439,
+        "forks_count": 30372,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "PanJiaChen/vue-element-admin",
+        "html_url": "https://github.com/PanJiaChen/vue-element-admin",
+        "stargazers_count": 90177,
+        "forks_count": 30300,
+        "language": "Vue"
+      },
+      {
+        "full_name": "is-a-dev/register",
+        "html_url": "https://github.com/is-a-dev/register",
+        "stargazers_count": 11375,
+        "forks_count": 30265,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "samqin123/MoonTV",
+        "html_url": "https://github.com/samqin123/MoonTV",
+        "stargazers_count": 2076,
+        "forks_count": 30222,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "pytorch/pytorch",
+        "html_url": "https://github.com/pytorch/pytorch",
+        "stargazers_count": 103196,
+        "forks_count": 30062,
+        "language": "Python"
+      },
+      {
+        "full_name": "macrozheng/mall",
+        "html_url": "https://github.com/macrozheng/mall",
+        "stargazers_count": 84827,
+        "forks_count": 29836,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/spark",
+        "html_url": "https://github.com/apache/spark",
+        "stargazers_count": 44030,
+        "forks_count": 29397,
+        "language": "Scala"
+      },
+      {
+        "full_name": "lewagon/dotfiles",
+        "html_url": "https://github.com/lewagon/dotfiles",
+        "stargazers_count": 21817,
+        "forks_count": 28879,
+        "language": "Shell"
+      },
+      {
+        "full_name": "vinta/awesome-python",
+        "html_url": "https://github.com/vinta/awesome-python",
+        "stargazers_count": 322511,
+        "forks_count": 28789,
+        "language": "Python"
+      },
+      {
+        "full_name": "git/git",
+        "html_url": "https://github.com/git/git",
+        "stargazers_count": 63282,
+        "forks_count": 28436,
+        "language": "C"
+      },
+      {
+        "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub",
+        "stargazers_count": 85,
+        "forks_count": 28387,
+        "language": "Python"
+      },
+      {
+        "full_name": "justjavac/free-programming-books-zh_CN",
+        "html_url": "https://github.com/justjavac/free-programming-books-zh_CN",
+        "stargazers_count": 119075,
+        "forks_count": 28268,
+        "language": null
+      },
+      {
+        "full_name": "angular/angular",
+        "html_url": "https://github.com/angular/angular",
+        "stargazers_count": 101027,
+        "forks_count": 28211,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "deepseek-ai/deepseek-harness",
+        "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+        "stargazers_count": 234205,
+        "forks_count": 28135,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "anomalyco/opencode",
+        "html_url": "https://github.com/anomalyco/opencode",
+        "stargazers_count": 209615,
+        "forks_count": 27656,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "LibreSpark/LibreTV",
+        "html_url": "https://github.com/LibreSpark/LibreTV",
+        "stargazers_count": 13964,
+        "forks_count": 27501,
+        "language": "TypeScript"
+      },
+      {
+        "full_name": "trustwallet/assets",
+        "html_url": "https://github.com/trustwallet/assets",
+        "stargazers_count": 5384,
+        "forks_count": 27451,
+        "language": "Go"
+      },
+      {
+        "full_name": "scikit-learn/scikit-learn",
+        "html_url": "https://github.com/scikit-learn/scikit-learn",
+        "stargazers_count": 67351,
+        "forks_count": 27441,
+        "language": "Python"
+      },
+      {
+        "full_name": "iluwatar/java-design-patterns",
+        "html_url": "https://github.com/iluwatar/java-design-patterns",
+        "stargazers_count": 94719,
+        "forks_count": 27369,
+        "language": "Java"
+      },
+      {
+        "full_name": "ohmyzsh/ohmyzsh",
+        "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+        "stargazers_count": 189887,
+        "forks_count": 27298,
+        "language": "Shell"
+      }
+    ],
+    "languages/javascript": [
+      {
+        "full_name": "affaan-m/ECC",
+        "html_url": "https://github.com/affaan-m/ECC",
+        "stargazers_count": 265995,
+        "forks_count": 39745,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "react/react",
+        "html_url": "https://github.com/react/react",
+        "stargazers_count": 250669,
+        "forks_count": 51396,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "trekhleb/javascript-algorithms",
+        "html_url": "https://github.com/trekhleb/javascript-algorithms",
+        "stargazers_count": 196796,
+        "forks_count": 31027,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Snailclimb/JavaGuide",
+        "html_url": "https://github.com/Snailclimb/JavaGuide",
+        "stargazers_count": 158840,
+        "forks_count": 46140,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "airbnb/javascript",
+        "html_url": "https://github.com/airbnb/javascript",
+        "stargazers_count": 148261,
+        "forks_count": 26563,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "DietrichGebert/ponytail",
+        "html_url": "https://github.com/DietrichGebert/ponytail",
+        "stargazers_count": 144879,
+        "forks_count": 7756,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stargazers_count": 142408,
+        "forks_count": 32611,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Chalarangelo/30-seconds-of-code",
+        "html_url": "https://github.com/Chalarangelo/30-seconds-of-code",
+        "stargazers_count": 129193,
+        "forks_count": 12484,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stargazers_count": 122050,
+        "forks_count": 37528,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "mrdoob/three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stargazers_count": 115800,
+        "forks_count": 36561,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "axios/axios",
+        "html_url": "https://github.com/axios/axios",
+        "stargazers_count": 109209,
+        "forks_count": 11872,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "react/create-react-app",
+        "html_url": "https://github.com/react/create-react-app",
+        "stargazers_count": 103255,
+        "forks_count": 26897,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "mui/material-ui",
+        "html_url": "https://github.com/mui/material-ui",
+        "stargazers_count": 99086,
+        "forks_count": 32516,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "addyosmani/agent-skills",
+        "html_url": "https://github.com/addyosmani/agent-skills",
+        "stargazers_count": 98657,
+        "forks_count": 10364,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "microsoft/Web-Dev-For-Beginners",
+        "html_url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+        "stargazers_count": 96731,
+        "forks_count": 15946,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "ryanmcdermott/clean-code-javascript",
+        "html_url": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "stargazers_count": 94753,
+        "forks_count": 12594,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "louislam/uptime-kuma",
+        "html_url": "https://github.com/louislam/uptime-kuma",
+        "stargazers_count": 91734,
+        "forks_count": 8456,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Leonxlnx/taste-skill",
+        "html_url": "https://github.com/Leonxlnx/taste-skill",
+        "stargazers_count": 89538,
+        "forks_count": 6087,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "sveltejs/svelte",
+        "html_url": "https://github.com/sveltejs/svelte",
+        "stargazers_count": 88172,
+        "forks_count": 5947,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "anuraghazra/github-readme-stats",
+        "html_url": "https://github.com/anuraghazra/github-readme-stats",
+        "stargazers_count": 79818,
+        "forks_count": 37965,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "FortAwesome/Font-Awesome",
+        "html_url": "https://github.com/FortAwesome/Font-Awesome",
+        "stargazers_count": 76948,
+        "forks_count": 12175,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "typicode/json-server",
+        "html_url": "https://github.com/typicode/json-server",
+        "stargazers_count": 75718,
+        "forks_count": 7267,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "juliangarnier/anime",
+        "html_url": "https://github.com/juliangarnier/anime",
+        "stargazers_count": 73062,
+        "forks_count": 4937,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "career-ops-hq/career-ops",
+        "html_url": "https://github.com/career-ops-hq/career-ops",
+        "stargazers_count": 72503,
+        "forks_count": 13637,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "hakimel/reveal.js",
+        "html_url": "https://github.com/hakimel/reveal.js",
+        "stargazers_count": 72339,
+        "forks_count": 17025,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "tt-a1i/archify",
+        "html_url": "https://github.com/tt-a1i/archify",
+        "stargazers_count": 70454,
+        "forks_count": 4737,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "pbakaus/impeccable",
+        "html_url": "https://github.com/pbakaus/impeccable",
+        "stargazers_count": 70187,
+        "forks_count": 4265,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "expressjs/express",
+        "html_url": "https://github.com/expressjs/express",
+        "stargazers_count": 69463,
+        "forks_count": 25046,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "asgeirtj/system_prompts_leaks",
+        "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "stargazers_count": 68148,
+        "forks_count": 11068,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "gorhill/uBlock",
+        "html_url": "https://github.com/gorhill/uBlock",
+        "stargazers_count": 68070,
+        "forks_count": 4366,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "chartjs/Chart.js",
+        "html_url": "https://github.com/chartjs/Chart.js",
+        "stargazers_count": 67717,
+        "forks_count": 11939,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "leonardomso/33-js-concepts",
+        "html_url": "https://github.com/leonardomso/33-js-concepts",
+        "stargazers_count": 66531,
+        "forks_count": 9127,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Mintplex-Labs/anything-llm",
+        "html_url": "https://github.com/Mintplex-Labs/anything-llm",
+        "stargazers_count": 66366,
+        "forks_count": 7390,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "webpack/webpack",
+        "html_url": "https://github.com/webpack/webpack",
+        "stargazers_count": 65946,
+        "forks_count": 9545,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "gsd-build/get-shit-done",
+        "html_url": "https://github.com/gsd-build/get-shit-done",
+        "stargazers_count": 64474,
+        "forks_count": 5443,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "byoungd/up",
+        "html_url": "https://github.com/byoungd/up",
+        "stargazers_count": 63702,
+        "forks_count": 6444,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "jgraph/drawio-desktop",
+        "html_url": "https://github.com/jgraph/drawio-desktop",
+        "stargazers_count": 63258,
+        "forks_count": 5772,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "resume/resume.github.com",
+        "html_url": "https://github.com/resume/resume.github.com",
+        "stargazers_count": 62887,
+        "forks_count": 1368,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "lodash/lodash",
+        "html_url": "https://github.com/lodash/lodash",
+        "stargazers_count": 61273,
+        "forks_count": 7188,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "atom/atom",
+        "html_url": "https://github.com/atom/atom",
+        "stargazers_count": 60734,
+        "forks_count": 17163,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "adam-p/markdown-here",
+        "html_url": "https://github.com/adam-p/markdown-here",
+        "stargazers_count": 60259,
+        "forks_count": 11005,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "jquery/jquery",
+        "html_url": "https://github.com/jquery/jquery",
+        "stargazers_count": 59784,
+        "forks_count": 20391,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "angular/angular.js",
+        "html_url": "https://github.com/angular/angular.js",
+        "stargazers_count": 58506,
+        "forks_count": 26974,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "scutan90/DeepLearning-500-questions",
+        "html_url": "https://github.com/scutan90/DeepLearning-500-questions",
+        "stargazers_count": 57630,
+        "forks_count": 15856,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "h5bp/html5-boilerplate",
+        "html_url": "https://github.com/h5bp/html5-boilerplate",
+        "stargazers_count": 57630,
+        "forks_count": 12254,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "gatsbyjs/gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stargazers_count": 55942,
+        "forks_count": 10114,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "azl397985856/leetcode",
+        "html_url": "https://github.com/azl397985856/leetcode",
+        "stargazers_count": 55742,
+        "forks_count": 9352,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "mozilla/pdf.js",
+        "html_url": "https://github.com/mozilla/pdf.js",
+        "stargazers_count": 53940,
+        "forks_count": 10689,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "chinese-poetry/chinese-poetry",
+        "html_url": "https://github.com/chinese-poetry/chinese-poetry",
+        "stargazers_count": 53477,
+        "forks_count": 10736,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "prettier/prettier",
+        "html_url": "https://github.com/prettier/prettier",
+        "stargazers_count": 52295,
+        "forks_count": 5015,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "poteto/hiring-without-whiteboards",
+        "html_url": "https://github.com/poteto/hiring-without-whiteboards",
+        "stargazers_count": 52181,
+        "forks_count": 3941,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "coreyhaines31/marketingskills",
+        "html_url": "https://github.com/coreyhaines31/marketingskills",
+        "stargazers_count": 51295,
+        "forks_count": 7755,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Semantic-Org/Semantic-UI",
+        "html_url": "https://github.com/Semantic-Org/Semantic-UI",
+        "stargazers_count": 51021,
+        "forks_count": 4847,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "NARKOZ/hacker-scripts",
+        "html_url": "https://github.com/NARKOZ/hacker-scripts",
+        "stargazers_count": 49835,
+        "forks_count": 6646,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "bigskysoftware/htmx",
+        "html_url": "https://github.com/bigskysoftware/htmx",
+        "stargazers_count": 49504,
+        "forks_count": 1662,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "algorithm-visualizer/algorithm-visualizer",
+        "html_url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+        "stargazers_count": 48740,
+        "forks_count": 7570,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "iamkun/dayjs",
+        "html_url": "https://github.com/iamkun/dayjs",
+        "stargazers_count": 48667,
+        "forks_count": 2969,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "DavidHDev/react-bits",
+        "html_url": "https://github.com/DavidHDev/react-bits",
+        "stargazers_count": 47935,
+        "forks_count": 2324,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "moment/moment",
+        "html_url": "https://github.com/moment/moment",
+        "stargazers_count": 47907,
+        "forks_count": 6978,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "usebruno/bruno",
+        "html_url": "https://github.com/usebruno/bruno",
+        "stargazers_count": 47138,
+        "forks_count": 2912,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "serverless/serverless",
+        "html_url": "https://github.com/serverless/serverless",
+        "stargazers_count": 46923,
+        "forks_count": 5721,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Asabeneh/30-Days-Of-JavaScript",
+        "html_url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+        "stargazers_count": 46835,
+        "forks_count": 10461,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "microsoft/monaco-editor",
+        "html_url": "https://github.com/microsoft/monaco-editor",
+        "stargazers_count": 46792,
+        "forks_count": 4135,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "LeCoupa/awesome-cheatsheets",
+        "html_url": "https://github.com/LeCoupa/awesome-cheatsheets",
+        "stargazers_count": 46493,
+        "forks_count": 6686,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "google/zx",
+        "html_url": "https://github.com/google/zx",
+        "stargazers_count": 45763,
+        "forks_count": 1301,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Leaflet/Leaflet",
+        "html_url": "https://github.com/Leaflet/Leaflet",
+        "stargazers_count": 45659,
+        "forks_count": 6173,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "GitSquared/edex-ui",
+        "html_url": "https://github.com/GitSquared/edex-ui",
+        "stargazers_count": 45052,
+        "forks_count": 3208,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "sudheerj/reactjs-interview-questions",
+        "html_url": "https://github.com/sudheerj/reactjs-interview-questions",
+        "stargazers_count": 44827,
+        "forks_count": 10385,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "meteor/meteor",
+        "html_url": "https://github.com/meteor/meteor",
+        "stargazers_count": 44806,
+        "forks_count": 5243,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "NaiboWang/EasySpider",
+        "html_url": "https://github.com/NaiboWang/EasySpider",
+        "stargazers_count": 44587,
+        "forks_count": 5386,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "parcel-bundler/parcel",
+        "html_url": "https://github.com/parcel-bundler/parcel",
+        "stargazers_count": 44024,
+        "forks_count": 2285,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "yangshun/front-end-interview-handbook",
+        "html_url": "https://github.com/yangshun/front-end-interview-handbook",
+        "stargazers_count": 44005,
+        "forks_count": 5925,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Unitech/pm2",
+        "html_url": "https://github.com/Unitech/pm2",
+        "stargazers_count": 43295,
+        "forks_count": 2727,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "saadeghi/daisyui",
+        "html_url": "https://github.com/saadeghi/daisyui",
+        "stargazers_count": 42459,
+        "forks_count": 1692,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "stargazers_count": 41716,
+        "forks_count": 8482,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "dcloudio/uni-app",
+        "html_url": "https://github.com/dcloudio/uni-app",
+        "stargazers_count": 41619,
+        "forks_count": 3708,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "yarnpkg/yarn",
+        "html_url": "https://github.com/yarnpkg/yarn",
+        "stargazers_count": 41479,
+        "forks_count": 2710,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "goabstract/Awesome-Design-Tools",
+        "html_url": "https://github.com/goabstract/Awesome-Design-Tools",
+        "stargazers_count": 41296,
+        "forks_count": 2352,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "nwjs/nw.js",
+        "html_url": "https://github.com/nwjs/nw.js",
+        "stargazers_count": 41167,
+        "forks_count": 3851,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "ToolJet/ToolJet",
+        "html_url": "https://github.com/ToolJet/ToolJet",
+        "stargazers_count": 40980,
+        "forks_count": 5453,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "remoteintech/remote-jobs",
+        "html_url": "https://github.com/remoteintech/remote-jobs",
+        "stargazers_count": 40860,
+        "forks_count": 3957,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "PatrickJS/awesome-cursorrules",
+        "html_url": "https://github.com/PatrickJS/awesome-cursorrules",
+        "stargazers_count": 40826,
+        "forks_count": 3492,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "phaserjs/phaser",
+        "html_url": "https://github.com/phaserjs/phaser",
+        "stargazers_count": 40350,
+        "forks_count": 7163,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "videojs/video.js",
+        "html_url": "https://github.com/videojs/video.js",
+        "stargazers_count": 39893,
+        "forks_count": 7480,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "drawdb-io/drawdb",
+        "html_url": "https://github.com/drawdb-io/drawdb",
+        "stargazers_count": 39687,
+        "forks_count": 3265,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "github/awesome-copilot",
+        "html_url": "https://github.com/github/awesome-copilot",
+        "stargazers_count": 39312,
+        "forks_count": 5003,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "preactjs/preact",
+        "html_url": "https://github.com/preactjs/preact",
+        "stargazers_count": 38882,
+        "forks_count": 2505,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "Dogfalo/materialize",
+        "html_url": "https://github.com/Dogfalo/materialize",
+        "stargazers_count": 38803,
+        "forks_count": 4595,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "naptha/tesseract.js",
+        "html_url": "https://github.com/naptha/tesseract.js",
+        "stargazers_count": 38730,
+        "forks_count": 2393,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "impress/impress.js",
+        "html_url": "https://github.com/impress/impress.js",
+        "stargazers_count": 38171,
+        "forks_count": 6568,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "denysdovhan/wtfjs",
+        "html_url": "https://github.com/denysdovhan/wtfjs",
+        "stargazers_count": 37686,
+        "forks_count": 2676,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "fastify/fastify",
+        "html_url": "https://github.com/fastify/fastify",
+        "stargazers_count": 37187,
+        "forks_count": 3032,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "songquanpeng/one-api",
+        "html_url": "https://github.com/songquanpeng/one-api",
+        "stargazers_count": 37002,
+        "forks_count": 6866,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "carbon-app/carbon",
+        "html_url": "https://github.com/carbon-app/carbon",
+        "stargazers_count": 36105,
+        "forks_count": 1976,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "gchq/CyberChef",
+        "html_url": "https://github.com/gchq/CyberChef",
+        "stargazers_count": 35933,
+        "forks_count": 4156,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+        "html_url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+        "stargazers_count": 35805,
+        "forks_count": 5831,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "koajs/koa",
+        "html_url": "https://github.com/koajs/koa",
+        "stargazers_count": 35683,
+        "forks_count": 3227,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "alvarotrigo/fullPage.js",
+        "html_url": "https://github.com/alvarotrigo/fullPage.js",
+        "stargazers_count": 35385,
+        "forks_count": 7094,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "typicode/husky",
+        "html_url": "https://github.com/typicode/husky",
+        "stargazers_count": 35329,
+        "forks_count": 1097,
+        "language": "JavaScript"
+      },
+      {
+        "full_name": "sahat/hackathon-starter",
+        "html_url": "https://github.com/sahat/hackathon-starter",
+        "stargazers_count": 35254,
+        "forks_count": 8111,
+        "language": "JavaScript"
+      }
+    ],
+    "languages/python": [
+      {
+        "full_name": "public-apis/public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "stargazers_count": 482522,
+        "forks_count": 53288,
+        "language": "Python"
+      },
+      {
+        "full_name": "EbookFoundation/free-programming-books",
+        "html_url": "https://github.com/EbookFoundation/free-programming-books",
+        "stargazers_count": 397517,
+        "forks_count": 66826,
+        "language": "Python"
+      },
+      {
+        "full_name": "donnemartin/system-design-primer",
+        "html_url": "https://github.com/donnemartin/system-design-primer",
+        "stargazers_count": 371427,
+        "forks_count": 58584,
+        "language": "Python"
+      },
+      {
+        "full_name": "vinta/awesome-python",
+        "html_url": "https://github.com/vinta/awesome-python",
+        "stargazers_count": 322511,
+        "forks_count": 28789,
+        "language": "Python"
+      },
+      {
+        "full_name": "practical-tutorials/project-based-learning",
+        "html_url": "https://github.com/practical-tutorials/project-based-learning",
+        "stargazers_count": 284348,
+        "forks_count": 36363,
+        "language": "Python"
+      },
+      {
+        "full_name": "NousResearch/hermes-agent",
+        "html_url": "https://github.com/NousResearch/hermes-agent",
+        "stargazers_count": 248322,
+        "forks_count": 52460,
+        "language": "Python"
+      },
+      {
+        "full_name": "TheAlgorithms/Python",
+        "html_url": "https://github.com/TheAlgorithms/Python",
+        "stargazers_count": 224908,
+        "forks_count": 51117,
+        "language": "Python"
+      },
+      {
+        "full_name": "yt-dlp/yt-dlp",
+        "html_url": "https://github.com/yt-dlp/yt-dlp",
+        "stargazers_count": 193165,
+        "forks_count": 16762,
+        "language": "Python"
+      },
+      {
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stargazers_count": 187512,
+        "forks_count": 45998,
+        "language": "Python"
+      },
+      {
+        "full_name": "microsoft/markitdown",
+        "html_url": "https://github.com/microsoft/markitdown",
+        "stargazers_count": 186615,
+        "forks_count": 13757,
+        "language": "Python"
+      },
+      {
+        "full_name": "521xueweihan/HelloGitHub",
+        "html_url": "https://github.com/521xueweihan/HelloGitHub",
+        "stargazers_count": 178286,
+        "forks_count": 12849,
+        "language": "Python"
+      },
+      {
+        "full_name": "anthropics/skills",
+        "html_url": "https://github.com/anthropics/skills",
+        "stargazers_count": 177792,
+        "forks_count": 21065,
+        "language": "Python"
+      },
+      {
+        "full_name": "huggingface/transformers",
+        "html_url": "https://github.com/huggingface/transformers",
+        "stargazers_count": 166563,
+        "forks_count": 34663,
+        "language": "Python"
+      },
+      {
+        "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+        "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "stargazers_count": 165083,
+        "forks_count": 31272,
+        "language": "Python"
+      },
+      {
+        "full_name": "langflow-ai/langflow",
+        "html_url": "https://github.com/langflow-ai/langflow",
+        "stargazers_count": 155178,
+        "forks_count": 10128,
+        "language": "Python"
+      },
+      {
+        "full_name": "open-webui/open-webui",
+        "html_url": "https://github.com/open-webui/open-webui",
+        "stargazers_count": 152922,
+        "forks_count": 22372,
+        "language": "Python"
+      },
+      {
+        "full_name": "langchain-ai/langchain",
+        "html_url": "https://github.com/langchain-ai/langchain",
+        "stargazers_count": 146931,
+        "forks_count": 24582,
+        "language": "Python"
+      },
+      {
+        "full_name": "ytdl-org/youtube-dl",
+        "html_url": "https://github.com/ytdl-org/youtube-dl",
+        "stargazers_count": 141324,
+        "forks_count": 10660,
+        "language": "Python"
+      },
+      {
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "stargazers_count": 139542,
+        "forks_count": 20501,
+        "language": "Python"
+      },
+      {
+        "full_name": "github/spec-kit",
+        "html_url": "https://github.com/github/spec-kit",
+        "stargazers_count": 138546,
+        "forks_count": 12410,
+        "language": "Python"
+      },
+      {
+        "full_name": "Comfy-Org/ComfyUI",
+        "html_url": "https://github.com/Comfy-Org/ComfyUI",
+        "stargazers_count": 134688,
+        "forks_count": 15949,
+        "language": "Python"
+      },
+      {
+        "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+        "stargazers_count": 130076,
+        "forks_count": 13837,
+        "language": "Python"
+      },
+      {
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stargazers_count": 125317,
+        "forks_count": 19477,
+        "language": "Python"
+      },
+      {
+        "full_name": "Graphify-Labs/graphify",
+        "html_url": "https://github.com/Graphify-Labs/graphify",
+        "stargazers_count": 120819,
+        "forks_count": 11655,
+        "language": "Python"
+      },
+      {
+        "full_name": "browser-use/browser-use",
+        "html_url": "https://github.com/browser-use/browser-use",
+        "stargazers_count": 116059,
+        "forks_count": 12775,
+        "language": "Python"
+      },
+      {
+        "full_name": "openai/whisper",
+        "html_url": "https://github.com/openai/whisper",
+        "stargazers_count": 109511,
+        "forks_count": 13285,
+        "language": "Python"
+      },
+      {
+        "full_name": "TauricResearch/TradingAgents",
+        "html_url": "https://github.com/TauricResearch/TradingAgents",
+        "stargazers_count": 108280,
+        "forks_count": 20729,
+        "language": "Python"
+      },
+      {
+        "full_name": "deepseek-ai/DeepSeek-V3",
+        "html_url": "https://github.com/deepseek-ai/DeepSeek-V3",
+        "stargazers_count": 104484,
+        "forks_count": 16733,
+        "language": "Python"
+      },
+      {
+        "full_name": "pytorch/pytorch",
+        "html_url": "https://github.com/pytorch/pytorch",
+        "stargazers_count": 103196,
+        "forks_count": 30062,
+        "language": "Python"
+      },
+      {
+        "full_name": "fastapi/fastapi",
+        "html_url": "https://github.com/fastapi/fastapi",
+        "stargazers_count": 102549,
+        "forks_count": 9939,
+        "language": "Python"
+      },
+      {
+        "full_name": "nvbn/thefuck",
+        "html_url": "https://github.com/nvbn/thefuck",
+        "stargazers_count": 97873,
+        "forks_count": 3963,
+        "language": "Python"
+      },
+      {
+        "full_name": "hacksider/Deep-Live-Cam",
+        "html_url": "https://github.com/hacksider/Deep-Live-Cam",
+        "stargazers_count": 96808,
+        "forks_count": 14127,
+        "language": "Python"
+      },
+      {
+        "full_name": "karpathy/autoresearch",
+        "html_url": "https://github.com/karpathy/autoresearch",
+        "stargazers_count": 96650,
+        "forks_count": 13521,
+        "language": "Python"
+      },
+      {
+        "full_name": "3b1b/manim",
+        "html_url": "https://github.com/3b1b/manim",
+        "stargazers_count": 94172,
+        "forks_count": 7735,
+        "language": "Python"
+      },
+      {
+        "full_name": "sherlock-project/sherlock",
+        "html_url": "https://github.com/sherlock-project/sherlock",
+        "stargazers_count": 92536,
+        "forks_count": 10921,
+        "language": "Python"
+      },
+      {
+        "full_name": "vllm-project/vllm",
+        "html_url": "https://github.com/vllm-project/vllm",
+        "stargazers_count": 92527,
+        "forks_count": 22573,
+        "language": "Python"
+      },
+      {
+        "full_name": "django/django",
+        "html_url": "https://github.com/django/django",
+        "stargazers_count": 91162,
+        "forks_count": 35034,
+        "language": "Python"
+      },
+      {
+        "full_name": "home-assistant/core",
+        "html_url": "https://github.com/home-assistant/core",
+        "stargazers_count": 91119,
+        "forks_count": 38743,
+        "language": "Python"
+      },
+      {
+        "full_name": "PaddlePaddle/PaddleOCR",
+        "html_url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "stargazers_count": 90087,
+        "forks_count": 11398,
+        "language": "Python"
+      },
+      {
+        "full_name": "odysseus-dev/odysseus",
+        "html_url": "https://github.com/odysseus-dev/odysseus",
+        "stargazers_count": 87554,
+        "forks_count": 949,
+        "language": "Python"
+      },
+      {
+        "full_name": "Panniantong/Agent-Reach",
+        "html_url": "https://github.com/Panniantong/Agent-Reach",
+        "stargazers_count": 85046,
+        "forks_count": 7468,
+        "language": "Python"
+      },
+      {
+        "full_name": "bregman-arie/devops-exercises",
+        "html_url": "https://github.com/bregman-arie/devops-exercises",
+        "stargazers_count": 84561,
+        "forks_count": 20319,
+        "language": "Python"
+      },
+      {
+        "full_name": "unclecode/crawl4ai",
+        "html_url": "https://github.com/unclecode/crawl4ai",
+        "stargazers_count": 84147,
+        "forks_count": 8696,
+        "language": "Python"
+      },
+      {
+        "full_name": "fighting41love/funNLP",
+        "html_url": "https://github.com/fighting41love/funNLP",
+        "stargazers_count": 83361,
+        "forks_count": 15283,
+        "language": "Python"
+      },
+      {
+        "full_name": "D4Vinci/Scrapling",
+        "html_url": "https://github.com/D4Vinci/Scrapling",
+        "stargazers_count": 83142,
+        "forks_count": 8474,
+        "language": "Python"
+      },
+      {
+        "full_name": "bytedance/deer-flow",
+        "html_url": "https://github.com/bytedance/deer-flow",
+        "stargazers_count": 82902,
+        "forks_count": 11476,
+        "language": "Python"
+      },
+      {
+        "full_name": "swisskyrepo/PayloadsAllTheThings",
+        "html_url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "stargazers_count": 81143,
+        "forks_count": 17410,
+        "language": "Python"
+      },
+      {
+        "full_name": "d2l-ai/d2l-zh",
+        "html_url": "https://github.com/d2l-ai/d2l-zh",
+        "stargazers_count": 81061,
+        "forks_count": 12407,
+        "language": "Python"
+      },
+      {
+        "full_name": "datawhalechina/hello-agents",
+        "html_url": "https://github.com/datawhalechina/hello-agents",
+        "stargazers_count": 80636,
+        "forks_count": 10029,
+        "language": "Python"
+      },
+      {
+        "full_name": "opendatalab/MinerU",
+        "html_url": "https://github.com/opendatalab/MinerU",
+        "stargazers_count": 80533,
+        "forks_count": 6722,
+        "language": "Python"
+      },
+      {
+        "full_name": "Z4nzu/hackingtool",
+        "html_url": "https://github.com/Z4nzu/hackingtool",
+        "stargazers_count": 79665,
+        "forks_count": 9032,
+        "language": "Python"
+      },
+      {
+        "full_name": "abi/screenshot-to-code",
+        "html_url": "https://github.com/abi/screenshot-to-code",
+        "stargazers_count": 79598,
+        "forks_count": 9726,
+        "language": "Python"
+      },
+      {
+        "full_name": "tensorflow/models",
+        "html_url": "https://github.com/tensorflow/models",
+        "stargazers_count": 77650,
+        "forks_count": 44820,
+        "language": "Python"
+      },
+      {
+        "full_name": "shareAI-lab/learn-claude-code",
+        "html_url": "https://github.com/shareAI-lab/learn-claude-code",
+        "stargazers_count": 77510,
+        "forks_count": 12468,
+        "language": "Python"
+      },
+      {
+        "full_name": "python/cpython",
+        "html_url": "https://github.com/python/cpython",
+        "stargazers_count": 77238,
+        "forks_count": 36106,
+        "language": "Python"
+      },
+      {
+        "full_name": "unslothai/unsloth",
+        "html_url": "https://github.com/unslothai/unsloth",
+        "stargazers_count": 76631,
+        "forks_count": 7015,
+        "language": "Python"
+      },
+      {
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "stargazers_count": 75539,
+        "forks_count": 8762,
+        "language": "Python"
+      },
+      {
+        "full_name": "hiyouga/LlamaFactory",
+        "html_url": "https://github.com/hiyouga/LlamaFactory",
+        "stargazers_count": 74993,
+        "forks_count": 9183,
+        "language": "Python"
+      },
+      {
+        "full_name": "apache/superset",
+        "html_url": "https://github.com/apache/superset",
+        "stargazers_count": 74897,
+        "forks_count": 18379,
+        "language": "Python"
+      },
+      {
+        "full_name": "pallets/flask",
+        "html_url": "https://github.com/pallets/flask",
+        "stargazers_count": 74764,
+        "forks_count": 17002,
+        "language": "Python"
+      },
+      {
+        "full_name": "Asabeneh/30-Days-Of-Python",
+        "html_url": "https://github.com/Asabeneh/30-Days-Of-Python",
+        "stargazers_count": 74449,
+        "forks_count": 13571,
+        "language": "Python"
+      },
+      {
+        "full_name": "josephmisiti/awesome-machine-learning",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning",
+        "stargazers_count": 74416,
+        "forks_count": 15655,
+        "language": "Python"
+      },
+      {
+        "full_name": "666ghj/MiroFish",
+        "html_url": "https://github.com/666ghj/MiroFish",
+        "stargazers_count": 74372,
+        "forks_count": 11431,
+        "language": "Python"
+      },
+      {
+        "full_name": "headroomlabs-ai/headroom",
+        "html_url": "https://github.com/headroomlabs-ai/headroom",
+        "stargazers_count": 73617,
+        "forks_count": 5682,
+        "language": "Python"
+      },
+      {
+        "full_name": "OpenBB-finance/OpenBB",
+        "html_url": "https://github.com/OpenBB-finance/OpenBB",
+        "stargazers_count": 73406,
+        "forks_count": 7597,
+        "language": "Python"
+      },
+      {
+        "full_name": "binary-husky/gpt_academic",
+        "html_url": "https://github.com/binary-husky/gpt_academic",
+        "stargazers_count": 71375,
+        "forks_count": 8311,
+        "language": "Python"
+      },
+      {
+        "full_name": "ansible/ansible",
+        "html_url": "https://github.com/ansible/ansible",
+        "stargazers_count": 70776,
+        "forks_count": 24334,
+        "language": "Python"
+      },
+      {
+        "full_name": "FoundationAgents/MetaGPT",
+        "html_url": "https://github.com/FoundationAgents/MetaGPT",
+        "stargazers_count": 70576,
+        "forks_count": 8962,
+        "language": "Python"
+      },
+      {
+        "full_name": "docling-project/docling",
+        "html_url": "https://github.com/docling-project/docling",
+        "stargazers_count": 67693,
+        "forks_count": 4897,
+        "language": "Python"
+      },
+      {
+        "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+        "html_url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+        "stargazers_count": 67500,
+        "forks_count": 6759,
+        "language": "Python"
+      },
+      {
+        "full_name": "scikit-learn/scikit-learn",
+        "html_url": "https://github.com/scikit-learn/scikit-learn",
+        "stargazers_count": 67351,
+        "forks_count": 27441,
+        "language": "Python"
+      },
+      {
+        "full_name": "xtekky/gpt4free",
+        "html_url": "https://github.com/xtekky/gpt4free",
+        "stargazers_count": 66726,
+        "forks_count": 13500,
+        "language": "Python"
+      },
+      {
+        "full_name": "mem0ai/mem0",
+        "html_url": "https://github.com/mem0ai/mem0",
+        "stargazers_count": 65890,
+        "forks_count": 7747,
+        "language": "Python"
+      },
+      {
+        "full_name": "NanmiCoder/MediaCrawler",
+        "html_url": "https://github.com/NanmiCoder/MediaCrawler",
+        "stargazers_count": 65620,
+        "forks_count": 12661,
+        "language": "Python"
+      },
+      {
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "stargazers_count": 65533,
+        "forks_count": 54777,
+        "language": "Python"
+      },
+      {
+        "full_name": "localstack/localstack",
+        "html_url": "https://github.com/localstack/localstack",
+        "stargazers_count": 65125,
+        "forks_count": 4799,
+        "language": "Python"
+      },
+      {
+        "full_name": "scrapy/scrapy",
+        "html_url": "https://github.com/scrapy/scrapy",
+        "stargazers_count": 64457,
+        "forks_count": 11972,
+        "language": "Python"
+      },
+      {
+        "full_name": "keras-team/keras",
+        "html_url": "https://github.com/keras-team/keras",
+        "stargazers_count": 64334,
+        "forks_count": 19806,
+        "language": "Python"
+      },
+      {
+        "full_name": "usestrix/strix",
+        "html_url": "https://github.com/usestrix/strix",
+        "stargazers_count": 64326,
+        "forks_count": 7036,
+        "language": "Python"
+      },
+      {
+        "full_name": "commaai/openpilot",
+        "html_url": "https://github.com/commaai/openpilot",
+        "stargazers_count": 63704,
+        "forks_count": 11383,
+        "language": "Python"
+      },
+      {
+        "full_name": "virattt/ai-hedge-fund",
+        "html_url": "https://github.com/virattt/ai-hedge-fund",
+        "stargazers_count": 63685,
+        "forks_count": 11163,
+        "language": "Python"
+      },
+      {
+        "full_name": "karpathy/nanoGPT",
+        "html_url": "https://github.com/karpathy/nanoGPT",
+        "stargazers_count": 63340,
+        "forks_count": 10889,
+        "language": "Python"
+      },
+      {
+        "full_name": "mvanhorn/last30days-skill",
+        "html_url": "https://github.com/mvanhorn/last30days-skill",
+        "stargazers_count": 62713,
+        "forks_count": 5457,
+        "language": "Python"
+      },
+      {
+        "full_name": "sansan0/TrendRadar",
+        "html_url": "https://github.com/sansan0/TrendRadar",
+        "stargazers_count": 62508,
+        "forks_count": 24879,
+        "language": "Python"
+      },
+      {
+        "full_name": "jingyaogong/minimind",
+        "html_url": "https://github.com/jingyaogong/minimind",
+        "stargazers_count": 62302,
+        "forks_count": 8100,
+        "language": "Python"
+      },
+      {
+        "full_name": "pathwaycom/pathway",
+        "html_url": "https://github.com/pathwaycom/pathway",
+        "stargazers_count": 62242,
+        "forks_count": 1684,
+        "language": "Python"
+      },
+      {
+        "full_name": "RVC-Boss/GPT-SoVITS",
+        "html_url": "https://github.com/RVC-Boss/GPT-SoVITS",
+        "stargazers_count": 62092,
+        "forks_count": 6681,
+        "language": "Python"
+      },
+      {
+        "full_name": "ultralytics/ultralytics",
+        "html_url": "https://github.com/ultralytics/ultralytics",
+        "stargazers_count": 61950,
+        "forks_count": 11799,
+        "language": "Python"
+      },
+      {
+        "full_name": "microsoft/autogen",
+        "html_url": "https://github.com/microsoft/autogen",
+        "stargazers_count": 61123,
+        "forks_count": 9245,
+        "language": "Python"
+      },
+      {
+        "full_name": "calesthio/OpenMontage",
+        "html_url": "https://github.com/calesthio/OpenMontage",
+        "stargazers_count": 61011,
+        "forks_count": 7759,
+        "language": "Python"
+      },
+      {
+        "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+        "html_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+        "stargazers_count": 60148,
+        "forks_count": 9383,
+        "language": "Python"
+      },
+      {
+        "full_name": "meta-llama/llama",
+        "html_url": "https://github.com/meta-llama/llama",
+        "stargazers_count": 59622,
+        "forks_count": 9772,
+        "language": "Python"
+      },
+      {
+        "full_name": "BerriAI/litellm",
+        "html_url": "https://github.com/BerriAI/litellm",
+        "stargazers_count": 59481,
+        "forks_count": 11706,
+        "language": "Python"
+      },
+      {
+        "full_name": "MemPalace/mempalace",
+        "html_url": "https://github.com/MemPalace/mempalace",
+        "stargazers_count": 59248,
+        "forks_count": 7566,
+        "language": "Python"
+      },
+      {
+        "full_name": "crewAIInc/crewAI",
+        "html_url": "https://github.com/crewAIInc/crewAI",
+        "stargazers_count": 58949,
+        "forks_count": 8555,
+        "language": "Python"
+      },
+      {
+        "full_name": "FoundationAgents/OpenManus",
+        "html_url": "https://github.com/FoundationAgents/OpenManus",
+        "stargazers_count": 58393,
+        "forks_count": 10131,
+        "language": "Python"
+      },
+      {
+        "full_name": "karpathy/nanochat",
+        "html_url": "https://github.com/karpathy/nanochat",
+        "stargazers_count": 58233,
+        "forks_count": 8158,
+        "language": "Python"
+      },
+      {
+        "full_name": "ultralytics/yolov5",
+        "html_url": "https://github.com/ultralytics/yolov5",
+        "stargazers_count": 58069,
+        "forks_count": 17462,
+        "language": "Python"
+      },
+      {
+        "full_name": "deepfakes/faceswap",
+        "html_url": "https://github.com/deepfakes/faceswap",
+        "stargazers_count": 57550,
+        "forks_count": 13468,
+        "language": "Python"
+      },
+      {
+        "full_name": "zylon-ai/private-gpt",
+        "html_url": "https://github.com/zylon-ai/private-gpt",
+        "stargazers_count": 57525,
+        "forks_count": 7617,
+        "language": "Python"
+      }
+    ],
+    "languages/go": [
+      {
+        "full_name": "avelino/awesome-go",
+        "html_url": "https://github.com/avelino/awesome-go",
+        "stargazers_count": 185272,
+        "forks_count": 13580,
+        "language": "Go"
+      },
+      {
+        "full_name": "ollama/ollama",
+        "html_url": "https://github.com/ollama/ollama",
+        "stargazers_count": 181524,
+        "forks_count": 17982,
+        "language": "Go"
+      },
+      {
+        "full_name": "golang/go",
+        "html_url": "https://github.com/golang/go",
+        "stargazers_count": 138963,
+        "forks_count": 20092,
+        "language": "Go"
+      },
+      {
+        "full_name": "kubernetes/kubernetes",
+        "html_url": "https://github.com/kubernetes/kubernetes",
+        "stargazers_count": 127924,
+        "forks_count": 44819,
+        "language": "Go"
+      },
+      {
+        "full_name": "microsoft/TypeScript",
+        "html_url": "https://github.com/microsoft/TypeScript",
+        "stargazers_count": 111167,
+        "forks_count": 14555,
+        "language": "Go"
+      },
+      {
+        "full_name": "fatedier/frp",
+        "html_url": "https://github.com/fatedier/frp",
+        "stargazers_count": 109591,
+        "forks_count": 15222,
+        "language": "Go"
+      },
+      {
+        "full_name": "JuliusBrussee/caveman",
+        "html_url": "https://github.com/JuliusBrussee/caveman",
+        "stargazers_count": 107517,
+        "forks_count": 6230,
+        "language": "Go"
+      },
+      {
+        "full_name": "infiniflow/ragflow",
+        "html_url": "https://github.com/infiniflow/ragflow",
+        "stargazers_count": 91226,
+        "forks_count": 10813,
+        "language": "Go"
+      },
+      {
+        "full_name": "gohugoio/hugo",
+        "html_url": "https://github.com/gohugoio/hugo",
+        "stargazers_count": 89912,
+        "forks_count": 8384,
+        "language": "Go"
+      },
+      {
+        "full_name": "gin-gonic/gin",
+        "html_url": "https://github.com/gin-gonic/gin",
+        "stargazers_count": 89250,
+        "forks_count": 8716,
+        "language": "Go"
+      },
+      {
+        "full_name": "syncthing/syncthing",
+        "html_url": "https://github.com/syncthing/syncthing",
+        "stargazers_count": 88872,
+        "forks_count": 5488,
+        "language": "Go"
+      },
+      {
+        "full_name": "junegunn/fzf",
+        "html_url": "https://github.com/junegunn/fzf",
+        "stargazers_count": 83217,
+        "forks_count": 3329,
+        "language": "Go"
+      },
+      {
+        "full_name": "jesseduffield/lazygit",
+        "html_url": "https://github.com/jesseduffield/lazygit",
+        "stargazers_count": 82610,
+        "forks_count": 3047,
+        "language": "Go"
+      },
+      {
+        "full_name": "netdata/netdata",
+        "html_url": "https://github.com/netdata/netdata",
+        "stargazers_count": 80628,
+        "forks_count": 6632,
+        "language": "Go"
+      },
+      {
+        "full_name": "caddyserver/caddy",
+        "html_url": "https://github.com/caddyserver/caddy",
+        "stargazers_count": 76023,
+        "forks_count": 4992,
+        "language": "Go"
+      },
+      {
+        "full_name": "moby/moby",
+        "html_url": "https://github.com/moby/moby",
+        "stargazers_count": 72128,
+        "forks_count": 19233,
+        "language": "Go"
+      },
+      {
+        "full_name": "nektos/act",
+        "html_url": "https://github.com/nektos/act",
+        "stargazers_count": 72087,
+        "forks_count": 2042,
+        "language": "Go"
+      },
+      {
+        "full_name": "prometheus/prometheus",
+        "html_url": "https://github.com/prometheus/prometheus",
+        "stargazers_count": 66191,
+        "forks_count": 10850,
+        "language": "Go"
+      },
+      {
+        "full_name": "traefik/traefik",
+        "html_url": "https://github.com/traefik/traefik",
+        "stargazers_count": 64939,
+        "forks_count": 6202,
+        "language": "Go"
+      },
+      {
+        "full_name": "usememos/memos",
+        "html_url": "https://github.com/usememos/memos",
+        "stargazers_count": 63281,
+        "forks_count": 4779,
+        "language": "Go"
+      },
+      {
+        "full_name": "minio/minio",
+        "html_url": "https://github.com/minio/minio",
+        "stargazers_count": 61356,
+        "forks_count": 7983,
+        "language": "Go"
+      },
+      {
+        "full_name": "pocketbase/pocketbase",
+        "html_url": "https://github.com/pocketbase/pocketbase",
+        "stargazers_count": 61134,
+        "forks_count": 3701,
+        "language": "Go"
+      },
+      {
+        "full_name": "rclone/rclone",
+        "html_url": "https://github.com/rclone/rclone",
+        "stargazers_count": 59912,
+        "forks_count": 5423,
+        "language": "Go"
+      },
+      {
+        "full_name": "FiloSottile/mkcert",
+        "html_url": "https://github.com/FiloSottile/mkcert",
+        "stargazers_count": 59675,
+        "forks_count": 3140,
+        "language": "Go"
+      },
+      {
+        "full_name": "go-gitea/gitea",
+        "html_url": "https://github.com/go-gitea/gitea",
+        "stargazers_count": 58135,
+        "forks_count": 7167,
+        "language": "Go"
+      },
+      {
+        "full_name": "wagoodman/dive",
+        "html_url": "https://github.com/wagoodman/dive",
+        "stargazers_count": 54599,
+        "forks_count": 2002,
+        "language": "Go"
+      },
+      {
+        "full_name": "router-for-me/CLIProxyAPI",
+        "html_url": "https://github.com/router-for-me/CLIProxyAPI",
+        "stargazers_count": 53005,
+        "forks_count": 8004,
+        "language": "Go"
+      },
+      {
+        "full_name": "jesseduffield/lazydocker",
+        "html_url": "https://github.com/jesseduffield/lazydocker",
+        "stargazers_count": 52932,
+        "forks_count": 1689,
+        "language": "Go"
+      },
+      {
+        "full_name": "etcd-io/etcd",
+        "html_url": "https://github.com/etcd-io/etcd",
+        "stargazers_count": 52301,
+        "forks_count": 10509,
+        "language": "Go"
+      },
+      {
+        "full_name": "ethereum/go-ethereum",
+        "html_url": "https://github.com/ethereum/go-ethereum",
+        "stargazers_count": 51366,
+        "forks_count": 22158,
+        "language": "Go"
+      },
+      {
+        "full_name": "multica-ai/multica",
+        "html_url": "https://github.com/multica-ai/multica",
+        "stargazers_count": 51217,
+        "forks_count": 6635,
+        "language": "Go"
+      },
+      {
+        "full_name": "AlistGo/alist",
+        "html_url": "https://github.com/AlistGo/alist",
+        "stargazers_count": 50215,
+        "forks_count": 7939,
+        "language": "Go"
+      },
+      {
+        "full_name": "hashicorp/terraform",
+        "html_url": "https://github.com/hashicorp/terraform",
+        "stargazers_count": 49712,
+        "forks_count": 10624,
+        "language": "Go"
+      },
+      {
+        "full_name": "mudler/LocalAI",
+        "html_url": "https://github.com/mudler/LocalAI",
+        "stargazers_count": 49242,
+        "forks_count": 4465,
+        "language": "Go"
+      },
+      {
+        "full_name": "QuantumNous/new-api",
+        "html_url": "https://github.com/QuantumNous/new-api",
+        "stargazers_count": 48776,
+        "forks_count": 11715,
+        "language": "Go"
+      },
+      {
+        "full_name": "gogs/gogs",
+        "html_url": "https://github.com/gogs/gogs",
+        "stargazers_count": 47823,
+        "forks_count": 5070,
+        "language": "Go"
+      },
+      {
+        "full_name": "v2ray/v2ray-core",
+        "html_url": "https://github.com/v2ray/v2ray-core",
+        "stargazers_count": 46924,
+        "forks_count": 8805,
+        "language": "Go"
+      },
+      {
+        "full_name": "MHSanaei/3x-ui",
+        "html_url": "https://github.com/MHSanaei/3x-ui",
+        "stargazers_count": 46833,
+        "forks_count": 11778,
+        "language": "Go"
+      },
+      {
+        "full_name": "cli/cli",
+        "html_url": "https://github.com/cli/cli",
+        "stargazers_count": 46381,
+        "forks_count": 9068,
+        "language": "Go"
+      },
+      {
+        "full_name": "milvus-io/milvus",
+        "html_url": "https://github.com/milvus-io/milvus",
+        "stargazers_count": 46239,
+        "forks_count": 4268,
+        "language": "Go"
+      },
+      {
+        "full_name": "charmbracelet/bubbletea",
+        "html_url": "https://github.com/charmbracelet/bubbletea",
+        "stargazers_count": 45097,
+        "forks_count": 1833,
+        "language": "Go"
+      },
+      {
+        "full_name": "spf13/cobra",
+        "html_url": "https://github.com/spf13/cobra",
+        "stargazers_count": 44638,
+        "forks_count": 3723,
+        "language": "Go"
+      },
+      {
+        "full_name": "juanfont/headscale",
+        "html_url": "https://github.com/juanfont/headscale",
+        "stargazers_count": 44061,
+        "forks_count": 2581,
+        "language": "Go"
+      },
+      {
+        "full_name": "danielmiessler/Fabric",
+        "html_url": "https://github.com/danielmiessler/Fabric",
+        "stargazers_count": 44050,
+        "forks_count": 4280,
+        "language": "Go"
+      },
+      {
+        "full_name": "astaxie/build-web-application-with-golang",
+        "html_url": "https://github.com/astaxie/build-web-application-with-golang",
+        "stargazers_count": 43898,
+        "forks_count": 10403,
+        "language": "Go"
+      },
+      {
+        "full_name": "Wei-Shaw/sub2api",
+        "html_url": "https://github.com/Wei-Shaw/sub2api",
+        "stargazers_count": 42513,
+        "forks_count": 9080,
+        "language": "Go"
+      },
+      {
+        "full_name": "XTLS/Xray-core",
+        "html_url": "https://github.com/XTLS/Xray-core",
+        "stargazers_count": 41746,
+        "forks_count": 5902,
+        "language": "Go"
+      },
+      {
+        "full_name": "pingcap/tidb",
+        "html_url": "https://github.com/pingcap/tidb",
+        "stargazers_count": 40577,
+        "forks_count": 6244,
+        "language": "Go"
+      },
+      {
+        "full_name": "schollz/croc",
+        "html_url": "https://github.com/schollz/croc",
+        "stargazers_count": 40428,
+        "forks_count": 1624,
+        "language": "Go"
+      },
+      {
+        "full_name": "photoprism/photoprism",
+        "html_url": "https://github.com/photoprism/photoprism",
+        "stargazers_count": 40227,
+        "forks_count": 2325,
+        "language": "Go"
+      },
+      {
+        "full_name": "gofiber/fiber",
+        "html_url": "https://github.com/gofiber/fiber",
+        "stargazers_count": 40177,
+        "forks_count": 2039,
+        "language": "Go"
+      },
+      {
+        "full_name": "alibaba/open-code-review",
+        "html_url": "https://github.com/alibaba/open-code-review",
+        "stargazers_count": 40108,
+        "forks_count": 2883,
+        "language": "Go"
+      },
+      {
+        "full_name": "evanw/esbuild",
+        "html_url": "https://github.com/evanw/esbuild",
+        "stargazers_count": 40068,
+        "forks_count": 1345,
+        "language": "Go"
+      },
+      {
+        "full_name": "go-gorm/gorm",
+        "html_url": "https://github.com/go-gorm/gorm",
+        "stargazers_count": 39963,
+        "forks_count": 4187,
+        "language": "Go"
+      },
+      {
+        "full_name": "harness/harness",
+        "html_url": "https://github.com/harness/harness",
+        "stargazers_count": 38425,
+        "forks_count": 3404,
+        "language": "Go"
+      },
+      {
+        "full_name": "istio/istio",
+        "html_url": "https://github.com/istio/istio",
+        "stargazers_count": 38402,
+        "forks_count": 8375,
+        "language": "Go"
+      },
+      {
+        "full_name": "SagerNet/sing-box",
+        "html_url": "https://github.com/SagerNet/sing-box",
+        "stargazers_count": 38245,
+        "forks_count": 4643,
+        "language": "Go"
+      },
+      {
+        "full_name": "docker/compose",
+        "html_url": "https://github.com/docker/compose",
+        "stargazers_count": 38206,
+        "forks_count": 5833,
+        "language": "Go"
+      },
+      {
+        "full_name": "aquasecurity/trivy",
+        "html_url": "https://github.com/aquasecurity/trivy",
+        "stargazers_count": 38046,
+        "forks_count": 709,
+        "language": "Go"
+      },
+      {
+        "full_name": "IceWhaleTech/CasaOS",
+        "html_url": "https://github.com/IceWhaleTech/CasaOS",
+        "stargazers_count": 37252,
+        "forks_count": 2194,
+        "language": "Go"
+      },
+      {
+        "full_name": "glanceapp/glance",
+        "html_url": "https://github.com/glanceapp/glance",
+        "stargazers_count": 37176,
+        "forks_count": 1464,
+        "language": "Go"
+      },
+      {
+        "full_name": "1Panel-dev/1Panel",
+        "html_url": "https://github.com/1Panel-dev/1Panel",
+        "stargazers_count": 37008,
+        "forks_count": 3361,
+        "language": "Go"
+      },
+      {
+        "full_name": "tailscale/tailscale",
+        "html_url": "https://github.com/tailscale/tailscale",
+        "stargazers_count": 36792,
+        "forks_count": 3240,
+        "language": "Go"
+      },
+      {
+        "full_name": "wailsapp/wails",
+        "html_url": "https://github.com/wailsapp/wails",
+        "stargazers_count": 36320,
+        "forks_count": 1861,
+        "language": "Go"
+      },
+      {
+        "full_name": "hashicorp/vault",
+        "html_url": "https://github.com/hashicorp/vault",
+        "stargazers_count": 36283,
+        "forks_count": 4760,
+        "language": "Go"
+      },
+      {
+        "full_name": "restic/restic",
+        "html_url": "https://github.com/restic/restic",
+        "stargazers_count": 36204,
+        "forks_count": 1882,
+        "language": "Go"
+      },
+      {
+        "full_name": "filebrowser/filebrowser",
+        "html_url": "https://github.com/filebrowser/filebrowser",
+        "stargazers_count": 35939,
+        "forks_count": 4103,
+        "language": "Go"
+      },
+      {
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "stargazers_count": 35694,
+        "forks_count": 2419,
+        "language": "Go"
+      },
+      {
+        "full_name": "unknwon/the-way-to-go_ZH_CN",
+        "html_url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+        "stargazers_count": 35019,
+        "forks_count": 8472,
+        "language": "Go"
+      },
+      {
+        "full_name": "seaweedfs/seaweedfs",
+        "html_url": "https://github.com/seaweedfs/seaweedfs",
+        "stargazers_count": 34918,
+        "forks_count": 3001,
+        "language": "Go"
+      },
+      {
+        "full_name": "derailed/k9s",
+        "html_url": "https://github.com/derailed/k9s",
+        "stargazers_count": 34659,
+        "forks_count": 2289,
+        "language": "Go"
+      },
+      {
+        "full_name": "v2fly/v2ray-core",
+        "html_url": "https://github.com/v2fly/v2ray-core",
+        "stargazers_count": 34611,
+        "forks_count": 5070,
+        "language": "Go"
+      },
+      {
+        "full_name": "binwiederhier/ntfy",
+        "html_url": "https://github.com/binwiederhier/ntfy",
+        "stargazers_count": 34391,
+        "forks_count": 1614,
+        "language": "Go"
+      },
+      {
+        "full_name": "ehang-io/nps",
+        "html_url": "https://github.com/ehang-io/nps",
+        "stargazers_count": 34233,
+        "forks_count": 6072,
+        "language": "Go"
+      },
+      {
+        "full_name": "k3s-io/k3s",
+        "html_url": "https://github.com/k3s-io/k3s",
+        "stargazers_count": 34026,
+        "forks_count": 2729,
+        "language": "Go"
+      },
+      {
+        "full_name": "halfrost/LeetCode-Go",
+        "html_url": "https://github.com/halfrost/LeetCode-Go",
+        "stargazers_count": 33811,
+        "forks_count": 5702,
+        "language": "Go"
+      },
+      {
+        "full_name": "zeromicro/go-zero",
+        "html_url": "https://github.com/zeromicro/go-zero",
+        "stargazers_count": 33347,
+        "forks_count": 4315,
+        "language": "Go"
+      },
+      {
+        "full_name": "github/github-mcp-server",
+        "html_url": "https://github.com/github/github-mcp-server",
+        "stargazers_count": 33149,
+        "forks_count": 5039,
+        "language": "Go"
+      },
+      {
+        "full_name": "podman-container-tools/podman",
+        "html_url": "https://github.com/podman-container-tools/podman",
+        "stargazers_count": 32919,
+        "forks_count": 3386,
+        "language": "Go"
+      },
+      {
+        "full_name": "labstack/echo",
+        "html_url": "https://github.com/labstack/echo",
+        "stargazers_count": 32726,
+        "forks_count": 2884,
+        "language": "Go"
+      },
+      {
+        "full_name": "cockroachdb/cockroach",
+        "html_url": "https://github.com/cockroachdb/cockroach",
+        "stargazers_count": 32485,
+        "forks_count": 4115,
+        "language": "Go"
+      },
+      {
+        "full_name": "beego/beego",
+        "html_url": "https://github.com/beego/beego",
+        "stargazers_count": 32426,
+        "forks_count": 5572,
+        "language": "Go"
+      },
+      {
+        "full_name": "dokku/dokku",
+        "html_url": "https://github.com/dokku/dokku",
+        "stargazers_count": 32154,
+        "forks_count": 2077,
+        "language": "Go"
+      },
+      {
+        "full_name": "kubernetes/minikube",
+        "html_url": "https://github.com/kubernetes/minikube",
+        "stargazers_count": 32152,
+        "forks_count": 5330,
+        "language": "Go"
+      },
+      {
+        "full_name": "iawia002/lux",
+        "html_url": "https://github.com/iawia002/lux",
+        "stargazers_count": 31696,
+        "forks_count": 3316,
+        "language": "Go"
+      },
+      {
+        "full_name": "grafana/k6",
+        "html_url": "https://github.com/grafana/k6",
+        "stargazers_count": 31555,
+        "forks_count": 1638,
+        "language": "Go"
+      },
+      {
+        "full_name": "projectdiscovery/nuclei",
+        "html_url": "https://github.com/projectdiscovery/nuclei",
+        "stargazers_count": 31461,
+        "forks_count": 3886,
+        "language": "Go"
+      },
+      {
+        "full_name": "abiosoft/colima",
+        "html_url": "https://github.com/abiosoft/colima",
+        "stargazers_count": 30955,
+        "forks_count": 620,
+        "language": "Go"
+      },
+      {
+        "full_name": "chubin/wttr.in",
+        "html_url": "https://github.com/chubin/wttr.in",
+        "stargazers_count": 30578,
+        "forks_count": 1273,
+        "language": "Go"
+      },
+      {
+        "full_name": "spf13/viper",
+        "html_url": "https://github.com/spf13/viper",
+        "stargazers_count": 30466,
+        "forks_count": 2277,
+        "language": "Go"
+      },
+      {
+        "full_name": "helm/helm",
+        "html_url": "https://github.com/helm/helm",
+        "stargazers_count": 30272,
+        "forks_count": 7795,
+        "language": "Go"
+      },
+      {
+        "full_name": "opentofu/opentofu",
+        "html_url": "https://github.com/opentofu/opentofu",
+        "stargazers_count": 30269,
+        "forks_count": 1375,
+        "language": "Go"
+      },
+      {
+        "full_name": "hashicorp/consul",
+        "html_url": "https://github.com/hashicorp/consul",
+        "stargazers_count": 30081,
+        "forks_count": 4621,
+        "language": "Go"
+      },
+      {
+        "full_name": "sipeed/picoclaw",
+        "html_url": "https://github.com/sipeed/picoclaw",
+        "stargazers_count": 30011,
+        "forks_count": 4453,
+        "language": "Go"
+      },
+      {
+        "full_name": "micro-editor/micro",
+        "html_url": "https://github.com/micro-editor/micro",
+        "stargazers_count": 29628,
+        "forks_count": 1374,
+        "language": "Go"
+      },
+      {
+        "full_name": "netbirdio/netbird",
+        "html_url": "https://github.com/netbirdio/netbird",
+        "stargazers_count": 29460,
+        "forks_count": 1697,
+        "language": "Go"
+      },
+      {
+        "full_name": "gitleaks/gitleaks",
+        "html_url": "https://github.com/gitleaks/gitleaks",
+        "stargazers_count": 29451,
+        "forks_count": 2239,
+        "language": "Go"
+      },
+      {
+        "full_name": "goharbor/harbor",
+        "html_url": "https://github.com/goharbor/harbor",
+        "stargazers_count": 29439,
+        "forks_count": 5357,
+        "language": "Go"
+      },
+      {
+        "full_name": "Tencent/WeKnora",
+        "html_url": "https://github.com/Tencent/WeKnora",
+        "stargazers_count": 29277,
+        "forks_count": 3943,
+        "language": "Go"
+      },
+      {
+        "full_name": "XIU2/CloudflareSpeedTest",
+        "html_url": "https://github.com/XIU2/CloudflareSpeedTest",
+        "stargazers_count": 29137,
+        "forks_count": 5468,
+        "language": "Go"
+      }
+    ],
+    "languages/rust": [
+      {
+        "full_name": "ultraworkers/claw-code",
+        "html_url": "https://github.com/ultraworkers/claw-code",
+        "stargazers_count": 195287,
+        "forks_count": 108426,
+        "language": "Rust"
+      },
+      {
+        "full_name": "clash-verge-rev/clash-verge-rev",
+        "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+        "stargazers_count": 146807,
+        "forks_count": 10545,
+        "language": "Rust"
+      },
+      {
+        "full_name": "farion1231/cc-switch",
+        "html_url": "https://github.com/farion1231/cc-switch",
+        "stargazers_count": 135553,
+        "forks_count": 9289,
+        "language": "Rust"
+      },
+      {
+        "full_name": "openai/codex",
+        "html_url": "https://github.com/openai/codex",
+        "stargazers_count": 126153,
+        "forks_count": 19647,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rustdesk/rustdesk",
+        "html_url": "https://github.com/rustdesk/rustdesk",
+        "stargazers_count": 124350,
+        "forks_count": 19230,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rust-lang/rust",
+        "html_url": "https://github.com/rust-lang/rust",
+        "stargazers_count": 119071,
+        "forks_count": 16329,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tauri-apps/tauri",
+        "html_url": "https://github.com/tauri-apps/tauri",
+        "stargazers_count": 111295,
+        "forks_count": 4022,
+        "language": "Rust"
+      },
+      {
+        "full_name": "denoland/deno",
+        "html_url": "https://github.com/denoland/deno",
+        "stargazers_count": 108480,
+        "forks_count": 6379,
+        "language": "Rust"
+      },
+      {
+        "full_name": "oven-sh/bun",
+        "html_url": "https://github.com/oven-sh/bun",
+        "stargazers_count": 96017,
+        "forks_count": 5056,
+        "language": "Rust"
+      },
+      {
+        "full_name": "ruvnet/RuView",
+        "html_url": "https://github.com/ruvnet/RuView",
+        "stargazers_count": 94826,
+        "forks_count": 12549,
+        "language": "Rust"
+      },
+      {
+        "full_name": "zed-industries/zed",
+        "html_url": "https://github.com/zed-industries/zed",
+        "stargazers_count": 90764,
+        "forks_count": 10738,
+        "language": "Rust"
+      },
+      {
+        "full_name": "astral-sh/uv",
+        "html_url": "https://github.com/astral-sh/uv",
+        "stargazers_count": 90100,
+        "forks_count": 3606,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rtk-ai/rtk",
+        "html_url": "https://github.com/rtk-ai/rtk",
+        "stargazers_count": 81553,
+        "forks_count": 5159,
+        "language": "Rust"
+      },
+      {
+        "full_name": "unionlabs/union",
+        "html_url": "https://github.com/unionlabs/union",
+        "stargazers_count": 73792,
+        "forks_count": 3886,
+        "language": "Rust"
+      },
+      {
+        "full_name": "BurntSushi/ripgrep",
+        "html_url": "https://github.com/BurntSushi/ripgrep",
+        "stargazers_count": 68542,
+        "forks_count": 3308,
+        "language": "Rust"
+      },
+      {
+        "full_name": "openinterpreter/openinterpreter",
+        "html_url": "https://github.com/openinterpreter/openinterpreter",
+        "stargazers_count": 68414,
+        "forks_count": 5882,
+        "language": "Rust"
+      },
+      {
+        "full_name": "dani-garcia/vaultwarden",
+        "html_url": "https://github.com/dani-garcia/vaultwarden",
+        "stargazers_count": 68062,
+        "forks_count": 3240,
+        "language": "Rust"
+      },
+      {
+        "full_name": "alacritty/alacritty",
+        "html_url": "https://github.com/alacritty/alacritty",
+        "stargazers_count": 65799,
+        "forks_count": 3622,
+        "language": "Rust"
+      },
+      {
+        "full_name": "warpdotdev/warp",
+        "html_url": "https://github.com/warpdotdev/warp",
+        "stargazers_count": 65137,
+        "forks_count": 5581,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rust-lang/rustlings",
+        "html_url": "https://github.com/rust-lang/rustlings",
+        "stargazers_count": 64200,
+        "forks_count": 11251,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tw93/Pake",
+        "html_url": "https://github.com/tw93/Pake",
+        "stargazers_count": 61669,
+        "forks_count": 12705,
+        "language": "Rust"
+      },
+      {
+        "full_name": "FuelLabs/sway",
+        "html_url": "https://github.com/FuelLabs/sway",
+        "stargazers_count": 61424,
+        "forks_count": 5413,
+        "language": "Rust"
+      },
+      {
+        "full_name": "sharkdp/bat",
+        "html_url": "https://github.com/sharkdp/bat",
+        "stargazers_count": 60555,
+        "forks_count": 2143,
+        "language": "Rust"
+      },
+      {
+        "full_name": "starship/starship",
+        "html_url": "https://github.com/starship/starship",
+        "stargazers_count": 60016,
+        "forks_count": 2673,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rust-unofficial/awesome-rust",
+        "html_url": "https://github.com/rust-unofficial/awesome-rust",
+        "stargazers_count": 59509,
+        "forks_count": 3632,
+        "language": "Rust"
+      },
+      {
+        "full_name": "meilisearch/meilisearch",
+        "html_url": "https://github.com/meilisearch/meilisearch",
+        "stargazers_count": 59385,
+        "forks_count": 2712,
+        "language": "Rust"
+      },
+      {
+        "full_name": "FuelLabs/fuel-core",
+        "html_url": "https://github.com/FuelLabs/fuel-core",
+        "stargazers_count": 56832,
+        "forks_count": 2862,
+        "language": "Rust"
+      },
+      {
+        "full_name": "typst/typst",
+        "html_url": "https://github.com/typst/typst",
+        "stargazers_count": 56198,
+        "forks_count": 1721,
+        "language": "Rust"
+      },
+      {
+        "full_name": "aaif-goose/goose",
+        "html_url": "https://github.com/aaif-goose/goose",
+        "stargazers_count": 54589,
+        "forks_count": 6300,
+        "language": "Rust"
+      },
+      {
+        "full_name": "lencx/ChatGPT",
+        "html_url": "https://github.com/lencx/ChatGPT",
+        "stargazers_count": 54561,
+        "forks_count": 6152,
+        "language": "Rust"
+      },
+      {
+        "full_name": "astral-sh/ruff",
+        "html_url": "https://github.com/astral-sh/ruff",
+        "stargazers_count": 49741,
+        "forks_count": 2432,
+        "language": "Rust"
+      },
+      {
+        "full_name": "bevyengine/bevy",
+        "html_url": "https://github.com/bevyengine/bevy",
+        "stargazers_count": 48344,
+        "forks_count": 4854,
+        "language": "Rust"
+      },
+      {
+        "full_name": "helix-editor/helix",
+        "html_url": "https://github.com/helix-editor/helix",
+        "stargazers_count": 46310,
+        "forks_count": 3768,
+        "language": "Rust"
+      },
+      {
+        "full_name": "janhq/jan",
+        "html_url": "https://github.com/janhq/jan",
+        "stargazers_count": 44622,
+        "forks_count": 3050,
+        "language": "Rust"
+      },
+      {
+        "full_name": "sharkdp/fd",
+        "html_url": "https://github.com/sharkdp/fd",
+        "stargazers_count": 44522,
+        "forks_count": 1143,
+        "language": "Rust"
+      },
+      {
+        "full_name": "juspay/hyperswitch",
+        "html_url": "https://github.com/juspay/hyperswitch",
+        "stargazers_count": 43797,
+        "forks_count": 5276,
+        "language": "Rust"
+      },
+      {
+        "full_name": "vercel-labs/agent-browser",
+        "html_url": "https://github.com/vercel-labs/agent-browser",
+        "stargazers_count": 43114,
+        "forks_count": 2895,
+        "language": "Rust"
+      },
+      {
+        "full_name": "FuelLabs/fuels-rs",
+        "html_url": "https://github.com/FuelLabs/fuels-rs",
+        "stargazers_count": 43009,
+        "forks_count": 1359,
+        "language": "Rust"
+      },
+      {
+        "full_name": "sxyazi/yazi",
+        "html_url": "https://github.com/sxyazi/yazi",
+        "stargazers_count": 42372,
+        "forks_count": 1024,
+        "language": "Rust"
+      },
+      {
+        "full_name": "GyulyVGC/sniffnet",
+        "html_url": "https://github.com/GyulyVGC/sniffnet",
+        "stargazers_count": 41204,
+        "forks_count": 1962,
+        "language": "Rust"
+      },
+      {
+        "full_name": "Hmbown/Codewhale",
+        "html_url": "https://github.com/Hmbown/Codewhale",
+        "stargazers_count": 41030,
+        "forks_count": 3563,
+        "language": "Rust"
+      },
+      {
+        "full_name": "nushell/nushell",
+        "html_url": "https://github.com/nushell/nushell",
+        "stargazers_count": 40556,
+        "forks_count": 2268,
+        "language": "Rust"
+      },
+      {
+        "full_name": "herdrdev/herdr",
+        "html_url": "https://github.com/herdrdev/herdr",
+        "stargazers_count": 40376,
+        "forks_count": 3076,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tinyhumansai/openhuman",
+        "html_url": "https://github.com/tinyhumansai/openhuman",
+        "stargazers_count": 40059,
+        "forks_count": 3953,
+        "language": "Rust"
+      },
+      {
+        "full_name": "pola-rs/polars",
+        "html_url": "https://github.com/pola-rs/polars",
+        "stargazers_count": 39848,
+        "forks_count": 3127,
+        "language": "Rust"
+      },
+      {
+        "full_name": "ajeetdsouza/zoxide",
+        "html_url": "https://github.com/ajeetdsouza/zoxide",
+        "stargazers_count": 39660,
+        "forks_count": 908,
+        "language": "Rust"
+      },
+      {
+        "full_name": "DioxusLabs/dioxus",
+        "html_url": "https://github.com/DioxusLabs/dioxus",
+        "stargazers_count": 39220,
+        "forks_count": 1900,
+        "language": "Rust"
+      },
+      {
+        "full_name": "spacedriveapp/spacedrive",
+        "html_url": "https://github.com/spacedriveapp/spacedrive",
+        "stargazers_count": 39020,
+        "forks_count": 1353,
+        "language": "Rust"
+      },
+      {
+        "full_name": "lapce/lapce",
+        "html_url": "https://github.com/lapce/lapce",
+        "stargazers_count": 38863,
+        "forks_count": 1335,
+        "language": "Rust"
+      },
+      {
+        "full_name": "servo/servo",
+        "html_url": "https://github.com/servo/servo",
+        "stargazers_count": 38027,
+        "forks_count": 3806,
+        "language": "Rust"
+      },
+      {
+        "full_name": "AlexsJones/llmfit",
+        "html_url": "https://github.com/AlexsJones/llmfit",
+        "stargazers_count": 37069,
+        "forks_count": 2364,
+        "language": "Rust"
+      },
+      {
+        "full_name": "firecracker-microvm/firecracker",
+        "html_url": "https://github.com/firecracker-microvm/firecracker",
+        "stargazers_count": 36898,
+        "forks_count": 2643,
+        "language": "Rust"
+      },
+      {
+        "full_name": "pnpm/pnpm",
+        "html_url": "https://github.com/pnpm/pnpm",
+        "stargazers_count": 36622,
+        "forks_count": 1752,
+        "language": "Rust"
+      },
+      {
+        "full_name": "casey/just",
+        "html_url": "https://github.com/casey/just",
+        "stargazers_count": 35977,
+        "forks_count": 847,
+        "language": "Rust"
+      },
+      {
+        "full_name": "zellij-org/zellij",
+        "html_url": "https://github.com/zellij-org/zellij",
+        "stargazers_count": 35513,
+        "forks_count": 1461,
+        "language": "Rust"
+      },
+      {
+        "full_name": "qdrant/qdrant",
+        "html_url": "https://github.com/qdrant/qdrant",
+        "stargazers_count": 34760,
+        "forks_count": 2691,
+        "language": "Rust"
+      },
+      {
+        "full_name": "jdx/mise",
+        "html_url": "https://github.com/jdx/mise",
+        "stargazers_count": 34229,
+        "forks_count": 1444,
+        "language": "Rust"
+      },
+      {
+        "full_name": "fish-shell/fish-shell",
+        "html_url": "https://github.com/fish-shell/fish-shell",
+        "stargazers_count": 34227,
+        "forks_count": 2376,
+        "language": "Rust"
+      },
+      {
+        "full_name": "swc-project/swc",
+        "html_url": "https://github.com/swc-project/swc",
+        "stargazers_count": 34204,
+        "forks_count": 1556,
+        "language": "Rust"
+      },
+      {
+        "full_name": "block/buzz",
+        "html_url": "https://github.com/block/buzz",
+        "stargazers_count": 34082,
+        "forks_count": 4502,
+        "language": "Rust"
+      },
+      {
+        "full_name": "TabbyML/tabby",
+        "html_url": "https://github.com/TabbyML/tabby",
+        "stargazers_count": 33889,
+        "forks_count": 1786,
+        "language": "Rust"
+      },
+      {
+        "full_name": "rustfs/rustfs",
+        "html_url": "https://github.com/rustfs/rustfs",
+        "stargazers_count": 33716,
+        "forks_count": 1508,
+        "language": "Rust"
+      },
+      {
+        "full_name": "xai-org/x-algorithm",
+        "html_url": "https://github.com/xai-org/x-algorithm",
+        "stargazers_count": 33380,
+        "forks_count": 5418,
+        "language": "Rust"
+      },
+      {
+        "full_name": "google/comprehensive-rust",
+        "html_url": "https://github.com/google/comprehensive-rust",
+        "stargazers_count": 33376,
+        "forks_count": 2072,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tokio-rs/tokio",
+        "html_url": "https://github.com/tokio-rs/tokio",
+        "stargazers_count": 33213,
+        "forks_count": 3727,
+        "language": "Rust"
+      },
+      {
+        "full_name": "surrealdb/surrealdb",
+        "html_url": "https://github.com/surrealdb/surrealdb",
+        "stargazers_count": 33055,
+        "forks_count": 1362,
+        "language": "Rust"
+      },
+      {
+        "full_name": "zeroclaw-labs/zeroclaw",
+        "html_url": "https://github.com/zeroclaw-labs/zeroclaw",
+        "stargazers_count": 32875,
+        "forks_count": 4951,
+        "language": "Rust"
+      },
+      {
+        "full_name": "yewstack/yew",
+        "html_url": "https://github.com/yewstack/yew",
+        "stargazers_count": 32816,
+        "forks_count": 1453,
+        "language": "Rust"
+      },
+      {
+        "full_name": "dandavison/delta",
+        "html_url": "https://github.com/dandavison/delta",
+        "stargazers_count": 32313,
+        "forks_count": 580,
+        "language": "Rust"
+      },
+      {
+        "full_name": "linera-io/linera-protocol",
+        "html_url": "https://github.com/linera-io/linera-protocol",
+        "stargazers_count": 32119,
+        "forks_count": 2417,
+        "language": "Rust"
+      },
+      {
+        "full_name": "cjpais/Handy",
+        "html_url": "https://github.com/cjpais/Handy",
+        "stargazers_count": 32079,
+        "forks_count": 2938,
+        "language": "Rust"
+      },
+      {
+        "full_name": "atuinsh/atuin",
+        "html_url": "https://github.com/atuinsh/atuin",
+        "stargazers_count": 31788,
+        "forks_count": 971,
+        "language": "Rust"
+      },
+      {
+        "full_name": "influxdata/influxdb",
+        "html_url": "https://github.com/influxdata/influxdb",
+        "stargazers_count": 31753,
+        "forks_count": 3717,
+        "language": "Rust"
+      },
+      {
+        "full_name": "jj-vcs/jj",
+        "html_url": "https://github.com/jj-vcs/jj",
+        "stargazers_count": 31714,
+        "forks_count": 1232,
+        "language": "Rust"
+      },
+      {
+        "full_name": "lbjlaq/Antigravity-Manager",
+        "html_url": "https://github.com/lbjlaq/Antigravity-Manager",
+        "stargazers_count": 31684,
+        "forks_count": 3410,
+        "language": "Rust"
+      },
+      {
+        "full_name": "iced-rs/iced",
+        "html_url": "https://github.com/iced-rs/iced",
+        "stargazers_count": 31548,
+        "forks_count": 1676,
+        "language": "Rust"
+      },
+      {
+        "full_name": "ankitects/anki",
+        "html_url": "https://github.com/ankitects/anki",
+        "stargazers_count": 31461,
+        "forks_count": 3256,
+        "language": "Rust"
+      },
+      {
+        "full_name": "BigPizzaV3/CodexPlusPlus",
+        "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+        "stargazers_count": 31450,
+        "forks_count": 2006,
+        "language": "Rust"
+      },
+      {
+        "full_name": "vercel/turborepo",
+        "html_url": "https://github.com/vercel/turborepo",
+        "stargazers_count": 31129,
+        "forks_count": 2443,
+        "language": "Rust"
+      },
+      {
+        "full_name": "googleworkspace/cli",
+        "html_url": "https://github.com/googleworkspace/cli",
+        "stargazers_count": 31121,
+        "forks_count": 1848,
+        "language": "Rust"
+      },
+      {
+        "full_name": "Zackriya-Solutions/meetily",
+        "html_url": "https://github.com/Zackriya-Solutions/meetily",
+        "stargazers_count": 31056,
+        "forks_count": 3377,
+        "language": "Rust"
+      },
+      {
+        "full_name": "sunface/rust-course",
+        "html_url": "https://github.com/sunface/rust-course",
+        "stargazers_count": 30966,
+        "forks_count": 2594,
+        "language": "Rust"
+      },
+      {
+        "full_name": "emilk/egui",
+        "html_url": "https://github.com/emilk/egui",
+        "stargazers_count": 30681,
+        "forks_count": 2148,
+        "language": "Rust"
+      },
+      {
+        "full_name": "chroma-core/chroma",
+        "html_url": "https://github.com/chroma-core/chroma",
+        "stargazers_count": 29359,
+        "forks_count": 2528,
+        "language": "Rust"
+      },
+      {
+        "full_name": "nautechsystems/nautilus_trader",
+        "html_url": "https://github.com/nautechsystems/nautilus_trader",
+        "stargazers_count": 29307,
+        "forks_count": 3874,
+        "language": "Rust"
+      },
+      {
+        "full_name": "wezterm/wezterm",
+        "html_url": "https://github.com/wezterm/wezterm",
+        "stargazers_count": 29002,
+        "forks_count": 1754,
+        "language": "Rust"
+      },
+      {
+        "full_name": "sharkdp/hyperfine",
+        "html_url": "https://github.com/sharkdp/hyperfine",
+        "stargazers_count": 28892,
+        "forks_count": 512,
+        "language": "Rust"
+      },
+      {
+        "full_name": "BloopAI/vibe-kanban",
+        "html_url": "https://github.com/BloopAI/vibe-kanban",
+        "stargazers_count": 28172,
+        "forks_count": 3020,
+        "language": "Rust"
+      },
+      {
+        "full_name": "niri-wm/niri",
+        "html_url": "https://github.com/niri-wm/niri",
+        "stargazers_count": 27924,
+        "forks_count": 1156,
+        "language": "Rust"
+      },
+      {
+        "full_name": "h4ckf0r0day/obscura",
+        "html_url": "https://github.com/h4ckf0r0day/obscura",
+        "stargazers_count": 27774,
+        "forks_count": 2047,
+        "language": "Rust"
+      },
+      {
+        "full_name": "cloudflare/pingora",
+        "html_url": "https://github.com/cloudflare/pingora",
+        "stargazers_count": 27516,
+        "forks_count": 1756,
+        "language": "Rust"
+      },
+      {
+        "full_name": "GraphiteEditor/Graphite",
+        "html_url": "https://github.com/GraphiteEditor/Graphite",
+        "stargazers_count": 27339,
+        "forks_count": 1263,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tokio-rs/axum",
+        "html_url": "https://github.com/tokio-rs/axum",
+        "stargazers_count": 27218,
+        "forks_count": 1487,
+        "language": "Rust"
+      },
+      {
+        "full_name": "oldj/SwitchHosts",
+        "html_url": "https://github.com/oldj/SwitchHosts",
+        "stargazers_count": 27217,
+        "forks_count": 2683,
+        "language": "Rust"
+      },
+      {
+        "full_name": "xai-org/grok-build",
+        "html_url": "https://github.com/xai-org/grok-build",
+        "stargazers_count": 27047,
+        "forks_count": 5097,
+        "language": "Rust"
+      },
+      {
+        "full_name": "tree-sitter/tree-sitter",
+        "html_url": "https://github.com/tree-sitter/tree-sitter",
+        "stargazers_count": 27025,
+        "forks_count": 2913,
+        "language": "Rust"
+      },
+      {
+        "full_name": "Schniz/fnm",
+        "html_url": "https://github.com/Schniz/fnm",
+        "stargazers_count": 26940,
+        "forks_count": 648,
+        "language": "Rust"
+      },
+      {
+        "full_name": "TheAlgorithms/Rust",
+        "html_url": "https://github.com/TheAlgorithms/Rust",
+        "stargazers_count": 26064,
+        "forks_count": 2598,
+        "language": "Rust"
+      },
+      {
+        "full_name": "Wilfred/difftastic",
+        "html_url": "https://github.com/Wilfred/difftastic",
+        "stargazers_count": 25923,
+        "forks_count": 519,
+        "language": "Rust"
+      },
+      {
+        "full_name": "biomejs/biome",
+        "html_url": "https://github.com/biomejs/biome",
+        "stargazers_count": 25848,
+        "forks_count": 1237,
+        "language": "Rust"
+      }
+    ],
+    "languages/cpp": [
+      {
+        "full_name": "tensorflow/tensorflow",
+        "html_url": "https://github.com/tensorflow/tensorflow",
+        "stargazers_count": 200266,
+        "forks_count": 77073,
+        "language": "C++"
+      },
+      {
+        "full_name": "ggml-org/llama.cpp",
+        "html_url": "https://github.com/ggml-org/llama.cpp",
+        "stargazers_count": 129316,
+        "forks_count": 23635,
+        "language": "C++"
+      },
+      {
+        "full_name": "react/react-native",
+        "html_url": "https://github.com/react/react-native",
+        "stargazers_count": 126703,
+        "forks_count": 25283,
+        "language": "C++"
+      },
+      {
+        "full_name": "electron/electron",
+        "html_url": "https://github.com/electron/electron",
+        "stargazers_count": 123216,
+        "forks_count": 17551,
+        "language": "C++"
+      },
+      {
+        "full_name": "godotengine/godot",
+        "html_url": "https://github.com/godotengine/godot",
+        "stargazers_count": 117653,
+        "forks_count": 26839,
+        "language": "C++"
+      },
+      {
+        "full_name": "microsoft/terminal",
+        "html_url": "https://github.com/microsoft/terminal",
+        "stargazers_count": 104973,
+        "forks_count": 9618,
+        "language": "C++"
+      },
+      {
+        "full_name": "opencv/opencv",
+        "html_url": "https://github.com/opencv/opencv",
+        "stargazers_count": 90945,
+        "forks_count": 57038,
+        "language": "C++"
+      },
+      {
+        "full_name": "bitcoin/bitcoin",
+        "html_url": "https://github.com/bitcoin/bitcoin",
+        "stargazers_count": 90241,
+        "forks_count": 39400,
+        "language": "C++"
+      },
+      {
+        "full_name": "nomic-ai/gpt4all",
+        "html_url": "https://github.com/nomic-ai/gpt4all",
+        "stargazers_count": 77387,
+        "forks_count": 8287,
+        "language": "C++"
+      },
+      {
+        "full_name": "tesseract-ocr/tesseract",
+        "html_url": "https://github.com/tesseract-ocr/tesseract",
+        "stargazers_count": 76646,
+        "forks_count": 10813,
+        "language": "C++"
+      },
+      {
+        "full_name": "ocornut/imgui",
+        "html_url": "https://github.com/ocornut/imgui",
+        "stargazers_count": 76331,
+        "forks_count": 12053,
+        "language": "C++"
+      },
+      {
+        "full_name": "protocolbuffers/protobuf",
+        "html_url": "https://github.com/protocolbuffers/protobuf",
+        "stargazers_count": 72061,
+        "forks_count": 16292,
+        "language": "C++"
+      },
+      {
+        "full_name": "LadybirdBrowser/ladybird",
+        "html_url": "https://github.com/LadybirdBrowser/ladybird",
+        "stargazers_count": 66282,
+        "forks_count": 3165,
+        "language": "C++"
+      },
+      {
+        "full_name": "WerWolv/ImHex",
+        "html_url": "https://github.com/WerWolv/ImHex",
+        "stargazers_count": 54883,
+        "forks_count": 2464,
+        "language": "C++"
+      },
+      {
+        "full_name": "ggml-org/whisper.cpp",
+        "html_url": "https://github.com/ggml-org/whisper.cpp",
+        "stargazers_count": 53884,
+        "forks_count": 6192,
+        "language": "C++"
+      },
+      {
+        "full_name": "nlohmann/json",
+        "html_url": "https://github.com/nlohmann/json",
+        "stargazers_count": 50660,
+        "forks_count": 7505,
+        "language": "C++"
+      },
+      {
+        "full_name": "ClickHouse/ClickHouse",
+        "html_url": "https://github.com/ClickHouse/ClickHouse",
+        "stargazers_count": 50036,
+        "forks_count": 8993,
+        "language": "C++"
+      },
+      {
+        "full_name": "x64dbg/x64dbg",
+        "html_url": "https://github.com/x64dbg/x64dbg",
+        "stargazers_count": 49589,
+        "forks_count": 2846,
+        "language": "C++"
+      },
+      {
+        "full_name": "zhongyang219/TrafficMonitor",
+        "html_url": "https://github.com/zhongyang219/TrafficMonitor",
+        "stargazers_count": 46280,
+        "forks_count": 3795,
+        "language": "C++"
+      },
+      {
+        "full_name": "grpc/grpc",
+        "html_url": "https://github.com/grpc/grpc",
+        "stargazers_count": 45335,
+        "forks_count": 11379,
+        "language": "C++"
+      },
+      {
+        "full_name": "zen-browser/desktop",
+        "html_url": "https://github.com/zen-browser/desktop",
+        "stargazers_count": 44558,
+        "forks_count": 1769,
+        "language": "C++"
+      },
+      {
+        "full_name": "Light-City/CPlusPlusThings",
+        "html_url": "https://github.com/Light-City/CPlusPlusThings",
+        "stargazers_count": 43485,
+        "forks_count": 8796,
+        "language": "C++"
+      },
+      {
+        "full_name": "aria2/aria2",
+        "html_url": "https://github.com/aria2/aria2",
+        "stargazers_count": 42657,
+        "forks_count": 3931,
+        "language": "C++"
+      },
+      {
+        "full_name": "duckdb/duckdb",
+        "html_url": "https://github.com/duckdb/duckdb",
+        "stargazers_count": 41662,
+        "forks_count": 3820,
+        "language": "C++"
+      },
+      {
+        "full_name": "LizardByte/Sunshine",
+        "html_url": "https://github.com/LizardByte/Sunshine",
+        "stargazers_count": 41461,
+        "forks_count": 2140,
+        "language": "C++"
+      },
+      {
+        "full_name": "facebookresearch/faiss",
+        "html_url": "https://github.com/facebookresearch/faiss",
+        "stargazers_count": 40964,
+        "forks_count": 4528,
+        "language": "C++"
+      },
+      {
+        "full_name": "microsoft/BitNet",
+        "html_url": "https://github.com/microsoft/BitNet",
+        "stargazers_count": 40337,
+        "forks_count": 3744,
+        "language": "C++"
+      },
+      {
+        "full_name": "qbittorrent/qBittorrent",
+        "html_url": "https://github.com/qbittorrent/qBittorrent",
+        "stargazers_count": 40274,
+        "forks_count": 4883,
+        "language": "C++"
+      },
+      {
+        "full_name": "aseprite/aseprite",
+        "html_url": "https://github.com/aseprite/aseprite",
+        "stargazers_count": 39650,
+        "forks_count": 9081,
+        "language": "C++"
+      },
+      {
+        "full_name": "google/googletest",
+        "html_url": "https://github.com/google/googletest",
+        "stargazers_count": 39572,
+        "forks_count": 10897,
+        "language": "C++"
+      },
+      {
+        "full_name": "google/leveldb",
+        "html_url": "https://github.com/google/leveldb",
+        "stargazers_count": 39438,
+        "forks_count": 8221,
+        "language": "C++"
+      },
+      {
+        "full_name": "hyprwm/Hyprland",
+        "html_url": "https://github.com/hyprwm/Hyprland",
+        "stargazers_count": 38651,
+        "forks_count": 2018,
+        "language": "C++"
+      },
+      {
+        "full_name": "huihut/interview",
+        "html_url": "https://github.com/huihut/interview",
+        "stargazers_count": 38231,
+        "forks_count": 8068,
+        "language": "C++"
+      },
+      {
+        "full_name": "google-ai-edge/mediapipe",
+        "html_url": "https://github.com/google-ai-edge/mediapipe",
+        "stargazers_count": 37057,
+        "forks_count": 6164,
+        "language": "C++"
+      },
+      {
+        "full_name": "aristocratos/btop",
+        "html_url": "https://github.com/aristocratos/btop",
+        "stargazers_count": 34725,
+        "forks_count": 1169,
+        "language": "C++"
+      },
+      {
+        "full_name": "TheAlgorithms/C-Plus-Plus",
+        "html_url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+        "stargazers_count": 34695,
+        "forks_count": 7865,
+        "language": "C++"
+      },
+      {
+        "full_name": "BVLC/caffe",
+        "html_url": "https://github.com/BVLC/caffe",
+        "stargazers_count": 34552,
+        "forks_count": 18405,
+        "language": "C++"
+      },
+      {
+        "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+        "html_url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+        "stargazers_count": 34466,
+        "forks_count": 8041,
+        "language": "C++"
+      },
+      {
+        "full_name": "carbon-language/carbon-lang",
+        "html_url": "https://github.com/carbon-language/carbon-lang",
+        "stargazers_count": 33899,
+        "forks_count": 1708,
+        "language": "C++"
+      },
+      {
+        "full_name": "SerenityOS/serenity",
+        "html_url": "https://github.com/SerenityOS/serenity",
+        "stargazers_count": 33850,
+        "forks_count": 3544,
+        "language": "C++"
+      },
+      {
+        "full_name": "microsoft/WSL",
+        "html_url": "https://github.com/microsoft/WSL",
+        "stargazers_count": 33764,
+        "forks_count": 1831,
+        "language": "C++"
+      },
+      {
+        "full_name": "FreeCAD/FreeCAD",
+        "html_url": "https://github.com/FreeCAD/FreeCAD",
+        "stargazers_count": 33725,
+        "forks_count": 6070,
+        "language": "C++"
+      },
+      {
+        "full_name": "telegramdesktop/tdesktop",
+        "html_url": "https://github.com/telegramdesktop/tdesktop",
+        "stargazers_count": 32994,
+        "forks_count": 7236,
+        "language": "C++"
+      },
+      {
+        "full_name": "shadps4-emu/shadPS4",
+        "html_url": "https://github.com/shadps4-emu/shadPS4",
+        "stargazers_count": 32944,
+        "forks_count": 2555,
+        "language": "C++"
+      },
+      {
+        "full_name": "ValveSoftware/Proton",
+        "html_url": "https://github.com/ValveSoftware/Proton",
+        "stargazers_count": 32869,
+        "forks_count": 1624,
+        "language": "C++"
+      },
+      {
+        "full_name": "facebook/rocksdb",
+        "html_url": "https://github.com/facebook/rocksdb",
+        "stargazers_count": 32125,
+        "forks_count": 6935,
+        "language": "C++"
+      },
+      {
+        "full_name": "barry-ran/QtScrcpy",
+        "html_url": "https://github.com/barry-ran/QtScrcpy",
+        "stargazers_count": 32078,
+        "forks_count": 3782,
+        "language": "C++"
+      },
+      {
+        "full_name": "Fincept-Corporation/FinceptTerminal",
+        "html_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+        "stargazers_count": 31940,
+        "forks_count": 4524,
+        "language": "C++"
+      },
+      {
+        "full_name": "dragonflydb/dragonfly",
+        "html_url": "https://github.com/dragonflydb/dragonfly",
+        "stargazers_count": 31667,
+        "forks_count": 1266,
+        "language": "C++"
+      },
+      {
+        "full_name": "flameshot-org/flameshot",
+        "html_url": "https://github.com/flameshot-org/flameshot",
+        "stargazers_count": 30918,
+        "forks_count": 2029,
+        "language": "C++"
+      },
+      {
+        "full_name": "facebook/folly",
+        "html_url": "https://github.com/facebook/folly",
+        "stargazers_count": 30543,
+        "forks_count": 5882,
+        "language": "C++"
+      },
+      {
+        "full_name": "78/xiaozhi-esp32",
+        "html_url": "https://github.com/78/xiaozhi-esp32",
+        "stargazers_count": 30169,
+        "forks_count": 7030,
+        "language": "C++"
+      },
+      {
+        "full_name": "gabime/spdlog",
+        "html_url": "https://github.com/gabime/spdlog",
+        "stargazers_count": 29621,
+        "forks_count": 5400,
+        "language": "C++"
+      },
+      {
+        "full_name": "ariya/phantomjs",
+        "html_url": "https://github.com/ariya/phantomjs",
+        "stargazers_count": 29436,
+        "forks_count": 5657,
+        "language": "C++"
+      },
+      {
+        "full_name": "notepad-plus-plus/notepad-plus-plus",
+        "html_url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+        "stargazers_count": 29397,
+        "forks_count": 5371,
+        "language": "C++"
+      },
+      {
+        "full_name": "ossrs/srs",
+        "html_url": "https://github.com/ossrs/srs",
+        "stargazers_count": 29276,
+        "forks_count": 5691,
+        "language": "C++"
+      },
+      {
+        "full_name": "deskflow/deskflow",
+        "html_url": "https://github.com/deskflow/deskflow",
+        "stargazers_count": 29064,
+        "forks_count": 4885,
+        "language": "C++"
+      },
+      {
+        "full_name": "envoyproxy/envoy",
+        "html_url": "https://github.com/envoyproxy/envoy",
+        "stargazers_count": 28980,
+        "forks_count": 5621,
+        "language": "C++"
+      },
+      {
+        "full_name": "keepassxreboot/keepassxc",
+        "html_url": "https://github.com/keepassxreboot/keepassxc",
+        "stargazers_count": 28919,
+        "forks_count": 1918,
+        "language": "C++"
+      },
+      {
+        "full_name": "dmlc/xgboost",
+        "html_url": "https://github.com/dmlc/xgboost",
+        "stargazers_count": 28788,
+        "forks_count": 8906,
+        "language": "C++"
+      },
+      {
+        "full_name": "mongodb/mongo",
+        "html_url": "https://github.com/mongodb/mongo",
+        "stargazers_count": 28573,
+        "forks_count": 5808,
+        "language": "C++"
+      },
+      {
+        "full_name": "ml-explore/mlx",
+        "html_url": "https://github.com/ml-explore/mlx",
+        "stargazers_count": 28531,
+        "forks_count": 2275,
+        "language": "C++"
+      },
+      {
+        "full_name": "taichi-dev/taichi",
+        "html_url": "https://github.com/taichi-dev/taichi",
+        "stargazers_count": 28377,
+        "forks_count": 2389,
+        "language": "C++"
+      },
+      {
+        "full_name": "emscripten-core/emscripten",
+        "html_url": "https://github.com/emscripten-core/emscripten",
+        "stargazers_count": 27626,
+        "forks_count": 3557,
+        "language": "C++"
+      },
+      {
+        "full_name": "rethinkdb/rethinkdb",
+        "html_url": "https://github.com/rethinkdb/rethinkdb",
+        "stargazers_count": 27000,
+        "forks_count": 1851,
+        "language": "C++"
+      },
+      {
+        "full_name": "ApolloAuto/apollo",
+        "html_url": "https://github.com/ApolloAuto/apollo",
+        "stargazers_count": 26832,
+        "forks_count": 9955,
+        "language": "C++"
+      },
+      {
+        "full_name": "mozilla/DeepSpeech",
+        "html_url": "https://github.com/mozilla/DeepSpeech",
+        "stargazers_count": 26775,
+        "forks_count": 4074,
+        "language": "C++"
+      },
+      {
+        "full_name": "typesense/typesense",
+        "html_url": "https://github.com/typesense/typesense",
+        "stargazers_count": 26583,
+        "forks_count": 974,
+        "language": "C++"
+      },
+      {
+        "full_name": "google/flatbuffers",
+        "html_url": "https://github.com/google/flatbuffers",
+        "stargazers_count": 26493,
+        "forks_count": 3672,
+        "language": "C++"
+      },
+      {
+        "full_name": "microsoft/winget-cli",
+        "html_url": "https://github.com/microsoft/winget-cli",
+        "stargazers_count": 26447,
+        "forks_count": 1799,
+        "language": "C++"
+      },
+      {
+        "full_name": "mozilla-ai/llamafile",
+        "html_url": "https://github.com/mozilla-ai/llamafile",
+        "stargazers_count": 26036,
+        "forks_count": 1610,
+        "language": "C++"
+      },
+      {
+        "full_name": "changkun/modern-cpp-tutorial",
+        "html_url": "https://github.com/changkun/modern-cpp-tutorial",
+        "stargazers_count": 25834,
+        "forks_count": 3124,
+        "language": "C++"
+      },
+      {
+        "full_name": "fmtlib/fmt",
+        "html_url": "https://github.com/fmtlib/fmt",
+        "stargazers_count": 25803,
+        "forks_count": 3072,
+        "language": "C++"
+      },
+      {
+        "full_name": "argotorg/solidity",
+        "html_url": "https://github.com/argotorg/solidity",
+        "stargazers_count": 25738,
+        "forks_count": 6163,
+        "language": "C++"
+      },
+      {
+        "full_name": "v8/v8",
+        "html_url": "https://github.com/v8/v8",
+        "stargazers_count": 25257,
+        "forks_count": 4339,
+        "language": "C++"
+      },
+      {
+        "full_name": "sqlitebrowser/sqlitebrowser",
+        "html_url": "https://github.com/sqlitebrowser/sqlitebrowser",
+        "stargazers_count": 24619,
+        "forks_count": 2377,
+        "language": "C++"
+      },
+      {
+        "full_name": "ssloy/tinyrenderer",
+        "html_url": "https://github.com/ssloy/tinyrenderer",
+        "stargazers_count": 24292,
+        "forks_count": 2298,
+        "language": "C++"
+      },
+      {
+        "full_name": "simdjson/simdjson",
+        "html_url": "https://github.com/simdjson/simdjson",
+        "stargazers_count": 24271,
+        "forks_count": 1289,
+        "language": "C++"
+      },
+      {
+        "full_name": "PaddlePaddle/Paddle",
+        "html_url": "https://github.com/PaddlePaddle/Paddle",
+        "stargazers_count": 24105,
+        "forks_count": 6023,
+        "language": "C++"
+      },
+      {
+        "full_name": "Tencent/ncnn",
+        "html_url": "https://github.com/Tencent/ncnn",
+        "stargazers_count": 23865,
+        "forks_count": 4505,
+        "language": "C++"
+      },
+      {
+        "full_name": "osquery/osquery",
+        "html_url": "https://github.com/osquery/osquery",
+        "stargazers_count": 23587,
+        "forks_count": 2597,
+        "language": "C++"
+      },
+      {
+        "full_name": "MaaAssistantArknights/MaaAssistantArknights",
+        "html_url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+        "stargazers_count": 23412,
+        "forks_count": 2851,
+        "language": "C++"
+      },
+      {
+        "full_name": "redis/RedisDesktopManager",
+        "html_url": "https://github.com/redis/RedisDesktopManager",
+        "stargazers_count": 23231,
+        "forks_count": 3231,
+        "language": "C++"
+      },
+      {
+        "full_name": "pqrs-org/Karabiner-Elements",
+        "html_url": "https://github.com/pqrs-org/Karabiner-Elements",
+        "stargazers_count": 22847,
+        "forks_count": 939,
+        "language": "C++"
+      },
+      {
+        "full_name": "scottbez1/smartknob",
+        "html_url": "https://github.com/scottbez1/smartknob",
+        "stargazers_count": 22150,
+        "forks_count": 1284,
+        "language": "C++"
+      },
+      {
+        "full_name": "microsoft/onnxruntime",
+        "html_url": "https://github.com/microsoft/onnxruntime",
+        "stargazers_count": 21915,
+        "forks_count": 4247,
+        "language": "C++"
+      },
+      {
+        "full_name": "k4yt3x/video2x",
+        "html_url": "https://github.com/k4yt3x/video2x",
+        "stargazers_count": 21765,
+        "forks_count": 1877,
+        "language": "C++"
+      },
+      {
+        "full_name": "catchorg/Catch2",
+        "html_url": "https://github.com/catchorg/Catch2",
+        "stargazers_count": 21489,
+        "forks_count": 3505,
+        "language": "C++"
+      },
+      {
+        "full_name": "electronicarts/CnC_Remastered_Collection",
+        "html_url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+        "stargazers_count": 21389,
+        "forks_count": 5449,
+        "language": "C++"
+      },
+      {
+        "full_name": "xbmc/xbmc",
+        "html_url": "https://github.com/xbmc/xbmc",
+        "stargazers_count": 21247,
+        "forks_count": 6601,
+        "language": "C++"
+      },
+      {
+        "full_name": "imputnet/helium",
+        "html_url": "https://github.com/imputnet/helium",
+        "stargazers_count": 20903,
+        "forks_count": 594,
+        "language": "C++"
+      },
+      {
+        "full_name": "apache/mxnet",
+        "html_url": "https://github.com/apache/mxnet",
+        "stargazers_count": 20808,
+        "forks_count": 6685,
+        "language": "C++"
+      },
+      {
+        "full_name": "google/filament",
+        "html_url": "https://github.com/google/filament",
+        "stargazers_count": 20521,
+        "forks_count": 2264,
+        "language": "C++"
+      },
+      {
+        "full_name": "blender/blender",
+        "html_url": "https://github.com/blender/blender",
+        "stargazers_count": 20506,
+        "forks_count": 3277,
+        "language": "C++"
+      },
+      {
+        "full_name": "TranslucentTB/TranslucentTB",
+        "html_url": "https://github.com/TranslucentTB/TranslucentTB",
+        "stargazers_count": 20416,
+        "forks_count": 1263,
+        "language": "C++"
+      },
+      {
+        "full_name": "lettier/3d-game-shaders-for-beginners",
+        "html_url": "https://github.com/lettier/3d-game-shaders-for-beginners",
+        "stargazers_count": 19919,
+        "forks_count": 1479,
+        "language": "C++"
+      },
+      {
+        "full_name": "RPCS3/rpcs3",
+        "html_url": "https://github.com/RPCS3/rpcs3",
+        "stargazers_count": 19844,
+        "forks_count": 2451,
+        "language": "C++"
+      },
+      {
+        "full_name": "Atmosphere-NX/Atmosphere",
+        "html_url": "https://github.com/Atmosphere-NX/Atmosphere",
+        "stargazers_count": 19832,
+        "forks_count": 1485,
+        "language": "C++"
+      },
+      {
+        "full_name": "rizinorg/cutter",
+        "html_url": "https://github.com/rizinorg/cutter",
+        "stargazers_count": 19794,
+        "forks_count": 1470,
+        "language": "C++"
+      },
+      {
+        "full_name": "trojan-gfw/trojan",
+        "html_url": "https://github.com/trojan-gfw/trojan",
+        "stargazers_count": 19765,
+        "forks_count": 3015,
+        "language": "C++"
+      }
+    ],
+    "languages/java": [
+      {
+        "full_name": "krahets/hello-algo",
+        "html_url": "https://github.com/krahets/hello-algo",
+        "stargazers_count": 130417,
+        "forks_count": 15513,
+        "language": "Java"
+      },
+      {
+        "full_name": "iluwatar/java-design-patterns",
+        "html_url": "https://github.com/iluwatar/java-design-patterns",
+        "stargazers_count": 94719,
+        "forks_count": 27369,
+        "language": "Java"
+      },
+      {
+        "full_name": "macrozheng/mall",
+        "html_url": "https://github.com/macrozheng/mall",
+        "stargazers_count": 84827,
+        "forks_count": 29836,
+        "language": "Java"
+      },
+      {
+        "full_name": "spring-projects/spring-boot",
+        "html_url": "https://github.com/spring-projects/spring-boot",
+        "stargazers_count": 81484,
+        "forks_count": 42840,
+        "language": "Java"
+      },
+      {
+        "full_name": "NationalSecurityAgency/ghidra",
+        "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+        "stargazers_count": 79488,
+        "forks_count": 8834,
+        "language": "Java"
+      },
+      {
+        "full_name": "doocs/advanced-java",
+        "html_url": "https://github.com/doocs/advanced-java",
+        "stargazers_count": 79127,
+        "forks_count": 19150,
+        "language": "Java"
+      },
+      {
+        "full_name": "elastic/elasticsearch",
+        "html_url": "https://github.com/elastic/elasticsearch",
+        "stargazers_count": 77967,
+        "forks_count": 26081,
+        "language": "Java"
+      },
+      {
+        "full_name": "MisterBooo/LeetCodeAnimation",
+        "html_url": "https://github.com/MisterBooo/LeetCodeAnimation",
+        "stargazers_count": 76707,
+        "forks_count": 13860,
+        "language": "Java"
+      },
+      {
+        "full_name": "TheAlgorithms/Java",
+        "html_url": "https://github.com/TheAlgorithms/Java",
+        "stargazers_count": 66309,
+        "forks_count": 21267,
+        "language": "Java"
+      },
+      {
+        "full_name": "kdn251/interviews",
+        "html_url": "https://github.com/kdn251/interviews",
+        "stargazers_count": 65252,
+        "forks_count": 12889,
+        "language": "Java"
+      },
+      {
+        "full_name": "termux/termux-app",
+        "html_url": "https://github.com/termux/termux-app",
+        "stargazers_count": 61286,
+        "forks_count": 7612,
+        "language": "Java"
+      },
+      {
+        "full_name": "spring-projects/spring-framework",
+        "html_url": "https://github.com/spring-projects/spring-framework",
+        "stargazers_count": 60259,
+        "forks_count": 38762,
+        "language": "Java"
+      },
+      {
+        "full_name": "google/guava",
+        "html_url": "https://github.com/google/guava",
+        "stargazers_count": 51908,
+        "forks_count": 11199,
+        "language": "Java"
+      },
+      {
+        "full_name": "dbeaver/dbeaver",
+        "html_url": "https://github.com/dbeaver/dbeaver",
+        "stargazers_count": 51850,
+        "forks_count": 4378,
+        "language": "Java"
+      },
+      {
+        "full_name": "skylot/jadx",
+        "html_url": "https://github.com/skylot/jadx",
+        "stargazers_count": 50594,
+        "forks_count": 5769,
+        "language": "Java"
+      },
+      {
+        "full_name": "ReactiveX/RxJava",
+        "html_url": "https://github.com/ReactiveX/RxJava",
+        "stargazers_count": 48192,
+        "forks_count": 7585,
+        "language": "Java"
+      },
+      {
+        "full_name": "jeecgboot/JeecgBoot",
+        "html_url": "https://github.com/jeecgboot/JeecgBoot",
+        "stargazers_count": 47956,
+        "forks_count": 16197,
+        "language": "Java"
+      },
+      {
+        "full_name": "lysine-dev/retrofit",
+        "html_url": "https://github.com/lysine-dev/retrofit",
+        "stargazers_count": 43943,
+        "forks_count": 7337,
+        "language": "Java"
+      },
+      {
+        "full_name": "ashishps1/awesome-system-design-resources",
+        "html_url": "https://github.com/ashishps1/awesome-system-design-resources",
+        "stargazers_count": 41702,
+        "forks_count": 8768,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/dubbo",
+        "html_url": "https://github.com/apache/dubbo",
+        "stargazers_count": 41573,
+        "forks_count": 26364,
+        "language": "Java"
+      },
+      {
+        "full_name": "halo-dev/halo",
+        "html_url": "https://github.com/halo-dev/halo",
+        "stargazers_count": 39875,
+        "forks_count": 10337,
+        "language": "Java"
+      },
+      {
+        "full_name": "TeamNewPipe/NewPipe",
+        "html_url": "https://github.com/TeamNewPipe/NewPipe",
+        "stargazers_count": 39757,
+        "forks_count": 3814,
+        "language": "Java"
+      },
+      {
+        "full_name": "YunaiV/ruoyi-vue-pro",
+        "html_url": "https://github.com/YunaiV/ruoyi-vue-pro",
+        "stargazers_count": 39415,
+        "forks_count": 8518,
+        "language": "Java"
+      },
+      {
+        "full_name": "PhilJay/MPAndroidChart",
+        "html_url": "https://github.com/PhilJay/MPAndroidChart",
+        "stargazers_count": 38171,
+        "forks_count": 8975,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/arthas",
+        "html_url": "https://github.com/alibaba/arthas",
+        "stargazers_count": 37557,
+        "forks_count": 7641,
+        "language": "Java"
+      },
+      {
+        "full_name": "eugenp/tutorials",
+        "html_url": "https://github.com/eugenp/tutorials",
+        "stargazers_count": 37327,
+        "forks_count": 53223,
+        "language": "Java"
+      },
+      {
+        "full_name": "keycloak/keycloak",
+        "html_url": "https://github.com/keycloak/keycloak",
+        "stargazers_count": 36962,
+        "forks_count": 8956,
+        "language": "Java"
+      },
+      {
+        "full_name": "doocs/leetcode",
+        "html_url": "https://github.com/doocs/leetcode",
+        "stargazers_count": 36620,
+        "forks_count": 9502,
+        "language": "Java"
+      },
+      {
+        "full_name": "geekxh/hello-algorithm",
+        "html_url": "https://github.com/geekxh/hello-algorithm",
+        "stargazers_count": 36103,
+        "forks_count": 6398,
+        "language": "Java"
+      },
+      {
+        "full_name": "airbnb/lottie-android",
+        "html_url": "https://github.com/airbnb/lottie-android",
+        "stargazers_count": 35727,
+        "forks_count": 5424,
+        "language": "Java"
+      },
+      {
+        "full_name": "netty/netty",
+        "html_url": "https://github.com/netty/netty",
+        "stargazers_count": 35066,
+        "forks_count": 16271,
+        "language": "Java"
+      },
+      {
+        "full_name": "bumptech/glide",
+        "html_url": "https://github.com/bumptech/glide",
+        "stargazers_count": 35023,
+        "forks_count": 6174,
+        "language": "Java"
+      },
+      {
+        "full_name": "SeleniumHQ/selenium",
+        "html_url": "https://github.com/SeleniumHQ/selenium",
+        "stargazers_count": 34514,
+        "forks_count": 8719,
+        "language": "Java"
+      },
+      {
+        "full_name": "zxing/zxing",
+        "html_url": "https://github.com/zxing/zxing",
+        "stargazers_count": 34110,
+        "forks_count": 9435,
+        "language": "Java"
+      },
+      {
+        "full_name": "xkcoding/spring-boot-demo",
+        "html_url": "https://github.com/xkcoding/spring-boot-demo",
+        "stargazers_count": 34077,
+        "forks_count": 10872,
+        "language": "Java"
+      },
+      {
+        "full_name": "yuliskov/SmartTube",
+        "html_url": "https://github.com/yuliskov/SmartTube",
+        "stargazers_count": 34052,
+        "forks_count": 2084,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/kafka",
+        "html_url": "https://github.com/apache/kafka",
+        "stargazers_count": 33796,
+        "forks_count": 15530,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/easyexcel",
+        "html_url": "https://github.com/alibaba/easyexcel",
+        "stargazers_count": 33630,
+        "forks_count": 7545,
+        "language": "Java"
+      },
+      {
+        "full_name": "Blankj/AndroidUtilCode",
+        "html_url": "https://github.com/Blankj/AndroidUtilCode",
+        "stargazers_count": 33621,
+        "forks_count": 10603,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/nacos",
+        "html_url": "https://github.com/alibaba/nacos",
+        "stargazers_count": 33417,
+        "forks_count": 13292,
+        "language": "Java"
+      },
+      {
+        "full_name": "binarywang/WxJava",
+        "html_url": "https://github.com/binarywang/WxJava",
+        "stargazers_count": 33119,
+        "forks_count": 9054,
+        "language": "Java"
+      },
+      {
+        "full_name": "conductor-oss/conductor",
+        "html_url": "https://github.com/conductor-oss/conductor",
+        "stargazers_count": 32225,
+        "forks_count": 1015,
+        "language": "Java"
+      },
+      {
+        "full_name": "xuxueli/xxl-job",
+        "html_url": "https://github.com/xuxueli/xxl-job",
+        "stargazers_count": 30579,
+        "forks_count": 11492,
+        "language": "Java"
+      },
+      {
+        "full_name": "ityouknow/spring-boot-examples",
+        "html_url": "https://github.com/ityouknow/spring-boot-examples",
+        "stargazers_count": 30492,
+        "forks_count": 12138,
+        "language": "Java"
+      },
+      {
+        "full_name": "chinabugotech/hutool",
+        "html_url": "https://github.com/chinabugotech/hutool",
+        "stargazers_count": 30271,
+        "forks_count": 7569,
+        "language": "Java"
+      },
+      {
+        "full_name": "DrKLO/Telegram",
+        "html_url": "https://github.com/DrKLO/Telegram",
+        "stargazers_count": 29916,
+        "forks_count": 10089,
+        "language": "Java"
+      },
+      {
+        "full_name": "apolloconfig/apollo",
+        "html_url": "https://github.com/apolloconfig/apollo",
+        "stargazers_count": 29813,
+        "forks_count": 10153,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/canal",
+        "html_url": "https://github.com/alibaba/canal",
+        "stargazers_count": 29737,
+        "forks_count": 7626,
+        "language": "Java"
+      },
+      {
+        "full_name": "opendataloader-project/opendataloader-pdf",
+        "html_url": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "stargazers_count": 29351,
+        "forks_count": 2795,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/spring-cloud-alibaba",
+        "html_url": "https://github.com/alibaba/spring-cloud-alibaba",
+        "stargazers_count": 29179,
+        "forks_count": 8478,
+        "language": "Java"
+      },
+      {
+        "full_name": "Anuken/Mindustry",
+        "html_url": "https://github.com/Anuken/Mindustry",
+        "stargazers_count": 29089,
+        "forks_count": 3791,
+        "language": "Java"
+      },
+      {
+        "full_name": "wuyouzhuguli/SpringAll",
+        "html_url": "https://github.com/wuyouzhuguli/SpringAll",
+        "stargazers_count": 28943,
+        "forks_count": 8078,
+        "language": "Java"
+      },
+      {
+        "full_name": "kestra-io/kestra",
+        "html_url": "https://github.com/kestra-io/kestra",
+        "stargazers_count": 28306,
+        "forks_count": 3031,
+        "language": "Java"
+      },
+      {
+        "full_name": "OtterMind/Chat2DB",
+        "html_url": "https://github.com/OtterMind/Chat2DB",
+        "stargazers_count": 28184,
+        "forks_count": 3038,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/druid",
+        "html_url": "https://github.com/alibaba/druid",
+        "stargazers_count": 28178,
+        "forks_count": 8556,
+        "language": "Java"
+      },
+      {
+        "full_name": "lenve/vhr",
+        "html_url": "https://github.com/lenve/vhr",
+        "stargazers_count": 28057,
+        "forks_count": 10150,
+        "language": "Java"
+      },
+      {
+        "full_name": "ashishps1/awesome-low-level-design",
+        "html_url": "https://github.com/ashishps1/awesome-low-level-design",
+        "stargazers_count": 26973,
+        "forks_count": 6532,
+        "language": "Java"
+      },
+      {
+        "full_name": "crossoverJie/JCSprout",
+        "html_url": "https://github.com/crossoverJie/JCSprout",
+        "stargazers_count": 26834,
+        "forks_count": 6951,
+        "language": "Java"
+      },
+      {
+        "full_name": "OpenAPITools/openapi-generator",
+        "html_url": "https://github.com/OpenAPITools/openapi-generator",
+        "stargazers_count": 26756,
+        "forks_count": 7681,
+        "language": "Java"
+      },
+      {
+        "full_name": "qiurunze123/miaosha",
+        "html_url": "https://github.com/qiurunze123/miaosha",
+        "stargazers_count": 26594,
+        "forks_count": 6560,
+        "language": "Java"
+      },
+      {
+        "full_name": "jenkinsci/jenkins",
+        "html_url": "https://github.com/jenkinsci/jenkins",
+        "stargazers_count": 26579,
+        "forks_count": 9832,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/flink",
+        "html_url": "https://github.com/apache/flink",
+        "stargazers_count": 26359,
+        "forks_count": 14037,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/incubator-seata",
+        "html_url": "https://github.com/apache/incubator-seata",
+        "stargazers_count": 26012,
+        "forks_count": 8846,
+        "language": "Java"
+      },
+      {
+        "full_name": "bazelbuild/bazel",
+        "html_url": "https://github.com/bazelbuild/bazel",
+        "stargazers_count": 25878,
+        "forks_count": 4625,
+        "language": "Java"
+      },
+      {
+        "full_name": "iBotPeaches/Apktool",
+        "html_url": "https://github.com/iBotPeaches/Apktool",
+        "stargazers_count": 25649,
+        "forks_count": 4010,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/fastjson",
+        "html_url": "https://github.com/alibaba/fastjson",
+        "stargazers_count": 25588,
+        "forks_count": 6394,
+        "language": "Java"
+      },
+      {
+        "full_name": "libgdx/libgdx",
+        "html_url": "https://github.com/libgdx/libgdx",
+        "stargazers_count": 25409,
+        "forks_count": 6525,
+        "language": "Java"
+      },
+      {
+        "full_name": "floci-io/floci",
+        "html_url": "https://github.com/floci-io/floci",
+        "stargazers_count": 25339,
+        "forks_count": 2742,
+        "language": "Java"
+      },
+      {
+        "full_name": "JakeWharton/butterknife",
+        "html_url": "https://github.com/JakeWharton/butterknife",
+        "stargazers_count": 25338,
+        "forks_count": 4539,
+        "language": "Java"
+      },
+      {
+        "full_name": "hollischuang/toBeTopJavaer",
+        "html_url": "https://github.com/hollischuang/toBeTopJavaer",
+        "stargazers_count": 25319,
+        "forks_count": 5351,
+        "language": "Java"
+      },
+      {
+        "full_name": "scwang90/SmartRefreshLayout",
+        "html_url": "https://github.com/scwang90/SmartRefreshLayout",
+        "stargazers_count": 25115,
+        "forks_count": 4958,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/skywalking",
+        "html_url": "https://github.com/apache/skywalking",
+        "stargazers_count": 24961,
+        "forks_count": 6633,
+        "language": "Java"
+      },
+      {
+        "full_name": "LSPosed/LSPosed",
+        "html_url": "https://github.com/LSPosed/LSPosed",
+        "stargazers_count": 24790,
+        "forks_count": 3583,
+        "language": "Java"
+      },
+      {
+        "full_name": "greenrobot/EventBus",
+        "html_url": "https://github.com/greenrobot/EventBus",
+        "stargazers_count": 24706,
+        "forks_count": 4636,
+        "language": "Java"
+      },
+      {
+        "full_name": "proxyee-down-org/proxyee-down",
+        "html_url": "https://github.com/proxyee-down-org/proxyee-down",
+        "stargazers_count": 24650,
+        "forks_count": 4329,
+        "language": "Java"
+      },
+      {
+        "full_name": "dataease/dataease",
+        "html_url": "https://github.com/dataease/dataease",
+        "stargazers_count": 24547,
+        "forks_count": 4256,
+        "language": "Java"
+      },
+      {
+        "full_name": "Netflix/Hystrix",
+        "html_url": "https://github.com/Netflix/Hystrix",
+        "stargazers_count": 24485,
+        "forks_count": 4675,
+        "language": "Java"
+      },
+      {
+        "full_name": "redisson/redisson",
+        "html_url": "https://github.com/redisson/redisson",
+        "stargazers_count": 24403,
+        "forks_count": 5491,
+        "language": "Java"
+      },
+      {
+        "full_name": "google/gson",
+        "html_url": "https://github.com/google/gson",
+        "stargazers_count": 24235,
+        "forks_count": 4480,
+        "language": "Java"
+      },
+      {
+        "full_name": "EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+        "html_url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+        "stargazers_count": 23864,
+        "forks_count": 807,
+        "language": "Java"
+      },
+      {
+        "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
+        "html_url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+        "stargazers_count": 23862,
+        "forks_count": 13562,
+        "language": "Java"
+      },
+      {
+        "full_name": "openjdk/jdk",
+        "html_url": "https://github.com/openjdk/jdk",
+        "stargazers_count": 23375,
+        "forks_count": 6458,
+        "language": "Java"
+      },
+      {
+        "full_name": "alibaba/Sentinel",
+        "html_url": "https://github.com/alibaba/Sentinel",
+        "stargazers_count": 23146,
+        "forks_count": 8134,
+        "language": "Java"
+      },
+      {
+        "full_name": "doocs/source-code-hunter",
+        "html_url": "https://github.com/doocs/source-code-hunter",
+        "stargazers_count": 23133,
+        "forks_count": 4227,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/rocketmq",
+        "html_url": "https://github.com/apache/rocketmq",
+        "stargazers_count": 22618,
+        "forks_count": 12020,
+        "language": "Java"
+      },
+      {
+        "full_name": "thingsboard/thingsboard",
+        "html_url": "https://github.com/thingsboard/thingsboard",
+        "stargazers_count": 22469,
+        "forks_count": 6466,
+        "language": "Java"
+      },
+      {
+        "full_name": "google/ExoPlayer",
+        "html_url": "https://github.com/google/ExoPlayer",
+        "stargazers_count": 21937,
+        "forks_count": 5995,
+        "language": "Java"
+      },
+      {
+        "full_name": "elunez/eladmin",
+        "html_url": "https://github.com/elunez/eladmin",
+        "stargazers_count": 21909,
+        "forks_count": 7333,
+        "language": "Java"
+      },
+      {
+        "full_name": "oracle/graal",
+        "html_url": "https://github.com/oracle/graal",
+        "stargazers_count": 21707,
+        "forks_count": 1825,
+        "language": "Java"
+      },
+      {
+        "full_name": "CarGuo/GSYVideoPlayer",
+        "html_url": "https://github.com/CarGuo/GSYVideoPlayer",
+        "stargazers_count": 21497,
+        "forks_count": 4317,
+        "language": "Java"
+      },
+      {
+        "full_name": "brettwooldridge/HikariCP",
+        "html_url": "https://github.com/brettwooldridge/HikariCP",
+        "stargazers_count": 21227,
+        "forks_count": 3015,
+        "language": "Java"
+      },
+      {
+        "full_name": "apache/shardingsphere",
+        "html_url": "https://github.com/apache/shardingsphere",
+        "stargazers_count": 20804,
+        "forks_count": 6899,
+        "language": "Java"
+      },
+      {
+        "full_name": "JetBrains/intellij-community",
+        "html_url": "https://github.com/JetBrains/intellij-community",
+        "stargazers_count": 20587,
+        "forks_count": 6072,
+        "language": "Java"
+      },
+      {
+        "full_name": "mybatis/mybatis-3",
+        "html_url": "https://github.com/mybatis/mybatis-3",
+        "stargazers_count": 20445,
+        "forks_count": 12855,
+        "language": "Java"
+      },
+      {
+        "full_name": "didi/DoKit",
+        "html_url": "https://github.com/didi/DoKit",
+        "stargazers_count": 20418,
+        "forks_count": 3184,
+        "language": "Java"
+      },
+      {
+        "full_name": "linlinjava/litemall",
+        "html_url": "https://github.com/linlinjava/litemall",
+        "stargazers_count": 20371,
+        "forks_count": 7317,
+        "language": "Java"
+      },
+      {
+        "full_name": "yudaocode/SpringBoot-Labs",
+        "html_url": "https://github.com/yudaocode/SpringBoot-Labs",
+        "stargazers_count": 20132,
+        "forks_count": 6134,
+        "language": "Java"
+      },
+      {
+        "full_name": "ReactiveX/RxAndroid",
+        "html_url": "https://github.com/ReactiveX/RxAndroid",
+        "stargazers_count": 19919,
+        "forks_count": 2937,
+        "language": "Java"
+      },
+      {
+        "full_name": "YunaiV/yudao-cloud",
+        "html_url": "https://github.com/YunaiV/yudao-cloud",
+        "stargazers_count": 19567,
+        "forks_count": 4893,
+        "language": "Java"
+      },
+      {
+        "full_name": "dromara/Sa-Token",
+        "html_url": "https://github.com/dromara/Sa-Token",
+        "stargazers_count": 19059,
+        "forks_count": 2914,
+        "language": "Java"
+      }
+    ]
+  }
+}
