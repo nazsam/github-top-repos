@@ -6,106 +6,106 @@ title: Top Java Repositories
 
 The most-starred repositories whose primary language is Java.
 
-*Last updated: 2026-09-30 11:37 UTC*
+*Last updated: 2026-10-01 12:06 UTC*
 
 [Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
-| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo)<br><sub>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS...</sub> | 130,543 | 15,507 | Java |
-| 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br><sub>Design patterns implemented in Java</sub> | 94,756 | 27,366 | Java |
-| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br><sub>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</sub> | 93,290 | 10,026 | Java |
-| 4 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,851 | 29,834 | Java |
-| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,536 | 43,699 | Java |
-| 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 79,984 | 8,911 | Java |
-| 7 | [doocs/advanced-java](https://github.com/doocs/advanced-java)<br><sub>😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服...</sub> | 79,137 | 19,145 | Java |
-| 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch)<br><sub>Free and Open Source, Distributed, RESTful Search Engine</sub> | 78,145 | 26,095 | Java |
-| 9 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)<br><sub>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc....</sub> | 76,711 | 13,856 | Java |
-| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)<br><sub>All Algorithms implemented in Java</sub> | 66,330 | 21,271 | Java |
-| 11 | [kdn251/interviews](https://github.com/kdn251/interviews)<br><sub>Everything you need to know to get the job.</sub> | 65,263 | 12,890 | Java |
-| 12 | [termux/termux-app](https://github.com/termux/termux-app)<br><sub>Termux - a terminal emulator application for Android OS extendible by variety of packages.</sub> | 61,699 | 7,705 | Java |
-| 13 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)<br><sub>Spring Framework</sub> | 60,264 | 38,760 | Java |
-| 14 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br><sub>Free universal database tool and SQL client</sub> | 51,927 | 4,388 | Java |
-| 15 | [google/guava](https://github.com/google/guava)<br><sub>Google core libraries for Java</sub> | 51,911 | 11,203 | Java |
-| 16 | [skylot/jadx](https://github.com/skylot/jadx)<br><sub>Dex to Java decompiler</sub> | 50,689 | 5,776 | Java |
+| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo)<br><sub>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS...</sub> | 130,562 | 15,509 | Java |
+| 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br><sub>Design patterns implemented in Java</sub> | 94,756 | 27,367 | Java |
+| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br><sub>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</sub> | 93,362 | 10,035 | Java |
+| 4 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,852 | 29,835 | Java |
+| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,539 | 43,697 | Java |
+| 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 80,103 | 8,923 | Java |
+| 7 | [doocs/advanced-java](https://github.com/doocs/advanced-java)<br><sub>😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服...</sub> | 79,138 | 19,145 | Java |
+| 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch)<br><sub>Free and Open Source, Distributed, RESTful Search Engine</sub> | 78,179 | 26,101 | Java |
+| 9 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)<br><sub>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc....</sub> | 76,714 | 13,857 | Java |
+| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)<br><sub>All Algorithms implemented in Java</sub> | 66,334 | 21,271 | Java |
+| 11 | [kdn251/interviews](https://github.com/kdn251/interviews)<br><sub>Everything you need to know to get the job.</sub> | 65,265 | 12,889 | Java |
+| 12 | [termux/termux-app](https://github.com/termux/termux-app)<br><sub>Termux - a terminal emulator application for Android OS extendible by variety of packages.</sub> | 61,752 | 7,715 | Java |
+| 13 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)<br><sub>Spring Framework</sub> | 60,263 | 38,765 | Java |
+| 14 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br><sub>Free universal database tool and SQL client</sub> | 51,933 | 4,391 | Java |
+| 15 | [google/guava](https://github.com/google/guava)<br><sub>Google core libraries for Java</sub> | 51,912 | 11,206 | Java |
+| 16 | [skylot/jadx](https://github.com/skylot/jadx)<br><sub>Dex to Java decompiler</sub> | 50,700 | 5,779 | Java |
 | 17 | [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)<br><sub>RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observ...</sub> | 48,190 | 7,585 | Java |
-| 18 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)<br><sub>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大...</sub> | 48,040 | 16,198 | Java |
-| 19 | [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit)<br><sub>A type-safe HTTP client for Android and the JVM</sub> | 43,943 | 7,335 | Java |
-| 20 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br><sub>Learn System Design concepts and prepare for interviews using free resources.</sub> | 41,915 | 8,796 | Java |
-| 21 | [apache/dubbo](https://github.com/apache/dubbo)<br><sub>The java implementation of Apache Dubbo. An RPC and microservice framework.</sub> | 41,580 | 26,351 | Java |
-| 22 | [halo-dev/halo](https://github.com/halo-dev/halo)<br><sub>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</sub> | 39,923 | 10,340 | Java |
-| 23 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)<br><sub>A libre lightweight streaming front-end for Android.</sub> | 39,825 | 3,834 | Java |
-| 24 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)<br><sub>🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据...</sub> | 39,500 | 8,529 | Java |
-| 25 | [alibaba/arthas](https://github.com/alibaba/arthas)<br><sub>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</sub> | 37,563 | 7,641 | Java |
-| 26 | [eugenp/tutorials](https://github.com/eugenp/tutorials)<br><sub>Getting Started with Spring Boot 3:</sub> | 37,330 | 53,209 | Java |
-| 27 | [keycloak/keycloak](https://github.com/keycloak/keycloak)<br><sub>Open Source Identity and Access Management For Modern Applications and Services</sub> | 37,066 | 8,990 | Java |
-| 28 | [doocs/leetcode](https://github.com/doocs/leetcode)<br><sub>🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解</sub> | 36,642 | 9,496 | Java |
-| 29 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)<br><sub>🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站</sub> | 36,111 | 6,394 | Java |
-| 30 | [airbnb/lottie-android](https://github.com/airbnb/lottie-android)<br><sub>Render After Effects animations natively on Android and iOS, Web, and React Native</sub> | 35,733 | 5,423 | Java |
-| 31 | [netty/netty](https://github.com/netty/netty)<br><sub>Netty project - an event-driven asynchronous network application framework</sub> | 35,068 | 16,273 | Java |
-| 32 | [bumptech/glide](https://github.com/bumptech/glide)<br><sub>An image loading and caching library for Android focused on smooth scrolling</sub> | 35,023 | 6,175 | Java |
-| 33 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)<br><sub>A browser automation framework and ecosystem.</sub> | 34,525 | 8,719 | Java |
-| 34 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br><sub>Browse media content with your own rules on Android TV</sub> | 34,353 | 2,088 | Java |
-| 35 | [zxing/zxing](https://github.com/zxing/zxing)<br><sub>ZXing ("Zebra Crossing") barcode scanning library for Java, Android</sub> | 34,116 | 9,438 | Java |
-| 36 | [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)<br><sub>🚀一个用来深入学习并实战 Spring Boot 的项目。</sub> | 34,086 | 10,869 | Java |
-| 37 | [apache/kafka](https://github.com/apache/kafka)<br><sub>Apache Kafka - A distributed event streaming platform</sub> | 33,885 | 15,540 | Java |
-| 38 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel)<br><sub>快速、简洁、解决大文件内存溢出的java处理Excel工具</sub> | 33,621 | 7,542 | Java |
+| 18 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)<br><sub>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大...</sub> | 48,044 | 16,198 | Java |
+| 19 | [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit)<br><sub>A type-safe HTTP client for Android and the JVM</sub> | 43,938 | 7,335 | Java |
+| 20 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br><sub>Learn System Design concepts and prepare for interviews using free resources.</sub> | 41,931 | 8,798 | Java |
+| 21 | [apache/dubbo](https://github.com/apache/dubbo)<br><sub>The java implementation of Apache Dubbo. An RPC and microservice framework.</sub> | 41,579 | 26,351 | Java |
+| 22 | [halo-dev/halo](https://github.com/halo-dev/halo)<br><sub>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</sub> | 39,928 | 10,338 | Java |
+| 23 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)<br><sub>A libre lightweight streaming front-end for Android.</sub> | 39,837 | 3,836 | Java |
+| 24 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)<br><sub>🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据...</sub> | 39,506 | 8,531 | Java |
+| 25 | [alibaba/arthas](https://github.com/alibaba/arthas)<br><sub>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</sub> | 37,562 | 7,641 | Java |
+| 26 | [eugenp/tutorials](https://github.com/eugenp/tutorials)<br><sub>Getting Started with Spring Boot 3:</sub> | 37,329 | 53,208 | Java |
+| 27 | [keycloak/keycloak](https://github.com/keycloak/keycloak)<br><sub>Open Source Identity and Access Management For Modern Applications and Services</sub> | 37,081 | 8,997 | Java |
+| 28 | [doocs/leetcode](https://github.com/doocs/leetcode)<br><sub>🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解</sub> | 36,646 | 9,496 | Java |
+| 29 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)<br><sub>🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站</sub> | 36,111 | 6,395 | Java |
+| 30 | [airbnb/lottie-android](https://github.com/airbnb/lottie-android)<br><sub>Render After Effects animations natively on Android and iOS, Web, and React Native</sub> | 35,734 | 5,423 | Java |
+| 31 | [netty/netty](https://github.com/netty/netty)<br><sub>Netty project - an event-driven asynchronous network application framework</sub> | 35,067 | 16,275 | Java |
+| 32 | [bumptech/glide](https://github.com/bumptech/glide)<br><sub>An image loading and caching library for Android focused on smooth scrolling</sub> | 35,022 | 6,174 | Java |
+| 33 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)<br><sub>A browser automation framework and ecosystem.</sub> | 34,525 | 8,718 | Java |
+| 34 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br><sub>Browse media content with your own rules on Android TV</sub> | 34,396 | 2,094 | Java |
+| 35 | [zxing/zxing](https://github.com/zxing/zxing)<br><sub>ZXing ("Zebra Crossing") barcode scanning library for Java, Android</sub> | 34,115 | 9,438 | Java |
+| 36 | [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)<br><sub>🚀一个用来深入学习并实战 Spring Boot 的项目。</sub> | 34,086 | 10,868 | Java |
+| 37 | [apache/kafka](https://github.com/apache/kafka)<br><sub>Apache Kafka - A distributed event streaming platform</sub> | 33,890 | 15,545 | Java |
+| 38 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel)<br><sub>快速、简洁、解决大文件内存溢出的java处理Excel工具</sub> | 33,620 | 7,542 | Java |
 | 39 | [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)<br><sub>:fire: Android developers should collect the following utils(updating).</sub> | 33,618 | 10,600 | Java |
-| 40 | [alibaba/nacos](https://github.com/alibaba/nacos)<br><sub>an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native...</sub> | 33,422 | 13,294 | Java |
-| 41 | [binarywang/WxJava](https://github.com/binarywang/WxJava)<br><sub>微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发</sub> | 33,132 | 9,053 | Java |
-| 42 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor)<br><sub>Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for appl...</sub> | 32,243 | 1,023 | Java |
-| 43 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)<br><sub>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</sub> | 30,602 | 11,489 | Java |
+| 40 | [alibaba/nacos](https://github.com/alibaba/nacos)<br><sub>an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native...</sub> | 33,421 | 13,293 | Java |
+| 41 | [binarywang/WxJava](https://github.com/binarywang/WxJava)<br><sub>微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发</sub> | 33,133 | 9,053 | Java |
+| 42 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor)<br><sub>Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for appl...</sub> | 32,246 | 1,023 | Java |
+| 43 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)<br><sub>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</sub> | 30,604 | 11,490 | Java |
 | 44 | [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)<br><sub>about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。</sub> | 30,490 | 12,134 | Java |
 | 45 | [chinabugotech/hutool](https://github.com/chinabugotech/hutool)<br><sub>🍬A set of tools that keep Java sweet.</sub> | 30,268 | 7,565 | Java |
-| 46 | [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br><sub>Telegram for Android source</sub> | 29,947 | 10,132 | Java |
-| 47 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo)<br><sub>Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.</sub> | 29,817 | 10,151 | Java |
-| 48 | [alibaba/canal](https://github.com/alibaba/canal)<br><sub>阿里巴巴 MySQL binlog 增量订阅&消费组件</sub> | 29,737 | 7,625 | Java |
-| 49 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)<br><sub>PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.</sub> | 29,434 | 2,807 | Java |
-| 50 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)<br><sub>Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab...</sub> | 29,181 | 8,480 | Java |
-| 51 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry)<br><sub>The automation tower defense RTS</sub> | 29,163 | 3,797 | Java |
+| 46 | [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br><sub>Telegram for Android source</sub> | 29,970 | 10,143 | Java |
+| 47 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo)<br><sub>Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.</sub> | 29,818 | 10,151 | Java |
+| 48 | [alibaba/canal](https://github.com/alibaba/canal)<br><sub>阿里巴巴 MySQL binlog 增量订阅&消费组件</sub> | 29,738 | 7,625 | Java |
+| 49 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)<br><sub>PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.</sub> | 29,450 | 2,807 | Java |
+| 50 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)<br><sub>Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab...</sub> | 29,181 | 8,479 | Java |
+| 51 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry)<br><sub>The automation tower defense RTS</sub> | 29,171 | 3,803 | Java |
 | 52 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)<br><sub>循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Securi...</sub> | 28,948 | 8,077 | Java |
-| 53 | [kestra-io/kestra](https://github.com/kestra-io/kestra)<br><sub>Event Driven Orchestration & Scheduling Platform for Mission Critical Applications</sub> | 28,531 | 3,085 | Java |
-| 54 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)<br><sub>Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and...</sub> | 28,289 | 3,047 | Java |
+| 53 | [kestra-io/kestra](https://github.com/kestra-io/kestra)<br><sub>Event Driven Orchestration & Scheduling Platform for Mission Critical Applications</sub> | 28,589 | 3,110 | Java |
+| 54 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)<br><sub>Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and...</sub> | 28,291 | 3,047 | Java |
 | 55 | [alibaba/druid](https://github.com/alibaba/druid)<br><sub>阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池</sub> | 28,175 | 8,555 | Java |
-| 56 | [lenve/vhr](https://github.com/lenve/vhr)<br><sub>微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。</sub> | 28,051 | 10,148 | Java |
-| 57 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)<br><sub>Learn Low Level Design (LLD) and prepare for interviews using free resources.</sub> | 27,148 | 6,558 | Java |
-| 58 | [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)<br><sub>👨‍🎓 Java Core Sprout : basic, concurrent, algorithm</sub> | 26,829 | 6,948 | Java |
-| 59 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br><sub>OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configu...</sub> | 26,774 | 7,689 | Java |
-| 60 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)<br><sub>Jenkins automation server</sub> | 26,605 | 9,829 | Java |
-| 61 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha)<br><sub>⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓</sub> | 26,591 | 6,557 | Java |
-| 62 | [apache/flink](https://github.com/apache/flink)<br><sub>Apache Flink</sub> | 26,376 | 14,045 | Java |
-| 63 | [floci-io/floci](https://github.com/floci-io/floci)<br><sub>Light, fluffy, and always free - The AWS Local Emulator alternative</sub> | 26,115 | 2,814 | Java |
-| 64 | [apache/incubator-seata](https://github.com/apache/incubator-seata)<br><sub>:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.</sub> | 26,011 | 8,847 | Java |
-| 65 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel)<br><sub>a fast, scalable, multi-language and extensible build system</sub> | 25,906 | 4,638 | Java |
-| 66 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)<br><sub>A tool for reverse engineering Android apk files</sub> | 25,698 | 4,023 | Java |
+| 56 | [lenve/vhr](https://github.com/lenve/vhr)<br><sub>微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。</sub> | 28,051 | 10,146 | Java |
+| 57 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)<br><sub>Learn Low Level Design (LLD) and prepare for interviews using free resources.</sub> | 27,160 | 6,560 | Java |
+| 58 | [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)<br><sub>👨‍🎓 Java Core Sprout : basic, concurrent, algorithm</sub> | 26,829 | 6,947 | Java |
+| 59 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br><sub>OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configu...</sub> | 26,771 | 7,689 | Java |
+| 60 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)<br><sub>Jenkins automation server</sub> | 26,610 | 9,833 | Java |
+| 61 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha)<br><sub>⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓</sub> | 26,590 | 6,556 | Java |
+| 62 | [apache/flink](https://github.com/apache/flink)<br><sub>Apache Flink</sub> | 26,376 | 14,048 | Java |
+| 63 | [floci-io/floci](https://github.com/floci-io/floci)<br><sub>Light, fluffy, and always free - The AWS Local Emulator alternative</sub> | 26,184 | 2,823 | Java |
+| 64 | [apache/incubator-seata](https://github.com/apache/incubator-seata)<br><sub>:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.</sub> | 26,012 | 8,847 | Java |
+| 65 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel)<br><sub>a fast, scalable, multi-language and extensible build system</sub> | 25,910 | 4,638 | Java |
+| 66 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)<br><sub>A tool for reverse engineering Android apk files</sub> | 25,708 | 4,027 | Java |
 | 67 | [alibaba/fastjson](https://github.com/alibaba/fastjson)<br><sub>FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.</sub> | 25,585 | 6,391 | Java |
-| 68 | [libgdx/libgdx](https://github.com/libgdx/libgdx)<br><sub>Desktop/Android/HTML5/iOS Java game development framework</sub> | 25,417 | 6,522 | Java |
+| 68 | [libgdx/libgdx](https://github.com/libgdx/libgdx)<br><sub>Desktop/Android/HTML5/iOS Java game development framework</sub> | 25,420 | 6,521 | Java |
 | 69 | [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)<br><sub>Bind Android views and callbacks to fields and methods.</sub> | 25,335 | 4,538 | Java |
-| 70 | [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)<br><sub>To Be Top Javaer - Java工程师成神之路</sub> | 25,311 | 5,349 | Java |
-| 71 | [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)<br><sub>🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。</sub> | 25,114 | 4,958 | Java |
-| 72 | [apache/skywalking](https://github.com/apache/skywalking)<br><sub>APM, Application Performance Monitoring System</sub> | 24,966 | 6,632 | Java |
-| 73 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)<br><sub>LSPosed Framework</sub> | 24,865 | 3,592 | Java |
-| 74 | [greenrobot/EventBus](https://github.com/greenrobot/EventBus)<br><sub>Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. L...</sub> | 24,703 | 4,635 | Java |
-| 75 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)<br><sub>http下载工具，基于http代理，支持多连接分块下载</sub> | 24,643 | 4,327 | Java |
-| 76 | [dataease/dataease](https://github.com/dataease/dataease)<br><sub>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</sub> | 24,561 | 4,257 | Java |
+| 70 | [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)<br><sub>To Be Top Javaer - Java工程师成神之路</sub> | 25,311 | 5,348 | Java |
+| 71 | [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)<br><sub>🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。</sub> | 25,113 | 4,958 | Java |
+| 72 | [apache/skywalking](https://github.com/apache/skywalking)<br><sub>APM, Application Performance Monitoring System</sub> | 24,967 | 6,632 | Java |
+| 73 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)<br><sub>LSPosed Framework</sub> | 24,877 | 3,593 | Java |
+| 74 | [greenrobot/EventBus](https://github.com/greenrobot/EventBus)<br><sub>Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. L...</sub> | 24,702 | 4,635 | Java |
+| 75 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)<br><sub>http下载工具，基于http代理，支持多连接分块下载</sub> | 24,644 | 4,327 | Java |
+| 76 | [dataease/dataease](https://github.com/dataease/dataease)<br><sub>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</sub> | 24,563 | 4,258 | Java |
 | 77 | [Netflix/Hystrix](https://github.com/Netflix/Hystrix)<br><sub>Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and...</sub> | 24,486 | 4,670 | Java |
-| 78 | [redisson/redisson](https://github.com/redisson/redisson)<br><sub>Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and...</sub> | 24,405 | 5,492 | Java |
-| 79 | [google/gson](https://github.com/google/gson)<br><sub>A Java serialization/deserialization library to convert Java Objects into JSON and back</sub> | 24,237 | 4,486 | Java |
-| 80 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)<br><sub>This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + inte...</sub> | 23,920 | 13,579 | Java |
-| 81 | [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)<br><sub>FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious busin...</sub> | 23,881 | 806 | Java |
-| 82 | [openjdk/jdk](https://github.com/openjdk/jdk)<br><sub>JDK main-line development https://openjdk.org/projects/jdk</sub> | 23,391 | 6,467 | Java |
+| 78 | [redisson/redisson](https://github.com/redisson/redisson)<br><sub>Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and...</sub> | 24,405 | 5,493 | Java |
+| 79 | [google/gson](https://github.com/google/gson)<br><sub>A Java serialization/deserialization library to convert Java Objects into JSON and back</sub> | 24,236 | 4,487 | Java |
+| 80 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)<br><sub>This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + inte...</sub> | 23,924 | 13,580 | Java |
+| 81 | [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)<br><sub>FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious busin...</sub> | 23,882 | 807 | Java |
+| 82 | [openjdk/jdk](https://github.com/openjdk/jdk)<br><sub>JDK main-line development https://openjdk.org/projects/jdk</sub> | 23,390 | 6,468 | Java |
 | 83 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel)<br><sub>A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防...</sub> | 23,146 | 8,137 | Java |
 | 84 | [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter)<br><sub>😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等</sub> | 23,135 | 4,224 | Java |
-| 85 | [apache/rocketmq](https://github.com/apache/rocketmq)<br><sub>Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</sub> | 22,624 | 12,025 | Java |
-| 86 | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)<br><sub>All-in-one IoT Platform - Device management, data collection, processing and visualization.</sub> | 22,491 | 6,478 | Java |
+| 85 | [apache/rocketmq](https://github.com/apache/rocketmq)<br><sub>Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</sub> | 22,624 | 12,026 | Java |
+| 86 | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)<br><sub>All-in-one IoT Platform - Device management, data collection, processing and visualization.</sub> | 22,498 | 6,482 | Java |
 | 87 | [google/ExoPlayer](https://github.com/google/ExoPlayer)<br><sub>This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media</sub> | 21,939 | 5,995 | Java |
-| 88 | [elunez/eladmin](https://github.com/elunez/eladmin)<br><sub>eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数...</sub> | 21,908 | 7,329 | Java |
+| 88 | [elunez/eladmin](https://github.com/elunez/eladmin)<br><sub>eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数...</sub> | 21,907 | 7,329 | Java |
 | 89 | [oracle/graal](https://github.com/oracle/graal)<br><sub>GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resourc...</sub> | 21,721 | 1,826 | Java |
-| 90 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)<br><sub>Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subt...</sub> | 21,502 | 4,318 | Java |
-| 91 | [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP)<br><sub>光 HikariCP・A solid, high-performance, JDBC connection pool at last.</sub> | 21,231 | 3,016 | Java |
-| 92 | [apache/shardingsphere](https://github.com/apache/shardingsphere)<br><sub>Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.</sub> | 20,805 | 6,904 | Java |
-| 93 | [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)<br><sub>IntelliJ IDEA & IntelliJ Platform</sub> | 20,598 | 6,084 | Java |
-| 94 | [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)<br><sub>MyBatis SQL mapper framework for Java</sub> | 20,450 | 12,848 | Java |
+| 90 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)<br><sub>Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subt...</sub> | 21,503 | 4,318 | Java |
+| 91 | [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP)<br><sub>光 HikariCP・A solid, high-performance, JDBC connection pool at last.</sub> | 21,232 | 3,016 | Java |
+| 92 | [apache/shardingsphere](https://github.com/apache/shardingsphere)<br><sub>Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.</sub> | 20,805 | 6,903 | Java |
+| 93 | [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)<br><sub>IntelliJ IDEA & IntelliJ Platform</sub> | 20,601 | 6,083 | Java |
+| 94 | [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)<br><sub>MyBatis SQL mapper framework for Java</sub> | 20,449 | 12,848 | Java |
 | 95 | [didi/DoKit](https://github.com/didi/DoKit)<br><sub>一款面向泛前端产品研发全生命周期的效率平台。</sub> | 20,420 | 3,183 | Java |
 | 96 | [linlinjava/litemall](https://github.com/linlinjava/litemall)<br><sub>又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端</sub> | 20,377 | 7,312 | Java |
 | 97 | [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs)<br><sub>一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024</sub> | 20,133 | 6,132 | Java |
