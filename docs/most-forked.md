@@ -6,109 +6,109 @@ title: Most Forked Repositories
 
 The top repositories on GitHub ranked by fork count.
 
-*Last updated: 2026-10-01 12:06 UTC*
+*Last updated: 2026-10-02 11:36 UTC*
 
 [Back to all rankings](index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
-| 1 | [jtleek/datasharing](https://github.com/jtleek/datasharing)<br><sub>The Leek group guide to data sharing</sub> | 6,765 | 241,749 | n/a |
-| 2 | [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)<br><sub>This repo is for demonstration purposes only.</sub> | 14,066 | 159,701 | HTML |
-| 3 | [rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)<br><sub>Repository for Programming Assignment 2 for R Programming on Coursera</sub> | 892 | 143,295 | R |
-| 4 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)<br><sub>🚀✨ Help beginners to contribute to open source projects</sub> | 56,166 | 110,236 | n/a |
-| 5 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br><sub>An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human i...</sub> | 195,282 | 108,289 | Rust |
-| 6 | [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) | 2,722 | 94,184 | HTML |
-| 7 | [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)<br><sub>Course Files for Complete Python 3 Bootcamp Course on Udemy</sub> | 29,798 | 87,176 | Jupyter Notebook |
-| 8 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)<br><sub>SmartThings open-source DeviceType Handlers and SmartApps code</sub> | 2,662 | 86,331 | Groovy |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br><sub>A complete computer science study plan to become a software engineer.</sub> | 362,185 | 84,897 | n/a |
-| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br><sub>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</sub> | 391,120 | 82,237 | TypeScript |
-| 11 | [github/gitignore](https://github.com/github/gitignore)<br><sub>A collection of useful .gitignore templates</sub> | 175,992 | 82,166 | n/a |
-| 12 | [twbs/bootstrap](https://github.com/twbs/bootstrap)<br><sub>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</sub> | 174,955 | 78,577 | MDX |
-| 13 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br><sub>An Open Source Machine Learning Framework for Everyone</sub> | 200,645 | 77,991 | C++ |
-| 14 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)<br><sub>Advanced UX and interoperability extension for Wand (WeMod) app</sub> | 30,056 | 77,501 | C# |
-| 15 | [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)<br><sub>nightscout web monitor</sub> | 2,834 | 73,393 | JavaScript |
-| 16 | [github/docs](https://github.com/github/docs)<br><sub>The open-source repo for docs.github.com</sub> | 20,926 | 68,889 | TypeScript |
-| 17 | [RikkaApps/websites](https://github.com/RikkaApps/websites)<br><sub>Websites for Rikka apps.</sub> | 451 | 67,725 | Vue |
-| 18 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br><sub>:books: Freely available programming books</sub> | 398,240 | 66,873 | Python |
-| 19 | [torvalds/linux](https://github.com/torvalds/linux)<br><sub>Linux kernel source tree</sub> | 250,727 | 66,379 | C |
-| 20 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br><sub>21 Lessons, Get Started Building with Generative AI</sub> | 120,885 | 63,579 | Jupyter Notebook |
-| 21 | [n8n-io/n8n](https://github.com/n8n-io/n8n)<br><sub>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-ho...</sub> | 206,422 | 60,970 | TypeScript |
-| 22 | [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)<br><sub>Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.</sub> | 8,665 | 60,012 | Jupyter Notebook |
-| 23 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)<br><sub>✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, Dee...</sub> | 88,830 | 58,953 | TypeScript |
-| 24 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br><sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub> | 372,737 | 58,709 | Python |
-| 25 | [opencv/opencv](https://github.com/opencv/opencv)<br><sub>Open Source Computer Vision Library</sub> | 91,025 | 57,047 | C++ |
-| 26 | [rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)<br><sub>Plotting Assignment 1 for Exploratory Data Analysis</sub> | 310 | 56,184 | n/a |
-| 27 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br><sub>Python - 100天从新手到大师</sub> | 187,014 | 55,755 | Jupyter Notebook |
-| 28 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source ma...</sub> | 65,825 | 54,935 | Python |
-| 29 | [ant-design/ant-design](https://github.com/ant-design/ant-design)<br><sub>An enterprise-class UI design language and React UI library</sub> | 99,650 | 54,692 | TypeScript |
-| 30 | [public-apis/public-apis](https://github.com/public-apis/public-apis)<br><sub>A collective list of free APIs</sub> | 484,985 | 53,575 | Python |
-| 31 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br><sub>The agent that grows with you</sub> | 250,466 | 53,560 | Python |
-| 32 | [eugenp/tutorials](https://github.com/eugenp/tutorials)<br><sub>Getting Started with Spring Boot 3:</sub> | 37,329 | 53,208 | Java |
-| 33 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br><sub>Master programming by recreating your favorite technologies from scratch.</sub> | 550,982 | 51,731 | Markdown |
-| 34 | [react/react](https://github.com/react/react)<br><sub>The library for web and native user interfaces.</sub> | 250,859 | 51,418 | JavaScript |
-| 35 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br><sub>All Algorithms implemented in Python</sub> | 225,177 | 51,145 | Python |
-| 36 | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)<br><sub>Running V2ray inside edge/serverless runtime</sub> | 9,207 | 50,910 | JavaScript |
-| 37 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br><sub>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</sub> | 186,366 | 50,722 | n/a |
-| 38 | [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) | 1,678 | 48,818 | JavaScript |
-| 39 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br><sub>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</sub> | 456,584 | 47,860 | TypeScript |
-| 40 | [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)<br><sub>Google IT Automation with Python Professional Certificate - Practice files</sub> | 1,040 | 46,747 | Python |
-| 41 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)<br><sub>A launch point for your personal nvim configuration</sub> | 31,528 | 46,504 | Lua |
-| 42 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)<br><sub>Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</sub> | 158,996 | 46,142 | JavaScript |
-| 43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)<br><sub>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so...</sub> | 187,631 | 45,977 | Python |
-| 44 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br><sub>Production-Grade Container Scheduling and Management</sub> | 128,155 | 45,703 | Go |
-| 45 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)<br><sub>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</sub> | 368,640 | 45,019 | TypeScript |
-| 46 | [tensorflow/models](https://github.com/tensorflow/models)<br><sub>Models and examples built with TensorFlow</sub> | 77,652 | 44,808 | Python |
-| 47 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br><sub>Open-source keyboard firmware for Atmel AVR and Arm USB families</sub> | 20,738 | 44,335 | C |
-| 48 | [microsoft/vscode](https://github.com/microsoft/vscode)<br><sub>Visual Studio Code</sub> | 193,329 | 43,977 | TypeScript |
-| 49 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,539 | 43,697 | Java |
+| 1 | [jtleek/datasharing](https://github.com/jtleek/datasharing)<br><sub>The Leek group guide to data sharing</sub> | 6,765 | 241,734 | n/a |
+| 2 | [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)<br><sub>This repo is for demonstration purposes only.</sub> | 14,069 | 159,718 | HTML |
+| 3 | [rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)<br><sub>Repository for Programming Assignment 2 for R Programming on Coursera</sub> | 892 | 143,291 | R |
+| 4 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)<br><sub>🚀✨ Help beginners to contribute to open source projects</sub> | 56,179 | 110,315 | n/a |
+| 5 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br><sub>An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human i...</sub> | 195,277 | 108,278 | Rust |
+| 6 | [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) | 2,723 | 94,203 | HTML |
+| 7 | [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)<br><sub>Course Files for Complete Python 3 Bootcamp Course on Udemy</sub> | 29,800 | 87,173 | Jupyter Notebook |
+| 8 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)<br><sub>SmartThings open-source DeviceType Handlers and SmartApps code</sub> | 2,662 | 86,320 | Groovy |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br><sub>A complete computer science study plan to become a software engineer.</sub> | 362,228 | 84,898 | n/a |
+| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw)<br><sub>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</sub> | 391,192 | 82,243 | TypeScript |
+| 11 | [github/gitignore](https://github.com/github/gitignore)<br><sub>A collection of useful .gitignore templates</sub> | 176,009 | 82,159 | n/a |
+| 12 | [twbs/bootstrap](https://github.com/twbs/bootstrap)<br><sub>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</sub> | 174,974 | 78,572 | MDX |
+| 13 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br><sub>An Open Source Machine Learning Framework for Everyone</sub> | 200,658 | 78,006 | C++ |
+| 14 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)<br><sub>Advanced UX and interoperability extension for Wand (WeMod) app</sub> | 30,189 | 77,856 | C# |
+| 15 | [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)<br><sub>nightscout web monitor</sub> | 2,834 | 73,390 | JavaScript |
+| 16 | [github/docs](https://github.com/github/docs)<br><sub>The open-source repo for docs.github.com</sub> | 20,935 | 68,898 | TypeScript |
+| 17 | [RikkaApps/websites](https://github.com/RikkaApps/websites)<br><sub>Websites for Rikka apps.</sub> | 451 | 67,900 | Vue |
+| 18 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br><sub>:books: Freely available programming books</sub> | 398,300 | 66,877 | Python |
+| 19 | [torvalds/linux](https://github.com/torvalds/linux)<br><sub>Linux kernel source tree</sub> | 250,805 | 66,411 | C |
+| 20 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br><sub>21 Lessons, Get Started Building with Generative AI</sub> | 120,937 | 63,601 | Jupyter Notebook |
+| 21 | [n8n-io/n8n](https://github.com/n8n-io/n8n)<br><sub>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-ho...</sub> | 206,496 | 60,977 | TypeScript |
+| 22 | [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)<br><sub>Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.</sub> | 8,666 | 60,000 | Jupyter Notebook |
+| 23 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)<br><sub>✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, Dee...</sub> | 88,831 | 58,948 | TypeScript |
+| 24 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br><sub>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</sub> | 372,887 | 58,725 | Python |
+| 25 | [opencv/opencv](https://github.com/opencv/opencv)<br><sub>Open Source Computer Vision Library</sub> | 91,034 | 57,047 | C++ |
+| 26 | [rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)<br><sub>Plotting Assignment 1 for Exploratory Data Analysis</sub> | 310 | 56,181 | n/a |
+| 27 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br><sub>Python - 100天从新手到大师</sub> | 187,038 | 55,754 | Jupyter Notebook |
+| 28 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source ma...</sub> | 65,851 | 54,951 | Python |
+| 29 | [ant-design/ant-design](https://github.com/ant-design/ant-design)<br><sub>An enterprise-class UI design language and React UI library</sub> | 99,656 | 54,692 | TypeScript |
+| 30 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br><sub>The agent that grows with you</sub> | 250,685 | 53,694 | Python |
+| 31 | [public-apis/public-apis](https://github.com/public-apis/public-apis)<br><sub>A collective list of free APIs</sub> | 485,418 | 53,633 | Python |
+| 32 | [eugenp/tutorials](https://github.com/eugenp/tutorials)<br><sub>Getting Started with Spring Boot 3:</sub> | 37,330 | 53,206 | Java |
+| 33 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br><sub>Master programming by recreating your favorite technologies from scratch.</sub> | 551,142 | 51,737 | Markdown |
+| 34 | [react/react](https://github.com/react/react)<br><sub>The library for web and native user interfaces.</sub> | 250,858 | 51,421 | JavaScript |
+| 35 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br><sub>All Algorithms implemented in Python</sub> | 225,205 | 51,152 | Python |
+| 36 | [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)<br><sub>Running V2ray inside edge/serverless runtime</sub> | 9,211 | 50,932 | JavaScript |
+| 37 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br><sub>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</sub> | 186,377 | 50,720 | n/a |
+| 38 | [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) | 1,680 | 48,826 | JavaScript |
+| 39 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br><sub>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</sub> | 456,625 | 47,894 | TypeScript |
+| 40 | [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)<br><sub>Google IT Automation with Python Professional Certificate - Practice files</sub> | 1,041 | 46,747 | Python |
+| 41 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)<br><sub>A launch point for your personal nvim configuration</sub> | 31,531 | 46,493 | Lua |
+| 42 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)<br><sub>Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</sub> | 159,008 | 46,141 | JavaScript |
+| 43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)<br><sub>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so...</sub> | 187,655 | 45,973 | Python |
+| 44 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br><sub>Production-Grade Container Scheduling and Management</sub> | 128,162 | 45,732 | Go |
+| 45 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)<br><sub>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</sub> | 368,694 | 45,024 | TypeScript |
+| 46 | [tensorflow/models](https://github.com/tensorflow/models)<br><sub>Models and examples built with TensorFlow</sub> | 77,653 | 44,805 | Python |
+| 47 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br><sub>Open-source keyboard firmware for Atmel AVR and Arm USB families</sub> | 20,738 | 44,336 | C |
+| 48 | [microsoft/vscode](https://github.com/microsoft/vscode)<br><sub>Visual Studio Code</sub> | 193,348 | 44,007 | TypeScript |
+| 49 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)<br><sub>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</sub> | 81,549 | 43,711 | Java |
 | 50 | [RedHatTraining/DO180-apps](https://github.com/RedHatTraining/DO180-apps)<br><sub>DO180 Repository for Sample Applications</sub> | 302 | 42,357 | JavaScript |
-| 51 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)<br><sub>30 Day Vanilla JS Challenge</sub> | 29,305 | 42,341 | HTML |
-| 52 | [jlord/patchwork](https://github.com/jlord/patchwork)<br><sub>All the Git-it Workshop completers!</sub> | 1,166 | 41,841 | Rich Text Format |
-| 53 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen...</sub> | 270,417 | 40,423 | JavaScript |
-| 54 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br><sub>Bitcoin Core integration/staging tree</sub> | 90,291 | 39,421 | C++ |
-| 55 | [home-assistant/core](https://github.com/home-assistant/core)<br><sub>:house_with_garden: Open source home automation that puts local control and privacy first.</sub> | 91,233 | 38,787 | Python |
-| 56 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)<br><sub>Spring Framework</sub> | 60,263 | 38,765 | Java |
-| 57 | [nodejs/node](https://github.com/nodejs/node)<br><sub>Node.js JavaScript runtime ✨🐢🚀✨</sub> | 122,214 | 38,444 | JavaScript |
-| 58 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br><sub>:zap: Dynamically generated stats for your github readmes</sub> | 79,817 | 38,114 | JavaScript |
-| 59 | [leereilly/swot](https://github.com/leereilly/swot)<br><sub>Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of review hours. Follow Jet...</sub> | 1,179 | 37,903 | Ruby |
-| 60 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br><sub>😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a ch...</sub> | 513,046 | 37,199 | n/a |
-| 61 | [python/cpython](https://github.com/python/cpython)<br><sub>The Python programming language</sub> | 77,374 | 37,044 | Python |
-| 62 | [rdpeng/RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1)<br><sub>Peer Assessment 1 for Reproducible Research</sub> | 109 | 36,769 | n/a |
-| 63 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D Library.</sub> | 116,112 | 36,598 | JavaScript |
-| 64 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br><sub>Curated list of project-based tutorials</sub> | 285,479 | 36,475 | Python |
-| 65 | [django/django](https://github.com/django/django)<br><sub>The Web framework for perfectionists with deadlines.</sub> | 91,239 | 35,921 | Python |
-| 66 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br><sub>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, No...</sub> | 143,994 | 34,807 | n/a |
-| 67 | [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)<br><sub>Build a Jekyll blog in minutes, without touching the command line.</sub> | 8,407 | 34,756 | CSS |
-| 68 | [huggingface/transformers](https://github.com/huggingface/transformers)<br><sub>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a...</sub> | 166,881 | 34,737 | Python |
-| 69 | [odoo/odoo](https://github.com/odoo/odoo)<br><sub>Odoo. Open Source Apps To Grow Your Business.</sub> | 54,768 | 33,902 | Python |
-| 70 | [vuejs/vue](https://github.com/vuejs/vue)<br><sub>This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core</sub> | 212,846 | 33,715 | TypeScript |
-| 71 | [jenkins-docs/simple-java-maven-app](https://github.com/jenkins-docs/simple-java-maven-app)<br><sub>For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.</sub> | 545 | 33,709 | Shell |
-| 72 | [vercel/next.js](https://github.com/vercel/next.js)<br><sub>The React Framework</sub> | 142,962 | 33,549 | JavaScript |
-| 73 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br><sub>A book series (2 published editions) on the JS language.</sub> | 185,007 | 33,403 | n/a |
-| 74 | [flutter/flutter](https://github.com/flutter/flutter)<br><sub>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</sub> | 179,166 | 32,734 | Dart |
-| 75 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.</sub> | 99,120 | 32,511 | JavaScript |
-| 76 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)<br><sub>Stable Diffusion web UI</sub> | 165,174 | 32,141 | Python |
-| 77 | [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)<br><sub>A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chai...</sub> | 13,580 | 31,612 | TypeScript |
-| 78 | [pytorch/pytorch](https://github.com/pytorch/pytorch)<br><sub>Tensors and Dynamic neural networks in Python with strong GPU acceleration</sub> | 103,589 | 31,026 | Python |
-| 79 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br><sub>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub> | 196,859 | 31,020 | JavaScript |
-| 80 | [is-a-dev/register](https://github.com/is-a-dev/register)<br><sub>Grab your own sweet-looking '.is-a.dev' subdomain.</sub> | 11,439 | 30,947 | JavaScript |
-| 81 | [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses)<br><sub>Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1</sub> | 4,155 | 30,917 | HTML |
-| 82 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)<br><sub>A sample Spring-based application</sub> | 9,552 | 30,674 | CSS |
-| 83 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)<br><sub>The repository for high quality TypeScript type definitions.</sub> | 51,450 | 30,361 | TypeScript |
-| 84 | [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)<br><sub>:tada: A magical vue admin https://panjiachen.github.io/vue-element-admin</sub> | 90,173 | 30,283 | Vue |
-| 85 | [samqin123/MoonTV](https://github.com/samqin123/MoonTV) | 2,089 | 30,185 | TypeScript |
-| 86 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,852 | 29,835 | Java |
-| 87 | [apache/spark](https://github.com/apache/spark)<br><sub>Apache Spark - A unified analytics engine for large-scale data processing</sub> | 44,099 | 29,401 | Scala |
-| 88 | [angular/angular](https://github.com/angular/angular)<br><sub>Deliver web apps with confidence 🚀</sub> | 101,026 | 29,044 | TypeScript |
-| 89 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br><sub>DeepSeek Harness: Everything is a Plugin.</sub> | 241,440 | 28,988 | TypeScript |
-| 90 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles)<br><sub>Default configuration for Le Wagon's students</sub> | 21,820 | 28,881 | Shell |
-| 91 | [vinta/awesome-python](https://github.com/vinta/awesome-python)<br><sub>The definitive list that answers "I want to do X in Python, which tool should I use?"</sub> | 324,450 | 28,842 | Python |
-| 92 | [git/git](https://github.com/git/git)<br><sub>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailin...</sub> | 63,480 | 28,456 | C |
-| 93 | [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br><sub>Introduction to Git and GitHub</sub> | 85 | 28,359 | Python |
-| 94 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br><sub>:books: 免费的计算机编程类中文书籍，欢迎投稿</sub> | 119,190 | 28,266 | n/a |
-| 95 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br><sub>🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 30...</sub> | 190,023 | 28,100 | Shell |
-| 96 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br><sub>The open source coding agent.</sub> | 211,247 | 28,007 | TypeScript |
-| 97 | [trustwallet/assets](https://github.com/trustwallet/assets)<br><sub>A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</sub> | 5,395 | 27,504 | Go |
-| 98 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)<br><sub>一分钟搭建影视站，支持Docker等部署方式</sub> | 14,005 | 27,496 | TypeScript |
-| 99 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)<br><sub>scikit-learn: machine learning in Python</sub> | 67,438 | 27,465 | Python |
-| 100 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br><sub>Design patterns implemented in Java</sub> | 94,756 | 27,367 | Java |
+| 51 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)<br><sub>30 Day Vanilla JS Challenge</sub> | 29,305 | 42,344 | HTML |
+| 52 | [jlord/patchwork](https://github.com/jlord/patchwork)<br><sub>All the Git-it Workshop completers!</sub> | 1,166 | 41,839 | Rich Text Format |
+| 53 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen...</sub> | 270,926 | 40,505 | JavaScript |
+| 54 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br><sub>Bitcoin Core integration/staging tree</sub> | 90,306 | 39,421 | C++ |
+| 55 | [home-assistant/core](https://github.com/home-assistant/core)<br><sub>:house_with_garden: Open source home automation that puts local control and privacy first.</sub> | 91,221 | 38,790 | Python |
+| 56 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)<br><sub>Spring Framework</sub> | 60,268 | 38,763 | Java |
+| 57 | [nodejs/node](https://github.com/nodejs/node)<br><sub>Node.js JavaScript runtime ✨🐢🚀✨</sub> | 122,219 | 38,465 | JavaScript |
+| 58 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br><sub>:zap: Dynamically generated stats for your github readmes</sub> | 79,821 | 38,120 | JavaScript |
+| 59 | [leereilly/swot](https://github.com/leereilly/swot)<br><sub>Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of review hours. Follow Jet...</sub> | 1,179 | 37,901 | Ruby |
+| 60 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br><sub>😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a ch...</sub> | 513,486 | 37,230 | n/a |
+| 61 | [python/cpython](https://github.com/python/cpython)<br><sub>The Python programming language</sub> | 77,377 | 37,060 | Python |
+| 62 | [rdpeng/RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1)<br><sub>Peer Assessment 1 for Reproducible Research</sub> | 109 | 36,767 | n/a |
+| 63 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D Library.</sub> | 116,160 | 36,606 | JavaScript |
+| 64 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br><sub>Curated list of project-based tutorials</sub> | 285,590 | 36,493 | Python |
+| 65 | [django/django](https://github.com/django/django)<br><sub>The Web framework for perfectionists with deadlines.</sub> | 91,223 | 35,937 | Python |
+| 66 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br><sub>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, No...</sub> | 144,006 | 34,808 | n/a |
+| 67 | [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)<br><sub>Build a Jekyll blog in minutes, without touching the command line.</sub> | 8,407 | 34,753 | CSS |
+| 68 | [huggingface/transformers](https://github.com/huggingface/transformers)<br><sub>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a...</sub> | 166,908 | 34,743 | Python |
+| 69 | [odoo/odoo](https://github.com/odoo/odoo)<br><sub>Odoo. Open Source Apps To Grow Your Business.</sub> | 54,798 | 33,911 | Python |
+| 70 | [vuejs/vue](https://github.com/vuejs/vue)<br><sub>This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core</sub> | 212,829 | 33,714 | TypeScript |
+| 71 | [jenkins-docs/simple-java-maven-app](https://github.com/jenkins-docs/simple-java-maven-app)<br><sub>For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.</sub> | 545 | 33,713 | Shell |
+| 72 | [vercel/next.js](https://github.com/vercel/next.js)<br><sub>The React Framework</sub> | 142,982 | 33,580 | JavaScript |
+| 73 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br><sub>A book series (2 published editions) on the JS language.</sub> | 185,011 | 33,404 | n/a |
+| 74 | [flutter/flutter](https://github.com/flutter/flutter)<br><sub>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</sub> | 179,226 | 32,764 | Dart |
+| 75 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.</sub> | 99,124 | 32,509 | JavaScript |
+| 76 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)<br><sub>Stable Diffusion web UI</sub> | 165,183 | 32,154 | Python |
+| 77 | [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)<br><sub>A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chai...</sub> | 13,591 | 31,615 | TypeScript |
+| 78 | [pytorch/pytorch](https://github.com/pytorch/pytorch)<br><sub>Tensors and Dynamic neural networks in Python with strong GPU acceleration</sub> | 103,612 | 31,055 | Python |
+| 79 | [is-a-dev/register](https://github.com/is-a-dev/register)<br><sub>Grab your own sweet-looking '.is-a.dev' subdomain.</sub> | 11,446 | 31,049 | JavaScript |
+| 80 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br><sub>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub> | 196,865 | 31,021 | JavaScript |
+| 81 | [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses)<br><sub>Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1</sub> | 4,155 | 30,914 | HTML |
+| 82 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)<br><sub>A sample Spring-based application</sub> | 9,553 | 30,699 | CSS |
+| 83 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)<br><sub>The repository for high quality TypeScript type definitions.</sub> | 51,446 | 30,360 | TypeScript |
+| 84 | [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)<br><sub>:tada: A magical vue admin https://panjiachen.github.io/vue-element-admin</sub> | 90,172 | 30,283 | Vue |
+| 85 | [samqin123/MoonTV](https://github.com/samqin123/MoonTV) | 2,091 | 30,177 | TypeScript |
+| 86 | [macrozheng/mall](https://github.com/macrozheng/mall)<br><sub>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮...</sub> | 84,862 | 29,836 | Java |
+| 87 | [apache/spark](https://github.com/apache/spark)<br><sub>Apache Spark - A unified analytics engine for large-scale data processing</sub> | 44,107 | 29,399 | Scala |
+| 88 | [angular/angular](https://github.com/angular/angular)<br><sub>Deliver web apps with confidence 🚀</sub> | 101,014 | 29,061 | TypeScript |
+| 89 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br><sub>DeepSeek Harness: Everything is a Plugin.</sub> | 242,089 | 29,048 | TypeScript |
+| 90 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles)<br><sub>Default configuration for Le Wagon's students</sub> | 21,820 | 28,880 | Shell |
+| 91 | [vinta/awesome-python](https://github.com/vinta/awesome-python)<br><sub>The definitive list that answers "I want to do X in Python, which tool should I use?"</sub> | 324,616 | 28,850 | Python |
+| 92 | [git/git](https://github.com/git/git)<br><sub>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailin...</sub> | 63,506 | 28,465 | C |
+| 93 | [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br><sub>Introduction to Git and GitHub</sub> | 85 | 28,358 | Python |
+| 94 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br><sub>:books: 免费的计算机编程类中文书籍，欢迎投稿</sub> | 119,204 | 28,262 | n/a |
+| 95 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br><sub>🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 30...</sub> | 190,038 | 28,110 | Shell |
+| 96 | [anomalyco/opencode](https://github.com/anomalyco/opencode)<br><sub>The open source coding agent.</sub> | 211,411 | 28,053 | TypeScript |
+| 97 | [trustwallet/assets](https://github.com/trustwallet/assets)<br><sub>A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</sub> | 5,393 | 27,511 | Go |
+| 98 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)<br><sub>一分钟搭建影视站，支持Docker等部署方式</sub> | 14,012 | 27,494 | TypeScript |
+| 99 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)<br><sub>scikit-learn: machine learning in Python</sub> | 67,451 | 27,472 | Python |
+| 100 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br><sub>Design patterns implemented in Java</sub> | 94,758 | 27,367 | Java |
