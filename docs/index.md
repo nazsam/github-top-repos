@@ -6,7 +6,7 @@ title: GitHub Top Repositories
 
 Daily rankings of the most popular repositories on GitHub, generated automatically from the GitHub API.
 
-*Last updated: 2026-10-13 13:13 UTC*
+*Last updated: 2026-10-14 10:53 UTC*
 
 ## Overall
 
@@ -17,9 +17,9 @@ Daily rankings of the most popular repositories on GitHub, generated automatical
 
 | Language | #1 Repository | Stars |
 |---|---|---:|
-| [JavaScript](languages/javascript.html) | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 278,266 |
-| [Python](languages/python.html) | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 488,233 |
-| [Go](languages/go.html) | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 188,160 |
-| [Rust](languages/rust.html) | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 194,914 |
-| [C++](languages/cpp.html) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,904 |
-| [Java](languages/java.html) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,642 |
+| [JavaScript](languages/javascript.html) | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 278,873 |
+| [Python](languages/python.html) | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 488,570 |
+| [Go](languages/go.html) | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 188,323 |
+| [Rust](languages/rust.html) | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 194,892 |
+| [C++](languages/cpp.html) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,961 |
+| [Java](languages/java.html) | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,683 |
