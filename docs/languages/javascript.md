@@ -6,109 +6,109 @@ title: Top JavaScript Repositories
 
 The most-starred repositories whose primary language is JavaScript.
 
-*Last updated: 2026-11-17 15:12 UTC*
+*Last updated: 2026-11-18 14:49 UTC*
 
 [Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen...</sub> | 305,128 | 44,933 | JavaScript |
-| 2 | [react/react](https://github.com/react/react)<br><sub>The library for web and native user interfaces.</sub> | 252,826 | 52,859 | JavaScript |
-| 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br><sub>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub> | 196,734 | 30,969 | JavaScript |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</sub> | 192,688 | 10,814 | JavaScript |
-| 5 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br><sub>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</sub> | 186,539 | 50,622 | JavaScript |
-| 6 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)<br><sub>Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</sub> | 159,601 | 46,106 | JavaScript |
-| 7 | [airbnb/javascript](https://github.com/airbnb/javascript)<br><sub>JavaScript Style Guide</sub> | 148,004 | 26,508 | JavaScript |
-| 8 | [vercel/next.js](https://github.com/vercel/next.js)<br><sub>The React Framework</sub> | 143,681 | 32,816 | JavaScript |
-| 9 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)<br><sub>Coding articles to level up your development skills</sub> | 129,542 | 12,523 | JavaScript |
-| 10 | [nodejs/node](https://github.com/nodejs/node)<br><sub>Node.js JavaScript runtime ✨🐢🚀✨</sub> | 123,845 | 38,122 | JavaScript |
-| 11 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D Library.</sub> | 118,747 | 37,017 | JavaScript |
-| 12 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Production-grade engineering skills for AI coding agents.</sub> | 118,564 | 12,371 | JavaScript |
-| 13 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br><sub>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI...</sub> | 117,467 | 7,858 | JavaScript |
-| 14 | [axios/axios](https://github.com/axios/axios)<br><sub>Promise based HTTP client for the browser and node.js</sub> | 109,484 | 12,133 | JavaScript |
-| 15 | [react/create-react-app](https://github.com/react/create-react-app)<br><sub>Set up a modern web app by running one command.</sub> | 103,227 | 26,845 | JavaScript |
-| 16 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.</sub> | 99,347 | 32,486 | JavaScript |
-| 17 | [tt-a1i/archify](https://github.com/tt-a1i/archify)<br><sub>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</sub> | 97,378 | 6,647 | JavaScript |
-| 18 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br><sub>24 Lessons, 12 Weeks, Get Started as a Web Developer</sub> | 97,125 | 16,138 | JavaScript |
-| 19 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)<br><sub>Clean Code concepts adapted for JavaScript</sub> | 94,699 | 12,572 | JavaScript |
-| 20 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br><sub>A fancy self-hosted monitoring tool</sub> | 94,542 | 8,860 | JavaScript |
-| 21 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br><sub>web development for the rest of us</sub> | 89,380 | 6,198 | JavaScript |
-| 22 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br><sub>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply,...</sub> | 83,246 | 15,289 | JavaScript |
-| 23 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br><sub>:zap: Dynamically generated stats for your github readmes</sub> | 79,835 | 38,304 | JavaScript |
-| 24 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)<br><sub>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this pl...</sub> | 78,337 | 2,206 | JavaScript |
-| 25 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br><sub>The iconic SVG, font, and CSS toolkit</sub> | 77,045 | 12,156 | JavaScript |
-| 26 | [typicode/json-server](https://github.com/typicode/json-server)<br><sub>Get a full fake REST API with zero coding in less than 30 seconds (seriously)</sub> | 75,744 | 7,277 | JavaScript |
-| 27 | [juliangarnier/anime](https://github.com/juliangarnier/anime)<br><sub>JavaScript animation engine</sub> | 74,841 | 5,118 | JavaScript |
-| 28 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</sub> | 74,500 | 4,986 | JavaScript |
-| 29 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js)<br><sub>The HTML Presentation Framework</sub> | 72,595 | 17,020 | JavaScript |
-| 30 | [byoungd/up](https://github.com/byoungd/up)<br><sub>韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生</sub> | 70,662 | 7,033 | JavaScript |
-| 31 | [expressjs/express](https://github.com/expressjs/express)<br><sub>Fast, unopinionated, minimalist web framework for node.</sub> | 69,764 | 25,646 | JavaScript |
-| 32 | [gorhill/uBlock](https://github.com/gorhill/uBlock)<br><sub>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</sub> | 69,415 | 4,446 | JavaScript |
-| 33 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br><sub>Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience</sub> | 68,365 | 7,723 | JavaScript |
-| 34 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js)<br><sub>Simple HTML5 Charts using the &lt;canvas&gt; tag</sub> | 67,798 | 11,971 | JavaScript |
-| 35 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)<br><sub>📜 33 JavaScript concepts every developer should know.</sub> | 66,535 | 9,132 | JavaScript |
-| 36 | [webpack/webpack](https://github.com/webpack/webpack)<br><sub>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading...</sub> | 66,009 | 9,687 | JavaScript |
-| 37 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)<br><sub>God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intellig...</sub> | 65,400 | 12,919 | JavaScript |
-| 38 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br><sub>A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by...</sub> | 64,129 | 5,454 | JavaScript |
-| 39 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)<br><sub>Official electron build of draw.io</sub> | 64,037 | 5,823 | JavaScript |
-| 40 | [resume/resume.github.com](https://github.com/resume/resume.github.com)<br><sub>Resumes generated using the GitHub informations</sub> | 62,901 | 1,392 | JavaScript |
-| 41 | [lodash/lodash](https://github.com/lodash/lodash)<br><sub>A modern JavaScript utility library delivering modularity, performance, & extras.</sub> | 61,420 | 7,366 | JavaScript |
-| 42 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br><sub>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</sub> | 60,957 | 8,879 | JavaScript |
-| 43 | [atom/atom](https://github.com/atom/atom)<br><sub>:atom: The hackable text editor</sub> | 60,693 | 17,163 | JavaScript |
-| 44 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here)<br><sub>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</sub> | 60,247 | 10,975 | JavaScript |
-| 45 | [jquery/jquery](https://github.com/jquery/jquery)<br><sub>jQuery JavaScript Library</sub> | 60,022 | 20,729 | JavaScript |
-| 46 | [angular/angular.js](https://github.com/angular/angular.js)<br><sub>AngularJS - HTML enhanced for web apps!</sub> | 58,427 | 26,895 | JavaScript |
-| 47 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br><sub>深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续........</sub> | 57,719 | 15,802 | JavaScript |
-| 48 | [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)<br><sub>A professional front-end template for building fast, robust, and adaptable web apps or sites.</sub> | 57,689 | 12,230 | JavaScript |
-| 49 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)<br><sub>React-based framework with performance, scalability, and security built in.</sub> | 55,914 | 10,073 | JavaScript |
-| 50 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode)<br><sub>LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)</sub> | 55,707 | 9,331 | JavaScript |
-| 51 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)<br><sub>The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。</sub> | 54,444 | 10,978 | JavaScript |
-| 52 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js)<br><sub>PDF Reader in JavaScript</sub> | 54,150 | 10,735 | JavaScript |
-| 53 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br><sub>⭐️ Companies that don't have a broken hiring process</sub> | 53,340 | 3,989 | JavaScript |
-| 54 | [prettier/prettier](https://github.com/prettier/prettier)<br><sub>Prettier is an opinionated code formatter.</sub> | 52,416 | 5,038 | JavaScript |
-| 55 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br><sub>The largest open-source library of animated, interactive, and customizable React & Next.js components for building st...</sub> | 52,171 | 2,637 | JavaScript |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen...</sub> | 306,166 | 45,077 | JavaScript |
+| 2 | [react/react](https://github.com/react/react)<br><sub>The library for web and native user interfaces.</sub> | 252,788 | 52,815 | JavaScript |
+| 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br><sub>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</sub> | 196,738 | 30,969 | JavaScript |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</sub> | 193,771 | 10,897 | JavaScript |
+| 5 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br><sub>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</sub> | 186,543 | 50,620 | JavaScript |
+| 6 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)<br><sub>Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</sub> | 159,614 | 46,106 | JavaScript |
+| 7 | [airbnb/javascript](https://github.com/airbnb/javascript)<br><sub>JavaScript Style Guide</sub> | 148,006 | 26,505 | JavaScript |
+| 8 | [vercel/next.js](https://github.com/vercel/next.js)<br><sub>The React Framework</sub> | 143,729 | 32,816 | JavaScript |
+| 9 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)<br><sub>Coding articles to level up your development skills</sub> | 129,550 | 12,523 | JavaScript |
+| 10 | [nodejs/node](https://github.com/nodejs/node)<br><sub>Node.js JavaScript runtime ✨🐢🚀✨</sub> | 123,783 | 38,082 | JavaScript |
+| 11 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Production-grade engineering skills for AI coding agents.</sub> | 118,851 | 12,384 | JavaScript |
+| 12 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D Library.</sub> | 118,821 | 37,026 | JavaScript |
+| 13 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br><sub>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI...</sub> | 118,185 | 7,910 | JavaScript |
+| 14 | [axios/axios](https://github.com/axios/axios)<br><sub>Promise based HTTP client for the browser and node.js</sub> | 109,391 | 12,121 | JavaScript |
+| 15 | [react/create-react-app](https://github.com/react/create-react-app)<br><sub>Set up a modern web app by running one command.</sub> | 103,226 | 26,844 | JavaScript |
+| 16 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.</sub> | 99,354 | 32,487 | JavaScript |
+| 17 | [tt-a1i/archify](https://github.com/tt-a1i/archify)<br><sub>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</sub> | 97,665 | 6,666 | JavaScript |
+| 18 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br><sub>24 Lessons, 12 Weeks, Get Started as a Web Developer</sub> | 97,128 | 16,139 | JavaScript |
+| 19 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)<br><sub>Clean Code concepts adapted for JavaScript</sub> | 94,695 | 12,573 | JavaScript |
+| 20 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br><sub>A fancy self-hosted monitoring tool</sub> | 94,595 | 8,870 | JavaScript |
+| 21 | [sveltejs/svelte](https://github.com/sveltejs/svelte)<br><sub>web development for the rest of us</sub> | 89,668 | 6,215 | JavaScript |
+| 22 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br><sub>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply,...</sub> | 83,484 | 15,317 | JavaScript |
+| 23 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br><sub>:zap: Dynamically generated stats for your github readmes</sub> | 79,835 | 38,303 | JavaScript |
+| 24 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)<br><sub>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this pl...</sub> | 79,550 | 2,241 | JavaScript |
+| 25 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br><sub>The iconic SVG, font, and CSS toolkit</sub> | 77,042 | 12,155 | JavaScript |
+| 26 | [typicode/json-server](https://github.com/typicode/json-server)<br><sub>Get a full fake REST API with zero coding in less than 30 seconds (seriously)</sub> | 75,747 | 7,275 | JavaScript |
+| 27 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</sub> | 75,159 | 5,045 | JavaScript |
+| 28 | [juliangarnier/anime](https://github.com/juliangarnier/anime)<br><sub>JavaScript animation engine</sub> | 74,877 | 5,118 | JavaScript |
+| 29 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js)<br><sub>The HTML Presentation Framework</sub> | 72,598 | 17,018 | JavaScript |
+| 30 | [byoungd/up](https://github.com/byoungd/up)<br><sub>韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生</sub> | 70,689 | 7,033 | JavaScript |
+| 31 | [expressjs/express](https://github.com/expressjs/express)<br><sub>Fast, unopinionated, minimalist web framework for node.</sub> | 69,681 | 25,648 | JavaScript |
+| 32 | [gorhill/uBlock](https://github.com/gorhill/uBlock)<br><sub>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</sub> | 69,440 | 4,449 | JavaScript |
+| 33 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br><sub>Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience</sub> | 68,398 | 7,729 | JavaScript |
+| 34 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js)<br><sub>Simple HTML5 Charts using the &lt;canvas&gt; tag</sub> | 67,803 | 11,972 | JavaScript |
+| 35 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)<br><sub>📜 33 JavaScript concepts every developer should know.</sub> | 66,531 | 9,129 | JavaScript |
+| 36 | [webpack/webpack](https://github.com/webpack/webpack)<br><sub>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading...</sub> | 66,009 | 9,704 | JavaScript |
+| 37 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)<br><sub>God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intellig...</sub> | 65,712 | 12,997 | JavaScript |
+| 38 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br><sub>A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by...</sub> | 64,129 | 5,453 | JavaScript |
+| 39 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)<br><sub>Official electron build of draw.io</sub> | 64,062 | 5,825 | JavaScript |
+| 40 | [resume/resume.github.com](https://github.com/resume/resume.github.com)<br><sub>Resumes generated using the GitHub informations</sub> | 62,905 | 1,392 | JavaScript |
+| 41 | [lodash/lodash](https://github.com/lodash/lodash)<br><sub>A modern JavaScript utility library delivering modularity, performance, & extras.</sub> | 61,340 | 7,345 | JavaScript |
+| 42 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br><sub>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</sub> | 61,169 | 8,927 | JavaScript |
+| 43 | [atom/atom](https://github.com/atom/atom)<br><sub>:atom: The hackable text editor</sub> | 60,692 | 17,163 | JavaScript |
+| 44 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here)<br><sub>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</sub> | 60,246 | 10,975 | JavaScript |
+| 45 | [jquery/jquery](https://github.com/jquery/jquery)<br><sub>jQuery JavaScript Library</sub> | 59,991 | 20,707 | JavaScript |
+| 46 | [angular/angular.js](https://github.com/angular/angular.js)<br><sub>AngularJS - HTML enhanced for web apps!</sub> | 58,427 | 26,892 | JavaScript |
+| 47 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br><sub>深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续........</sub> | 57,719 | 15,801 | JavaScript |
+| 48 | [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)<br><sub>A professional front-end template for building fast, robust, and adaptable web apps or sites.</sub> | 57,693 | 12,226 | JavaScript |
+| 49 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)<br><sub>React-based framework with performance, scalability, and security built in.</sub> | 55,915 | 10,072 | JavaScript |
+| 50 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode)<br><sub>LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)</sub> | 55,703 | 9,329 | JavaScript |
+| 51 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)<br><sub>The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。</sub> | 54,459 | 10,986 | JavaScript |
+| 52 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js)<br><sub>PDF Reader in JavaScript</sub> | 54,158 | 10,737 | JavaScript |
+| 53 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br><sub>⭐️ Companies that don't have a broken hiring process</sub> | 53,403 | 3,989 | JavaScript |
+| 54 | [prettier/prettier](https://github.com/prettier/prettier)<br><sub>Prettier is an opinionated code formatter.</sub> | 52,416 | 5,035 | JavaScript |
+| 55 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br><sub>The largest open-source library of animated, interactive, and customizable React & Next.js components for building st...</sub> | 52,248 | 2,640 | JavaScript |
 | 56 | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)<br><sub>Semantic is a UI component framework based around useful principles from natural language.</sub> | 50,991 | 4,829 | JavaScript |
-| 57 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)<br><sub>Based on a true story</sub> | 49,873 | 6,620 | JavaScript |
-| 58 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br><sub>&lt;/&gt; htmx - high power tools for HTML</sub> | 49,648 | 1,910 | JavaScript |
-| 59 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)<br><sub>:fireworks:Interactive Online Platform that Visualizes Algorithms from Code</sub> | 49,529 | 7,662 | JavaScript |
-| 60 | [iamkun/dayjs](https://github.com/iamkun/dayjs)<br><sub>⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API</sub> | 48,647 | 3,153 | JavaScript |
-| 61 | [usebruno/bruno](https://github.com/usebruno/bruno)<br><sub>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</sub> | 48,428 | 3,115 | JavaScript |
-| 62 | [moment/moment](https://github.com/moment/moment)<br><sub>Parse, validate, manipulate, and display dates in javascript.</sub> | 47,872 | 7,049 | JavaScript |
-| 63 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)<br><sub>30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 da...</sub> | 47,007 | 10,452 | JavaScript |
-| 64 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)<br><sub>A browser based code editor</sub> | 46,980 | 4,168 | JavaScript |
-| 65 | [serverless/serverless](https://github.com/serverless/serverless)<br><sub>⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mai...</sub> | 46,934 | 5,707 | JavaScript |
-| 66 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)<br><sub>👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everythi...</sub> | 46,676 | 6,682 | JavaScript |
-| 67 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)<br><sub>🍃 number one JavaScript library for interactive maps 🇺🇦</sub> | 45,948 | 6,320 | JavaScript |
-| 68 | [google/zx](https://github.com/google/zx)<br><sub>A tool for writing better scripts</sub> | 45,851 | 1,334 | JavaScript |
-| 69 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)<br><sub>A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.</sub> | 45,044 | 3,236 | JavaScript |
-| 70 | [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br><sub>List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!</sub> | 44,916 | 10,380 | JavaScript |
-| 71 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)<br><sub>A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应...</sub> | 44,798 | 5,395 | JavaScript |
-| 72 | [meteor/meteor](https://github.com/meteor/meteor)<br><sub>Meteor, the JavaScript App Platform</sub> | 44,792 | 5,281 | JavaScript |
-| 73 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)<br><sub>Front End interview preparation materials for busy engineers (updated for 2026)</sub> | 44,002 | 5,919 | JavaScript |
-| 74 | [Unitech/pm2](https://github.com/Unitech/pm2)<br><sub>Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.</sub> | 43,336 | 2,733 | JavaScript |
-| 75 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br><sub>🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library</sub> | 42,877 | 1,721 | JavaScript |
-| 76 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)<br><sub>The best design tools and plugins for everything 👉</sub> | 41,934 | 2,427 | JavaScript |
-| 77 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app)<br><sub>A cross-platform framework using Vue.js</sub> | 41,697 | 3,711 | JavaScript |
+| 57 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)<br><sub>Based on a true story</sub> | 49,877 | 6,620 | JavaScript |
+| 58 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br><sub>&lt;/&gt; htmx - high power tools for HTML</sub> | 49,649 | 1,925 | JavaScript |
+| 59 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)<br><sub>:fireworks:Interactive Online Platform that Visualizes Algorithms from Code</sub> | 49,546 | 7,664 | JavaScript |
+| 60 | [iamkun/dayjs](https://github.com/iamkun/dayjs)<br><sub>⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API</sub> | 48,650 | 3,169 | JavaScript |
+| 61 | [usebruno/bruno](https://github.com/usebruno/bruno)<br><sub>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</sub> | 48,445 | 3,117 | JavaScript |
+| 62 | [moment/moment](https://github.com/moment/moment)<br><sub>Parse, validate, manipulate, and display dates in javascript.</sub> | 47,871 | 7,058 | JavaScript |
+| 63 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)<br><sub>30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 da...</sub> | 47,005 | 10,451 | JavaScript |
+| 64 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)<br><sub>A browser based code editor</sub> | 46,983 | 4,169 | JavaScript |
+| 65 | [serverless/serverless](https://github.com/serverless/serverless)<br><sub>⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mai...</sub> | 46,933 | 5,708 | JavaScript |
+| 66 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)<br><sub>👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everythi...</sub> | 46,681 | 6,680 | JavaScript |
+| 67 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)<br><sub>🍃 number one JavaScript library for interactive maps 🇺🇦</sub> | 45,954 | 6,329 | JavaScript |
+| 68 | [google/zx](https://github.com/google/zx)<br><sub>A tool for writing better scripts</sub> | 45,852 | 1,333 | JavaScript |
+| 69 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)<br><sub>A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.</sub> | 45,044 | 3,237 | JavaScript |
+| 70 | [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br><sub>List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!</sub> | 44,913 | 10,379 | JavaScript |
+| 71 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)<br><sub>A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应...</sub> | 44,797 | 5,394 | JavaScript |
+| 72 | [meteor/meteor](https://github.com/meteor/meteor)<br><sub>Meteor, the JavaScript App Platform</sub> | 44,794 | 5,282 | JavaScript |
+| 73 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)<br><sub>Front End interview preparation materials for busy engineers (updated for 2026)</sub> | 44,002 | 5,917 | JavaScript |
+| 74 | [Unitech/pm2](https://github.com/Unitech/pm2)<br><sub>Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.</sub> | 43,338 | 2,733 | JavaScript |
+| 75 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br><sub>🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library</sub> | 42,892 | 1,723 | JavaScript |
+| 76 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)<br><sub>The best design tools and plugins for everything 👉</sub> | 41,953 | 2,427 | JavaScript |
+| 77 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app)<br><sub>A cross-platform framework using Vue.js</sub> | 41,700 | 3,710 | JavaScript |
 | 78 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn)<br><sub>The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry</sub> | 41,455 | 2,698 | JavaScript |
-| 79 | [github/awesome-copilot](https://github.com/github/awesome-copilot)<br><sub>Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</sub> | 41,263 | 5,380 | JavaScript |
-| 80 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br><sub>Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies</sub> | 41,170 | 3,971 | JavaScript |
-| 81 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br><sub>📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors</sub> | 41,166 | 3,545 | JavaScript |
-| 82 | [nwjs/nw.js](https://github.com/nwjs/nw.js)<br><sub>Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno...</sub> | 41,143 | 3,846 | JavaScript |
-| 83 | [phaserjs/phaser](https://github.com/phaserjs/phaser)<br><sub>Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti...</sub> | 40,736 | 7,186 | JavaScript |
-| 84 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br><sub>Free, simple, and intuitive online database diagram editor and SQL generator.</sub> | 40,334 | 3,368 | JavaScript |
-| 85 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br><sub>一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘</sub> | 40,301 | 2,903 | JavaScript |
-| 86 | [preactjs/preact](https://github.com/preactjs/preact)<br><sub>⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.</sub> | 39,009 | 2,555 | JavaScript |
-| 87 | [naptha/tesseract.js](https://github.com/naptha/tesseract.js)<br><sub>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</sub> | 38,838 | 2,407 | JavaScript |
-| 88 | [Dogfalo/materialize](https://github.com/Dogfalo/materialize)<br><sub>Materialize, a CSS Framework based on Material Design</sub> | 38,770 | 4,573 | JavaScript |
-| 89 | [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)<br><sub>GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</sub> | 38,725 | 2,127 | JavaScript |
-| 90 | [impress/impress.js](https://github.com/impress/impress.js)<br><sub>It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired b...</sub> | 38,153 | 6,553 | JavaScript |
+| 79 | [github/awesome-copilot](https://github.com/github/awesome-copilot)<br><sub>Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</sub> | 41,310 | 5,382 | JavaScript |
+| 80 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br><sub>Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies</sub> | 41,177 | 3,970 | JavaScript |
+| 81 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br><sub>📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors</sub> | 41,168 | 3,544 | JavaScript |
+| 82 | [nwjs/nw.js](https://github.com/nwjs/nw.js)<br><sub>Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno...</sub> | 41,145 | 3,846 | JavaScript |
+| 83 | [phaserjs/phaser](https://github.com/phaserjs/phaser)<br><sub>Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti...</sub> | 40,743 | 7,185 | JavaScript |
+| 84 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br><sub>一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘</sub> | 40,441 | 2,914 | JavaScript |
+| 85 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br><sub>Free, simple, and intuitive online database diagram editor and SQL generator.</sub> | 40,342 | 3,369 | JavaScript |
+| 86 | [preactjs/preact](https://github.com/preactjs/preact)<br><sub>⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.</sub> | 39,008 | 2,567 | JavaScript |
+| 87 | [naptha/tesseract.js](https://github.com/naptha/tesseract.js)<br><sub>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</sub> | 38,841 | 2,407 | JavaScript |
+| 88 | [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)<br><sub>GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</sub> | 38,791 | 2,133 | JavaScript |
+| 89 | [Dogfalo/materialize](https://github.com/Dogfalo/materialize)<br><sub>Materialize, a CSS Framework based on Material Design</sub> | 38,772 | 4,572 | JavaScript |
+| 90 | [impress/impress.js](https://github.com/impress/impress.js)<br><sub>It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired b...</sub> | 38,155 | 6,553 | JavaScript |
 | 91 | [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)<br><sub>🤪 A list of funny and tricky JavaScript examples</sub> | 37,694 | 2,673 | JavaScript |
-| 92 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api)<br><sub>LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模...</sub> | 37,438 | 6,887 | JavaScript |
-| 93 | [fastify/fastify](https://github.com/fastify/fastify)<br><sub>Fast and low overhead web framework, for Node.js</sub> | 37,432 | 3,147 | JavaScript |
-| 94 | [gchq/CyberChef](https://github.com/gchq/CyberChef)<br><sub>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</sub> | 36,428 | 4,201 | JavaScript |
-| 95 | [carbon-app/carbon](https://github.com/carbon-app/carbon)<br><sub>:black_heart: Create and share beautiful images of your source code</sub> | 36,146 | 1,972 | JavaScript |
-| 96 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)<br><sub>本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。</sub> | 36,138 | 5,817 | JavaScript |
-| 97 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)<br><sub>Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。</sub> | 35,900 | 3,396 | JavaScript |
-| 98 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)<br><sub>LLM Frontend for Power Users.</sub> | 35,746 | 6,725 | JavaScript |
-| 99 | [koajs/koa](https://github.com/koajs/koa)<br><sub>Expressive middleware for node.js using ES2017 async functions</sub> | 35,683 | 3,339 | JavaScript |
-| 100 | [typicode/husky](https://github.com/typicode/husky)<br><sub>Git hooks made easy 🐶 woof!</sub> | 35,394 | 1,106 | JavaScript |
+| 92 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api)<br><sub>LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模...</sub> | 37,441 | 6,885 | JavaScript |
+| 93 | [fastify/fastify](https://github.com/fastify/fastify)<br><sub>Fast and low overhead web framework, for Node.js</sub> | 37,437 | 3,169 | JavaScript |
+| 94 | [gchq/CyberChef](https://github.com/gchq/CyberChef)<br><sub>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</sub> | 36,444 | 4,201 | JavaScript |
+| 95 | [carbon-app/carbon](https://github.com/carbon-app/carbon)<br><sub>:black_heart: Create and share beautiful images of your source code</sub> | 36,147 | 1,972 | JavaScript |
+| 96 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)<br><sub>本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。</sub> | 36,144 | 5,816 | JavaScript |
+| 97 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)<br><sub>Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。</sub> | 35,936 | 3,401 | JavaScript |
+| 98 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)<br><sub>LLM Frontend for Power Users.</sub> | 35,787 | 6,724 | JavaScript |
+| 99 | [koajs/koa](https://github.com/koajs/koa)<br><sub>Expressive middleware for node.js using ES2017 async functions</sub> | 35,682 | 3,353 | JavaScript |
+| 100 | [typicode/husky](https://github.com/typicode/husky)<br><sub>Git hooks made easy 🐶 woof!</sub> | 35,395 | 1,106 | JavaScript |
