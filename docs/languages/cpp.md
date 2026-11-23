@@ -6,109 +6,109 @@ title: Top C++ Repositories
 
 The most-starred repositories whose primary language is C++.
 
-*Last updated: 2026-11-22 13:48 UTC*
+*Last updated: 2026-11-23 16:54 UTC*
 
 [Back to all rankings](../index.html)
 
 | Rank | Project | Stars | Forks | Language |
 |---:|---|---:|---:|---|
-| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br><sub>An Open Source Machine Learning Framework for Everyone</sub> | 201,744 | 77,414 | C++ |
-| 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)<br><sub>LLM inference in C/C++</sub> | 136,059 | 25,907 | C++ |
-| 3 | [react/react-native](https://github.com/react/react-native)<br><sub>A framework for building native applications using React</sub> | 126,994 | 25,426 | C++ |
-| 4 | [electron/electron](https://github.com/electron/electron)<br><sub>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</sub> | 124,047 | 17,899 | C++ |
-| 5 | [godotengine/godot](https://github.com/godotengine/godot)<br><sub>Godot Engine – Multi-platform 2D and 3D game engine</sub> | 120,574 | 27,597 | C++ |
-| 6 | [microsoft/terminal](https://github.com/microsoft/terminal)<br><sub>The new Windows Terminal and the original Windows console host, all in the same place!</sub> | 105,471 | 9,737 | C++ |
-| 7 | [opencv/opencv](https://github.com/opencv/opencv)<br><sub>Open Source Computer Vision Library</sub> | 91,680 | 57,105 | C++ |
-| 8 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br><sub>Bitcoin Core integration/staging tree</sub> | 90,733 | 39,464 | C++ |
-| 9 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)<br><sub>Tesseract Open Source OCR Engine (main repository)</sub> | 77,619 | 10,903 | C++ |
-| 10 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br><sub>GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</sub> | 77,328 | 8,250 | C++ |
-| 11 | [ocornut/imgui](https://github.com/ocornut/imgui)<br><sub>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</sub> | 77,261 | 12,106 | C++ |
-| 12 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)<br><sub>Protocol Buffers - Google's data interchange format</sub> | 72,193 | 16,355 | C++ |
-| 13 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)<br><sub>Tool for automatic PS5 executables porting to Linux and Windows</sub> | 59,967 | 5,831 | C++ |
-| 14 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex)<br><sub>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</sub> | 56,003 | 2,644 | C++ |
-| 15 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)<br><sub>Port of OpenAI's Whisper model in C/C++</sub> | 55,426 | 6,334 | C++ |
-| 16 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br><sub>ClickHouse® is a real-time analytics database management system</sub> | 51,062 | 9,304 | C++ |
-| 17 | [nlohmann/json](https://github.com/nlohmann/json)<br><sub>JSON for Modern C++</sub> | 50,979 | 7,554 | C++ |
-| 18 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br><sub>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</sub> | 50,366 | 2,959 | C++ |
-| 19 | [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)<br><sub>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</sub> | 47,027 | 3,860 | C++ |
-| 20 | [Niko1221/Strata](https://github.com/Niko1221/Strata)<br><sub>Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/A...</sub> | 46,749 | 5,215 | C++ |
-| 21 | [zen-browser/desktop](https://github.com/zen-browser/desktop)<br><sub>Welcome to a calmer internet</sub> | 45,947 | 2,017 | C++ |
-| 22 | [grpc/grpc](https://github.com/grpc/grpc)<br><sub>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</sub> | 45,459 | 11,343 | C++ |
-| 23 | [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine)<br><sub>Self-hosted game stream host for Moonlight.</sub> | 43,741 | 2,425 | C++ |
-| 24 | [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)<br><sub>C++那些事</sub> | 43,621 | 8,782 | C++ |
-| 25 | [aria2/aria2](https://github.com/aria2/aria2)<br><sub>aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It su...</sub> | 43,591 | 3,961 | C++ |
-| 26 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br><sub>DuckDB is a high-performance analytical database system</sub> | 43,233 | 4,176 | C++ |
-| 27 | [microsoft/BitNet](https://github.com/microsoft/BitNet)<br><sub>Official inference framework for 1-bit LLMs</sub> | 42,403 | 4,004 | C++ |
-| 28 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss)<br><sub>A library for efficient similarity search and clustering of dense vectors.</sub> | 41,854 | 4,659 | C++ |
-| 29 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)<br><sub>qBittorrent BitTorrent client</sub> | 41,816 | 5,003 | C++ |
-| 30 | [aseprite/aseprite](https://github.com/aseprite/aseprite)<br><sub>Animated sprite editor & pixel art tool (Windows, macOS, Linux)</sub> | 41,083 | 9,542 | C++ |
-| 31 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br><sub>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</sub> | 40,745 | 2,205 | C++ |
-| 32 | [google/googletest](https://github.com/google/googletest)<br><sub>GoogleTest - Google Testing and Mocking Framework</sub> | 39,767 | 10,979 | C++ |
-| 33 | [google/leveldb](https://github.com/google/leveldb)<br><sub>LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to st...</sub> | 39,567 | 8,253 | C++ |
-| 34 | [huihut/interview](https://github.com/huihut/interview)<br><sub>📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge...</sub> | 38,327 | 8,055 | C++ |
-| 35 | [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)<br><sub>Cross-platform, customizable ML solutions for live and streaming media.</sub> | 37,780 | 6,242 | C++ |
-| 36 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br><sub>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</sub> | 35,683 | 6,439 | C++ |
-| 37 | [aristocratos/btop](https://github.com/aristocratos/btop)<br><sub>A monitor of resources</sub> | 35,495 | 1,274 | C++ |
-| 38 | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)<br><sub>Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ fo...</sub> | 34,904 | 7,904 | C++ |
-| 39 | [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br><sub>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</sub> | 34,608 | 8,038 | C++ |
-| 40 | [BVLC/caffe](https://github.com/BVLC/caffe)<br><sub>Caffe: a fast open framework for deep learning.</sub> | 34,555 | 18,370 | C++ |
-| 41 | [microsoft/WSL](https://github.com/microsoft/WSL)<br><sub>Windows Subsystem for Linux</sub> | 34,448 | 1,898 | C++ |
-| 42 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br><sub>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</sub> | 34,340 | 2,918 | C++ |
-| 43 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)<br><sub>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic...</sub> | 34,046 | 4,891 | C++ |
-| 44 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity)<br><sub>The Serenity Operating System 🐞</sub> | 33,985 | 3,492 | C++ |
-| 45 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)<br><sub>Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is ex...</sub> | 33,969 | 1,626 | C++ |
-| 46 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)<br><sub>Telegram Desktop messaging app</sub> | 33,646 | 7,696 | C++ |
-| 47 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)<br><sub>An MCP-based chatbot \| 一个基于MCP的聊天机器人</sub> | 33,594 | 8,039 | C++ |
-| 48 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)<br><sub>Compatibility tool for Steam Play based on Wine and additional components</sub> | 33,332 | 1,770 | C++ |
-| 49 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)<br><sub>Android real-time display control software</sub> | 32,986 | 3,891 | C++ |
-| 50 | [meta/rocksdb](https://github.com/meta/rocksdb)<br><sub>A library that provides an embeddable, persistent key-value store for fast storage.</sub> | 32,301 | 7,037 | C++ |
-| 51 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)<br><sub>A modern replacement for Redis and Memcached</sub> | 31,902 | 1,299 | C++ |
-| 52 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)<br><sub>Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:</sub> | 31,664 | 2,128 | C++ |
-| 53 | [deskflow/deskflow](https://github.com/deskflow/deskflow)<br><sub>Share a single keyboard and mouse between multiple computers.</sub> | 31,569 | 5,186 | C++ |
-| 54 | [meta/folly](https://github.com/meta/folly)<br><sub>An open-source C++ library developed and used at Facebook.</sub> | 30,567 | 5,885 | C++ |
-| 55 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)<br><sub>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</sub> | 30,098 | 2,063 | C++ |
-| 56 | [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)<br><sub>Notepad++ official repository</sub> | 29,949 | 5,449 | C++ |
-| 57 | [gabime/spdlog](https://github.com/gabime/spdlog)<br><sub>Fast C++ logging library.</sub> | 29,829 | 5,334 | C++ |
-| 58 | [ossrs/srs](https://github.com/ossrs/srs)<br><sub>SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS,...</sub> | 29,448 | 5,707 | C++ |
-| 59 | [ariya/phantomjs](https://github.com/ariya/phantomjs)<br><sub>Scriptable Headless Browser</sub> | 29,409 | 5,643 | C++ |
-| 60 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy)<br><sub>Cloud-native high-performance edge/middle/service proxy</sub> | 29,276 | 5,749 | C++ |
-| 61 | [ml-explore/mlx](https://github.com/ml-explore/mlx)<br><sub>MLX: An array framework for Apple silicon</sub> | 29,245 | 2,458 | C++ |
-| 62 | [dmlc/xgboost](https://github.com/dmlc/xgboost)<br><sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and m...</sub> | 29,012 | 8,985 | C++ |
-| 63 | [mongodb/mongo](https://github.com/mongodb/mongo)<br><sub>The MongoDB Database</sub> | 28,704 | 5,862 | C++ |
-| 64 | [taichi-dev/taichi](https://github.com/taichi-dev/taichi)<br><sub>Productive, portable, and performant GPU programming in Python.</sub> | 28,471 | 2,391 | C++ |
-| 65 | [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)<br><sub>Emscripten: An LLVM-to-WebAssembly Compiler</sub> | 27,791 | 3,595 | C++ |
-| 66 | [typesense/typesense](https://github.com/typesense/typesense)<br><sub>Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tole...</sub> | 27,165 | 1,036 | C++ |
+| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br><sub>An Open Source Machine Learning Framework for Everyone</sub> | 201,788 | 77,418 | C++ |
+| 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)<br><sub>LLM inference in C/C++</sub> | 136,161 | 25,965 | C++ |
+| 3 | [react/react-native](https://github.com/react/react-native)<br><sub>A framework for building native applications using React</sub> | 126,993 | 25,421 | C++ |
+| 4 | [electron/electron](https://github.com/electron/electron)<br><sub>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</sub> | 124,067 | 17,894 | C++ |
+| 5 | [godotengine/godot](https://github.com/godotengine/godot)<br><sub>Godot Engine – Multi-platform 2D and 3D game engine</sub> | 120,624 | 27,616 | C++ |
+| 6 | [microsoft/terminal](https://github.com/microsoft/terminal)<br><sub>The new Windows Terminal and the original Windows console host, all in the same place!</sub> | 105,483 | 9,740 | C++ |
+| 7 | [opencv/opencv](https://github.com/opencv/opencv)<br><sub>Open Source Computer Vision Library</sub> | 91,691 | 57,124 | C++ |
+| 8 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br><sub>Bitcoin Core integration/staging tree</sub> | 90,747 | 39,467 | C++ |
+| 9 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)<br><sub>Tesseract Open Source OCR Engine (main repository)</sub> | 77,626 | 10,906 | C++ |
+| 10 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br><sub>GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</sub> | 77,330 | 8,252 | C++ |
+| 11 | [ocornut/imgui](https://github.com/ocornut/imgui)<br><sub>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</sub> | 77,218 | 12,109 | C++ |
+| 12 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)<br><sub>Protocol Buffers - Google's data interchange format</sub> | 72,192 | 16,359 | C++ |
+| 13 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)<br><sub>Tool for automatic PS5 executables porting to Linux and Windows</sub> | 60,833 | 5,907 | C++ |
+| 14 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex)<br><sub>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</sub> | 56,022 | 2,646 | C++ |
+| 15 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)<br><sub>Port of OpenAI's Whisper model in C/C++</sub> | 55,445 | 6,343 | C++ |
+| 16 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br><sub>ClickHouse® is a real-time analytics database management system</sub> | 51,079 | 9,309 | C++ |
+| 17 | [nlohmann/json](https://github.com/nlohmann/json)<br><sub>JSON for Modern C++</sub> | 50,963 | 7,570 | C++ |
+| 18 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br><sub>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</sub> | 50,373 | 2,959 | C++ |
+| 19 | [Niko1221/Strata](https://github.com/Niko1221/Strata)<br><sub>Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/A...</sub> | 47,387 | 5,307 | C++ |
+| 20 | [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)<br><sub>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</sub> | 47,037 | 3,861 | C++ |
+| 21 | [zen-browser/desktop](https://github.com/zen-browser/desktop)<br><sub>Welcome to a calmer internet</sub> | 45,967 | 2,019 | C++ |
+| 22 | [grpc/grpc](https://github.com/grpc/grpc)<br><sub>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</sub> | 45,458 | 11,343 | C++ |
+| 23 | [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine)<br><sub>Self-hosted game stream host for Moonlight.</sub> | 43,804 | 2,434 | C++ |
+| 24 | [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)<br><sub>C++那些事</sub> | 43,619 | 8,780 | C++ |
+| 25 | [aria2/aria2](https://github.com/aria2/aria2)<br><sub>aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It su...</sub> | 43,595 | 3,961 | C++ |
+| 26 | [duckdb/duckdb](https://github.com/duckdb/duckdb)<br><sub>DuckDB is a high-performance analytical database system</sub> | 43,271 | 4,181 | C++ |
+| 27 | [microsoft/BitNet](https://github.com/microsoft/BitNet)<br><sub>Official inference framework for 1-bit LLMs</sub> | 42,441 | 4,010 | C++ |
+| 28 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss)<br><sub>A library for efficient similarity search and clustering of dense vectors.</sub> | 41,889 | 4,662 | C++ |
+| 29 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)<br><sub>qBittorrent BitTorrent client</sub> | 41,843 | 5,004 | C++ |
+| 30 | [aseprite/aseprite](https://github.com/aseprite/aseprite)<br><sub>Animated sprite editor & pixel art tool (Windows, macOS, Linux)</sub> | 41,110 | 9,555 | C++ |
+| 31 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br><sub>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</sub> | 40,763 | 2,204 | C++ |
+| 32 | [google/googletest](https://github.com/google/googletest)<br><sub>GoogleTest - Google Testing and Mocking Framework</sub> | 39,772 | 10,999 | C++ |
+| 33 | [google/leveldb](https://github.com/google/leveldb)<br><sub>LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to st...</sub> | 39,573 | 8,253 | C++ |
+| 34 | [huihut/interview](https://github.com/huihut/interview)<br><sub>📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge...</sub> | 38,332 | 8,055 | C++ |
+| 35 | [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)<br><sub>Cross-platform, customizable ML solutions for live and streaming media.</sub> | 37,797 | 6,244 | C++ |
+| 36 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br><sub>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</sub> | 35,724 | 6,456 | C++ |
+| 37 | [aristocratos/btop](https://github.com/aristocratos/btop)<br><sub>A monitor of resources</sub> | 35,502 | 1,273 | C++ |
+| 38 | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)<br><sub>Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ fo...</sub> | 34,907 | 7,906 | C++ |
+| 39 | [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br><sub>OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</sub> | 34,612 | 8,037 | C++ |
+| 40 | [BVLC/caffe](https://github.com/BVLC/caffe)<br><sub>Caffe: a fast open framework for deep learning.</sub> | 34,554 | 18,369 | C++ |
+| 41 | [microsoft/WSL](https://github.com/microsoft/WSL)<br><sub>Windows Subsystem for Linux</sub> | 34,459 | 1,898 | C++ |
+| 42 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br><sub>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</sub> | 34,355 | 2,922 | C++ |
+| 43 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)<br><sub>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic...</sub> | 34,127 | 4,892 | C++ |
+| 44 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity)<br><sub>The Serenity Operating System 🐞</sub> | 33,984 | 3,491 | C++ |
+| 45 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)<br><sub>Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is ex...</sub> | 33,970 | 1,625 | C++ |
+| 46 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)<br><sub>Telegram Desktop messaging app</sub> | 33,663 | 7,703 | C++ |
+| 47 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)<br><sub>An MCP-based chatbot \| 一个基于MCP的聊天机器人</sub> | 33,660 | 8,080 | C++ |
+| 48 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)<br><sub>Compatibility tool for Steam Play based on Wine and additional components</sub> | 33,341 | 1,771 | C++ |
+| 49 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)<br><sub>Android real-time display control software</sub> | 33,000 | 3,898 | C++ |
+| 50 | [meta/rocksdb](https://github.com/meta/rocksdb)<br><sub>A library that provides an embeddable, persistent key-value store for fast storage.</sub> | 32,313 | 7,035 | C++ |
+| 51 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)<br><sub>A modern replacement for Redis and Memcached</sub> | 31,918 | 1,299 | C++ |
+| 52 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)<br><sub>Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:</sub> | 31,697 | 2,136 | C++ |
+| 53 | [deskflow/deskflow](https://github.com/deskflow/deskflow)<br><sub>Share a single keyboard and mouse between multiple computers.</sub> | 31,615 | 5,187 | C++ |
+| 54 | [meta/folly](https://github.com/meta/folly)<br><sub>An open-source C++ library developed and used at Facebook.</sub> | 30,568 | 5,885 | C++ |
+| 55 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)<br><sub>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</sub> | 30,116 | 2,066 | C++ |
+| 56 | [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)<br><sub>Notepad++ official repository</sub> | 29,964 | 5,448 | C++ |
+| 57 | [gabime/spdlog](https://github.com/gabime/spdlog)<br><sub>Fast C++ logging library.</sub> | 29,806 | 5,334 | C++ |
+| 58 | [ossrs/srs](https://github.com/ossrs/srs)<br><sub>SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS,...</sub> | 29,450 | 5,706 | C++ |
+| 59 | [ariya/phantomjs](https://github.com/ariya/phantomjs)<br><sub>Scriptable Headless Browser</sub> | 29,410 | 5,642 | C++ |
+| 60 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy)<br><sub>Cloud-native high-performance edge/middle/service proxy</sub> | 29,284 | 5,748 | C++ |
+| 61 | [ml-explore/mlx](https://github.com/ml-explore/mlx)<br><sub>MLX: An array framework for Apple silicon</sub> | 29,262 | 2,461 | C++ |
+| 62 | [dmlc/xgboost](https://github.com/dmlc/xgboost)<br><sub>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and m...</sub> | 29,015 | 8,984 | C++ |
+| 63 | [mongodb/mongo](https://github.com/mongodb/mongo)<br><sub>The MongoDB Database</sub> | 28,707 | 5,858 | C++ |
+| 64 | [taichi-dev/taichi](https://github.com/taichi-dev/taichi)<br><sub>Productive, portable, and performant GPU programming in Python.</sub> | 28,474 | 2,391 | C++ |
+| 65 | [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)<br><sub>Emscripten: An LLVM-to-WebAssembly Compiler</sub> | 27,792 | 3,594 | C++ |
+| 66 | [typesense/typesense](https://github.com/typesense/typesense)<br><sub>Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tole...</sub> | 27,167 | 1,035 | C++ |
 | 67 | [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)<br><sub>The open-source database for the realtime web.</sub> | 27,014 | 1,853 | C++ |
-| 68 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)<br><sub>An open autonomous driving platform</sub> | 26,916 | 9,962 | C++ |
-| 69 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)<br><sub>DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on device...</sub> | 26,774 | 4,068 | C++ |
-| 70 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)<br><sub>Distribute and run LLMs with a single file.</sub> | 26,690 | 1,683 | C++ |
-| 71 | [google/flatbuffers](https://github.com/google/flatbuffers)<br><sub>FlatBuffers: Memory Efficient Serialization Library</sub> | 26,657 | 3,739 | C++ |
-| 72 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br><sub>WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and...</sub> | 26,634 | 1,821 | C++ |
-| 73 | [fmtlib/fmt](https://github.com/fmtlib/fmt)<br><sub>A modern formatting library</sub> | 25,980 | 3,113 | C++ |
-| 74 | [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)<br><sub>📚 Modern C++ Tutorial: C++11 to C++26 On the Fly \| https://changkun.de/modern-cpp/</sub> | 25,968 | 3,112 | C++ |
-| 75 | [argotorg/solidity](https://github.com/argotorg/solidity)<br><sub>Solidity, the Smart Contract Programming Language</sub> | 25,779 | 6,183 | C++ |
-| 76 | [v8/v8](https://github.com/v8/v8)<br><sub>The official mirror of the V8 Git repository</sub> | 25,344 | 4,361 | C++ |
-| 77 | [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)<br><sub>Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Databas...</sub> | 24,821 | 2,385 | C++ |
-| 78 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)<br><sub>《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients.</sub> | 24,717 | 2,966 | C++ |
-| 79 | [simdjson/simdjson](https://github.com/simdjson/simdjson)<br><sub>Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Ap...</sub> | 24,597 | 1,367 | C++ |
-| 80 | [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)<br><sub>A brief computer graphics / rendering course</sub> | 24,567 | 2,315 | C++ |
-| 81 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)<br><sub>PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训...</sub> | 24,148 | 6,021 | C++ |
-| 82 | [Tencent/ncnn](https://github.com/Tencent/ncnn)<br><sub>ncnn is a high-performance neural network inference framework optimized for the mobile platform</sub> | 24,086 | 4,559 | C++ |
-| 83 | [osquery/osquery](https://github.com/osquery/osquery)<br><sub>SQL powered operating system instrumentation, monitoring, and analytics.</sub> | 23,791 | 2,654 | C++ |
+| 68 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)<br><sub>An open autonomous driving platform</sub> | 26,914 | 9,961 | C++ |
+| 69 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)<br><sub>DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on device...</sub> | 26,774 | 4,066 | C++ |
+| 70 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)<br><sub>Distribute and run LLMs with a single file.</sub> | 26,703 | 1,682 | C++ |
+| 71 | [google/flatbuffers](https://github.com/google/flatbuffers)<br><sub>FlatBuffers: Memory Efficient Serialization Library</sub> | 26,657 | 3,738 | C++ |
+| 72 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br><sub>WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and...</sub> | 26,635 | 1,819 | C++ |
+| 73 | [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)<br><sub>📚 Modern C++ Tutorial: C++11 to C++26 On the Fly \| https://changkun.de/modern-cpp/</sub> | 25,972 | 3,112 | C++ |
+| 74 | [fmtlib/fmt](https://github.com/fmtlib/fmt)<br><sub>A modern formatting library</sub> | 25,946 | 3,113 | C++ |
+| 75 | [argotorg/solidity](https://github.com/argotorg/solidity)<br><sub>Solidity, the Smart Contract Programming Language</sub> | 25,778 | 6,181 | C++ |
+| 76 | [v8/v8](https://github.com/v8/v8)<br><sub>The official mirror of the V8 Git repository</sub> | 25,347 | 4,361 | C++ |
+| 77 | [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)<br><sub>Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Databas...</sub> | 24,828 | 2,385 | C++ |
+| 78 | [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)<br><sub>《明日方舟》小助手，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients.</sub> | 24,743 | 2,973 | C++ |
+| 79 | [simdjson/simdjson](https://github.com/simdjson/simdjson)<br><sub>Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Ap...</sub> | 24,602 | 1,368 | C++ |
+| 80 | [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)<br><sub>A brief computer graphics / rendering course</sub> | 24,572 | 2,316 | C++ |
+| 81 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)<br><sub>PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训...</sub> | 24,149 | 6,021 | C++ |
+| 82 | [Tencent/ncnn](https://github.com/Tencent/ncnn)<br><sub>ncnn is a high-performance neural network inference framework optimized for the mobile platform</sub> | 24,095 | 4,560 | C++ |
+| 83 | [osquery/osquery](https://github.com/osquery/osquery)<br><sub>SQL powered operating system instrumentation, monitoring, and analytics.</sub> | 23,797 | 2,653 | C++ |
 | 84 | [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) | 23,216 | 3,230 | C++ |
-| 85 | [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)<br><sub>Karabiner-Elements is a powerful tool for customizing keyboards on macOS</sub> | 23,139 | 966 | C++ |
-| 86 | [imputnet/helium](https://github.com/imputnet/helium)<br><sub>Private, fast, and honest web browser</sub> | 22,900 | 710 | C++ |
-| 87 | [k4yt3x/video2x](https://github.com/k4yt3x/video2x)<br><sub>A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.</sub> | 22,846 | 1,999 | C++ |
-| 88 | [scottbez1/smartknob](https://github.com/scottbez1/smartknob)<br><sub>Haptic input knob with software-defined endstops and virtual detents</sub> | 22,326 | 1,285 | C++ |
-| 89 | [blender/blender](https://github.com/blender/blender)<br><sub>Official mirror of Blender</sub> | 22,321 | 3,649 | C++ |
-| 90 | [catchorg/Catch2](https://github.com/catchorg/Catch2)<br><sub>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in...</sub> | 21,588 | 3,436 | C++ |
-| 91 | [xbmc/xbmc](https://github.com/xbmc/xbmc)<br><sub>Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital me...</sub> | 21,526 | 6,680 | C++ |
-| 92 | [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)<br><sub>Command & Conquer: Remastered Collection</sub> | 21,372 | 5,455 | C++ |
-| 93 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)<br><sub>A lightweight utility that makes the Windows taskbar translucent/transparent.</sub> | 20,904 | 1,287 | C++ |
+| 85 | [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)<br><sub>Karabiner-Elements is a powerful tool for customizing keyboards on macOS</sub> | 23,141 | 966 | C++ |
+| 86 | [imputnet/helium](https://github.com/imputnet/helium)<br><sub>Private, fast, and honest web browser</sub> | 22,948 | 715 | C++ |
+| 87 | [k4yt3x/video2x](https://github.com/k4yt3x/video2x)<br><sub>A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.</sub> | 22,857 | 1,999 | C++ |
+| 88 | [blender/blender](https://github.com/blender/blender)<br><sub>Official mirror of Blender</sub> | 22,362 | 3,658 | C++ |
+| 89 | [scottbez1/smartknob](https://github.com/scottbez1/smartknob)<br><sub>Haptic input knob with software-defined endstops and virtual detents</sub> | 22,330 | 1,286 | C++ |
+| 90 | [catchorg/Catch2](https://github.com/catchorg/Catch2)<br><sub>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in...</sub> | 21,592 | 3,438 | C++ |
+| 91 | [xbmc/xbmc](https://github.com/xbmc/xbmc)<br><sub>Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital me...</sub> | 21,531 | 6,681 | C++ |
+| 92 | [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)<br><sub>Command & Conquer: Remastered Collection</sub> | 21,372 | 5,456 | C++ |
+| 93 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)<br><sub>A lightweight utility that makes the Windows taskbar translucent/transparent.</sub> | 20,926 | 1,289 | C++ |
 | 94 | [apache/mxnet](https://github.com/apache/mxnet)<br><sub>Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;...</sub> | 20,791 | 6,666 | C++ |
-| 95 | [google/filament](https://github.com/google/filament)<br><sub>Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2</sub> | 20,786 | 2,316 | C++ |
-| 96 | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)<br><sub>PlayStation 3 emulator and debugger</sub> | 20,488 | 2,596 | C++ |
-| 97 | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br><sub>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</sub> | 20,437 | 1,533 | C++ |
-| 98 | [rizinorg/cutter](https://github.com/rizinorg/cutter)<br><sub>Free and Open Source Reverse Engineering Platform powered by rizin</sub> | 20,250 | 1,557 | C++ |
-| 99 | [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)<br><sub>🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.</sub> | 20,065 | 1,491 | C++ |
-| 100 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)<br><sub>Sandboxie Plus & Classic</sub> | 20,049 | 2,098 | C++ |
+| 95 | [google/filament](https://github.com/google/filament)<br><sub>Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2</sub> | 20,789 | 2,317 | C++ |
+| 96 | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)<br><sub>PlayStation 3 emulator and debugger</sub> | 20,498 | 2,598 | C++ |
+| 97 | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br><sub>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</sub> | 20,445 | 1,533 | C++ |
+| 98 | [rizinorg/cutter](https://github.com/rizinorg/cutter)<br><sub>Free and Open Source Reverse Engineering Platform powered by rizin</sub> | 20,255 | 1,559 | C++ |
+| 99 | [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)<br><sub>🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.</sub> | 20,070 | 1,491 | C++ |
+| 100 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)<br><sub>Sandboxie Plus & Classic</sub> | 20,061 | 2,098 | C++ |
